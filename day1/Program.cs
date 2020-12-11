@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace day1
 {
@@ -17,12 +16,11 @@ namespace day1
 1157, 1990, 1210, 1779, 1201, 1784, 1961, 1476, 1861, 1468};
             
             Array.Sort(input); 
-            input.ToList().ForEach(i => Console.Write($"{i.ToString()} "));
             
             var currentFrom = 0;
-            var currentTo = input.Count()-1;
+            var currentTo = input.Length-1;
 
-            while (input[currentFrom] + input[currentTo] != 2020 || input[currentFrom] <= input.Count()-1){
+            while (input[currentFrom] + input[currentTo] != 2020 || input[currentFrom] <= input.Length-1){
                 currentFrom++;
                 Console.WriteLine($"new currentFrom:{currentFrom} element value: {input[currentFrom]}");
                 while (input[currentFrom] + input[currentTo] > 2020){
