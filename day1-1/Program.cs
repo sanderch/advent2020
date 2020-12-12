@@ -21,21 +21,19 @@ namespace day1_1
             var currentTo = input.Length-1;
             var currentThird = 1;
 
-            while (input[currentFrom] + input[currentTo] + input[currentThird] != 2020 || currentFrom<= input.Length-1){
-                currentFrom++;
-                Console.WriteLine($"new currentFrom:{currentFrom} element value: {input[currentFrom]}");
+            while (input[currentFrom] + input[currentTo] + input[currentThird] != 2020 && currentFrom <= input.Length-1){
+                Console.WriteLine($"new currentFrom:{++currentFrom} element value: {input[currentFrom]}");
 
                 while (input[currentFrom] + input[currentTo] + input[currentThird] > 2020){
-                    currentTo--;
-                    Console.WriteLine($"new currentTo:{currentTo} element value: {input[currentTo]}");
-                    currentThird = currentFrom;
-                    while ((input[currentFrom] + input[currentTo] + input[currentThird] > 2020) || (currentThird == currentTo-1)){
-                        currentThird++;
-                        Console.WriteLine($"new currentThird:{currentThird} element value: {input[currentThird]}");
+                    Console.Write($"new currentTo:{--currentTo}.");
+                    Console.WriteLine($" element value: {input[currentTo]}");
+                    currentThird = 0;
+                    while ((input[currentFrom] + input[currentTo] + input[currentThird] < 2020) && (currentThird <= currentFrom)){
+                        Console.WriteLine($"new currentThird:{++currentThird} element value: {input[currentThird]}");
                     }
                 }
             }
-            Console.WriteLine($"{input[currentFrom]} + {input[currentTo]} = {(input[currentFrom] + input[currentTo]).ToString()}. Answer: {(input[currentFrom] * input[currentTo]).ToString()}");
+            Console.WriteLine($"{input[currentFrom]} + {input[currentTo]}  + {input[currentThird]} = {(input[currentFrom] + input[currentTo] + input[currentThird]).ToString()}. Answer: {(input[currentFrom] * input[currentTo] * input[currentThird]).ToString()}");
         }
     }
 }
