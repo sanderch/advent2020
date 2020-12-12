@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace day1
+namespace day1_1
 {
     class Program
     {
@@ -19,21 +19,23 @@ namespace day1
             
             var currentFrom = 0;
             var currentTo = input.Length-1;
-            var iterations = 0;
+            var currentThird = 1;
 
-            while (input[currentFrom] + input[currentTo] != 2020 || input[currentFrom] <= input.Length-1){
+            while (input[currentFrom] + input[currentTo] + input[currentThird] != 2020 || currentFrom<= input.Length-1){
                 currentFrom++;
                 Console.WriteLine($"new currentFrom:{currentFrom} element value: {input[currentFrom]}");
-                while (input[currentFrom] + input[currentTo] > 2020){
+
+                while (input[currentFrom] + input[currentTo] + input[currentThird] > 2020){
                     currentTo--;
                     Console.WriteLine($"new currentTo:{currentTo} element value: {input[currentTo]}");
-                    iterations++;
+                    currentThird = currentFrom;
+                    while ((input[currentFrom] + input[currentTo] + input[currentThird] > 2020) || (currentThird == currentTo-1)){
+                        currentThird++;
+                        Console.WriteLine($"new currentThird:{currentThird} element value: {input[currentThird]}");
+                    }
                 }
             }
-
-            int answer = input[currentFrom] * input[currentTo];
-            Console.WriteLine($"{input[currentFrom]} + {input[currentTo]} = {(input[currentFrom] + input[currentTo]).ToString()}. Answer: {answer.ToString()}");
-            Console.WriteLine($"Done in {iterations} iterations.");
+            Console.WriteLine($"{input[currentFrom]} + {input[currentTo]} = {(input[currentFrom] + input[currentTo]).ToString()}. Answer: {(input[currentFrom] * input[currentTo]).ToString()}");
         }
     }
 }
