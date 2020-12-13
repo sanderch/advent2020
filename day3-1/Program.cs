@@ -7,13 +7,7 @@ namespace day3_1
     {
         static void Main(string[] args)
         {
-            //Console.Clear();
             var lines = File.ReadAllLines("data.txt");
-            //foreach (var line in lines)
-            // {
-            //    Console.WriteLine(line);    
-            //}
-            //Console.WriteLine("------------------------------");
 
             Console.WriteLine(GetTreeCount(lines, 1, 1));
             Console.WriteLine(GetTreeCount(lines, 1, 3));
@@ -38,9 +32,6 @@ namespace day3_1
                     currentPosition = currentPosition - (lines[currentLine].Length);
                 }
                 if (lines[currentLine][currentPosition] == '#') treeCount++;
-
-                //Console.Write(lines[currentLine]);
-                //Console.WriteLine($"Line:{currentLine} Position:{currentPosition} Symbol:{lines[currentLine][currentPosition]}");
             }
 
             return treeCount;
