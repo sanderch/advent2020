@@ -1,0 +1,15 @@
+{
+    "configurations": {
+        "launch": {
+            "adapter": "netcoredbg",
+            "configuration": {
+                "args": [],
+                "cwd": "${workspaceRoot}",
+                "program": "${workspaceRoot}/bin/Debug/net5.0/day4-2.dll",
+                "request": "launch",
+                "request1": "attach",
+                "stopAtEntry": true
+            }
+        }
+    }
+}
