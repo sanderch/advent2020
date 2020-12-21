@@ -11,21 +11,34 @@ namespace day6_1
             var dataTxt = File.ReadAllText("data.txt");
             var groupData = dataTxt.Split("\n\n");
             var result = 0;
-            foreach (var item in groupData)
+            foreach (var group in groupData)
             {
+                Console.WriteLine(group);
+                var peopleCount = 1;
                 var dict = new Dictionary<char, int>();
-                foreach (var symbol in item)
+                foreach (var symbol in group)
                 {
-                    if (!char.IsLetter(symbol)) continue;
+                    if (symbol == '\n') {
+                        peopleCount++;
+                        continue;
+                    }
+                    // if (!char.IsLetter(symbol)) continue;
 
                     if (dict.ContainsKey(symbol))
                         dict[symbol]++;
                     else
                         dict.Add(symbol, 1);
                 }
-                result += dict.Count;
+                Console.WriteLine($"People: {peopleCount}");
+                foreach (var pair in dict)
+                {
+                    Console.WriteLine($"key: {pair.Key} Value: {pair.Value}");
+                    if (pair.Value == peopleCount){
+                        result++;
+                    } 
+                }
+                Console.WriteLine($"group result: {result}\n\n");
             }
-
             Console.WriteLine(result);
         }
     }

@@ -1,0 +1,10289 @@
+sukewbthnjdyv
+sjubpeyvx
+ouehaytkgzbv
+qfueimylvcrb
+People: 4
+key: s Value: 2
+key: u Value: 4
+key: k Value: 2
+key: e Value: 4
+key: w Value: 1
+key: b Value: 4
+key: t Value: 2
+key: h Value: 2
+key: n Value: 1
+key: j Value: 2
+key: d Value: 1
+key: y Value: 4
+key: v Value: 4
+key: p Value: 1
+key: x Value: 1
+key: o Value: 1
+key: a Value: 1
+key: g Value: 1
+key: z Value: 1
+key: q Value: 1
+key: f Value: 1
+key: i Value: 1
+key: m Value: 1
+key: l Value: 1
+key: c Value: 1
+key: r Value: 1
+group result: 5
+
+
+foyedvcm
+yfodemvc
+cydvomef
+fdvmocey
+yvefocmd
+People: 5
+key: f Value: 5
+key: o Value: 5
+key: y Value: 5
+key: e Value: 5
+key: d Value: 5
+key: v Value: 5
+key: c Value: 5
+key: m Value: 5
+group result: 13
+
+
+yizvxsnrhafmulctdp
+zvpnhusixraejywfcmt
+fxaiustovzhnkmrypc
+btcfymhrnapuvxwdisz
+People: 4
+key: y Value: 4
+key: i Value: 4
+key: z Value: 4
+key: v Value: 4
+key: x Value: 4
+key: s Value: 4
+key: n Value: 4
+key: r Value: 4
+key: h Value: 4
+key: a Value: 4
+key: f Value: 4
+key: m Value: 4
+key: u Value: 4
+key: l Value: 1
+key: c Value: 4
+key: t Value: 4
+key: d Value: 2
+key: p Value: 4
+key: e Value: 1
+key: j Value: 1
+key: w Value: 2
+key: o Value: 1
+key: k Value: 1
+key: b Value: 1
+group result: 29
+
+
+csiquwmeg
+jwmceusgq
+cwsuqgzea
+tudevlosqcbwgxk
+qewisgucr
+People: 5
+key: c Value: 5
+key: s Value: 5
+key: i Value: 2
+key: q Value: 5
+key: u Value: 5
+key: w Value: 5
+key: m Value: 2
+key: e Value: 5
+key: g Value: 5
+key: j Value: 1
+key: z Value: 1
+key: a Value: 1
+key: t Value: 1
+key: d Value: 1
+key: v Value: 1
+key: l Value: 1
+key: o Value: 1
+key: b Value: 1
+key: x Value: 1
+key: k Value: 1
+key: r Value: 1
+group result: 36
+
+
+knbiqdemv
+iknjmph
+yxtzsrumonk
+gkwmndqv
+People: 4
+key: k Value: 4
+key: n Value: 4
+key: b Value: 1
+key: i Value: 2
+key: q Value: 2
+key: d Value: 2
+key: e Value: 1
+key: m Value: 4
+key: v Value: 2
+key: j Value: 1
+key: p Value: 1
+key: h Value: 1
+key: y Value: 1
+key: x Value: 1
+key: t Value: 1
+key: z Value: 1
+key: s Value: 1
+key: r Value: 1
+key: u Value: 1
+key: o Value: 1
+key: g Value: 1
+key: w Value: 1
+group result: 39
+
+
+lmtuq
+lmt
+jultm
+wcltmegbk
+otmql
+People: 5
+key: l Value: 5
+key: m Value: 5
+key: t Value: 5
+key: u Value: 2
+key: q Value: 2
+key: j Value: 1
+key: w Value: 1
+key: c Value: 1
+key: e Value: 1
+key: g Value: 1
+key: b Value: 1
+key: k Value: 1
+key: o Value: 1
+group result: 42
+
+
+muw
+neumw
+rmuw
+mwu
+People: 4
+key: m Value: 4
+key: u Value: 4
+key: w Value: 4
+key: n Value: 1
+key: e Value: 1
+key: r Value: 1
+group result: 45
+
+
+kpqbneys
+kqebynps
+syqenpkb
+qkneybps
+bypkesnq
+People: 5
+key: k Value: 5
+key: p Value: 5
+key: q Value: 5
+key: b Value: 5
+key: n Value: 5
+key: e Value: 5
+key: y Value: 5
+key: s Value: 5
+group result: 53
+
+
+wguysaop
+suyphabtmocg
+prygsowua
+People: 3
+key: w Value: 2
+key: g Value: 3
+key: u Value: 3
+key: y Value: 3
+key: s Value: 3
+key: a Value: 3
+key: o Value: 3
+key: p Value: 3
+key: h Value: 1
+key: b Value: 1
+key: t Value: 1
+key: m Value: 1
+key: c Value: 1
+key: r Value: 1
+group result: 60
+
+
+zikctl
+spqelxygof
+jlm
+zlim
+hlvb
+People: 5
+key: z Value: 2
+key: i Value: 2
+key: k Value: 1
+key: c Value: 1
+key: t Value: 1
+key: l Value: 5
+key: s Value: 1
+key: p Value: 1
+key: q Value: 1
+key: e Value: 1
+key: x Value: 1
+key: y Value: 1
+key: g Value: 1
+key: o Value: 1
+key: f Value: 1
+key: j Value: 1
+key: m Value: 2
+key: h Value: 1
+key: v Value: 1
+key: b Value: 1
+group result: 61
+
+
+ejnypwcmsutbdkqf
+swfptbqucykmdn
+People: 2
+key: e Value: 1
+key: j Value: 1
+key: n Value: 2
+key: y Value: 2
+key: p Value: 2
+key: w Value: 2
+key: c Value: 2
+key: m Value: 2
+key: s Value: 2
+key: u Value: 2
+key: t Value: 2
+key: b Value: 2
+key: d Value: 2
+key: k Value: 2
+key: q Value: 2
+key: f Value: 2
+group result: 75
+
+
+qgcmfhdspiywu
+csuihkqpydf
+icqasudphfy
+People: 3
+key: q Value: 3
+key: g Value: 1
+key: c Value: 3
+key: m Value: 1
+key: f Value: 3
+key: h Value: 3
+key: d Value: 3
+key: s Value: 3
+key: p Value: 3
+key: i Value: 3
+key: y Value: 3
+key: w Value: 1
+key: u Value: 3
+key: k Value: 1
+key: a Value: 1
+group result: 85
+
+
+rcegxphy
+xpghcyer
+People: 2
+key: r Value: 2
+key: c Value: 2
+key: e Value: 2
+key: g Value: 2
+key: x Value: 2
+key: p Value: 2
+key: h Value: 2
+key: y Value: 2
+group result: 93
+
+
+idljrsopehmn
+xkzguawebtvqf
+People: 2
+key: i Value: 1
+key: d Value: 1
+key: l Value: 1
+key: j Value: 1
+key: r Value: 1
+key: s Value: 1
+key: o Value: 1
+key: p Value: 1
+key: e Value: 2
+key: h Value: 1
+key: m Value: 1
+key: n Value: 1
+key: x Value: 1
+key: k Value: 1
+key: z Value: 1
+key: g Value: 1
+key: u Value: 1
+key: a Value: 1
+key: w Value: 1
+key: b Value: 1
+key: t Value: 1
+key: v Value: 1
+key: q Value: 1
+key: f Value: 1
+group result: 94
+
+
+lohunty
+thonuyl
+olhunty
+People: 3
+key: l Value: 3
+key: o Value: 3
+key: h Value: 3
+key: u Value: 3
+key: n Value: 3
+key: t Value: 3
+key: y Value: 3
+group result: 101
+
+
+v
+lvgze
+v
+People: 3
+key: v Value: 3
+key: l Value: 1
+key: g Value: 1
+key: z Value: 1
+key: e Value: 1
+group result: 102
+
+
+z
+j
+s
+oae
+People: 4
+key: z Value: 1
+key: j Value: 1
+key: s Value: 1
+key: o Value: 1
+key: a Value: 1
+key: e Value: 1
+group result: 102
+
+
+mngbsztec
+zmxsgtyoeri
+gseztm
+ueltqmfzgs
+etsmnzfgc
+People: 5
+key: m Value: 5
+key: n Value: 2
+key: g Value: 5
+key: b Value: 1
+key: s Value: 5
+key: z Value: 5
+key: t Value: 5
+key: e Value: 5
+key: c Value: 2
+key: x Value: 1
+key: y Value: 1
+key: o Value: 1
+key: r Value: 1
+key: i Value: 1
+key: u Value: 1
+key: l Value: 1
+key: q Value: 1
+key: f Value: 2
+group result: 108
+
+
+zqmbvy
+yq
+oyq
+People: 3
+key: z Value: 1
+key: q Value: 3
+key: m Value: 1
+key: b Value: 1
+key: v Value: 1
+key: y Value: 3
+key: o Value: 1
+group result: 110
+
+
+cyhaeltuxkwfzgo
+wdoqfjltnipsvkcxhyze
+ytzkrlwohfcex
+yhzetxbcflokw
+People: 4
+key: c Value: 4
+key: y Value: 4
+key: h Value: 4
+key: a Value: 1
+key: e Value: 4
+key: l Value: 4
+key: t Value: 4
+key: u Value: 1
+key: x Value: 4
+key: k Value: 4
+key: w Value: 4
+key: f Value: 4
+key: z Value: 4
+key: g Value: 1
+key: o Value: 4
+key: d Value: 1
+key: q Value: 1
+key: j Value: 1
+key: n Value: 1
+key: i Value: 1
+key: p Value: 1
+key: s Value: 1
+key: v Value: 1
+key: r Value: 1
+key: b Value: 1
+group result: 122
+
+
+vtxjhymsfcw
+swtmghqzfv
+vwtmslhf
+ftzhpdrknwmovas
+mvwfbhtus
+People: 5
+key: v Value: 5
+key: t Value: 5
+key: x Value: 1
+key: j Value: 1
+key: h Value: 5
+key: y Value: 1
+key: m Value: 5
+key: s Value: 5
+key: f Value: 5
+key: c Value: 1
+key: w Value: 5
+key: g Value: 1
+key: q Value: 1
+key: z Value: 2
+key: l Value: 1
+key: p Value: 1
+key: d Value: 1
+key: r Value: 1
+key: k Value: 1
+key: n Value: 1
+key: o Value: 1
+key: a Value: 1
+key: b Value: 1
+key: u Value: 1
+group result: 129
+
+
+povrg
+gvr
+rxgv
+People: 3
+key: p Value: 1
+key: o Value: 1
+key: v Value: 3
+key: r Value: 3
+key: g Value: 3
+key: x Value: 1
+group result: 132
+
+
+npymvdcjhkz
+cygihpjndmkzv
+People: 2
+key: n Value: 2
+key: p Value: 2
+key: y Value: 2
+key: m Value: 2
+key: v Value: 2
+key: d Value: 2
+key: c Value: 2
+key: j Value: 2
+key: h Value: 2
+key: k Value: 2
+key: z Value: 2
+key: g Value: 1
+key: i Value: 1
+group result: 143
+
+
+pz
+zxpu
+pahz
+oypjdzn
+cmpz
+People: 5
+key: p Value: 5
+key: z Value: 5
+key: x Value: 1
+key: u Value: 1
+key: a Value: 1
+key: h Value: 1
+key: o Value: 1
+key: y Value: 1
+key: j Value: 1
+key: d Value: 1
+key: n Value: 1
+key: c Value: 1
+key: m Value: 1
+group result: 145
+
+
+vup
+vud
+vu
+uv
+vu
+People: 5
+key: v Value: 5
+key: u Value: 5
+key: p Value: 1
+key: d Value: 1
+group result: 147
+
+
+jzqwy
+qcrsjubnd
+jnysqduf
+qtphglmaejiov
+People: 4
+key: j Value: 4
+key: z Value: 1
+key: q Value: 4
+key: w Value: 1
+key: y Value: 2
+key: c Value: 1
+key: r Value: 1
+key: s Value: 2
+key: u Value: 2
+key: b Value: 1
+key: n Value: 2
+key: d Value: 2
+key: f Value: 1
+key: t Value: 1
+key: p Value: 1
+key: h Value: 1
+key: g Value: 1
+key: l Value: 1
+key: m Value: 1
+key: a Value: 1
+key: e Value: 1
+key: i Value: 1
+key: o Value: 1
+key: v Value: 1
+group result: 149
+
+
+fsyhkgw
+guypskhw
+People: 2
+key: f Value: 1
+key: s Value: 2
+key: y Value: 2
+key: h Value: 2
+key: k Value: 2
+key: g Value: 2
+key: w Value: 2
+key: u Value: 1
+key: p Value: 1
+group result: 155
+
+
+obdj
+ibv
+People: 2
+key: o Value: 1
+key: b Value: 2
+key: d Value: 1
+key: j Value: 1
+key: i Value: 1
+key: v Value: 1
+group result: 156
+
+
+lrt
+kzafv
+People: 2
+key: l Value: 1
+key: r Value: 1
+key: t Value: 1
+key: k Value: 1
+key: z Value: 1
+key: a Value: 1
+key: f Value: 1
+key: v Value: 1
+group result: 156
+
+
+ozax
+l
+l
+l
+w
+People: 5
+key: o Value: 1
+key: z Value: 1
+key: a Value: 1
+key: x Value: 1
+key: l Value: 3
+key: w Value: 1
+group result: 156
+
+
+lzbdyveqpj
+ekrocfbags
+People: 2
+key: l Value: 1
+key: z Value: 1
+key: b Value: 2
+key: d Value: 1
+key: y Value: 1
+key: v Value: 1
+key: e Value: 2
+key: q Value: 1
+key: p Value: 1
+key: j Value: 1
+key: k Value: 1
+key: r Value: 1
+key: o Value: 1
+key: c Value: 1
+key: f Value: 1
+key: a Value: 1
+key: g Value: 1
+key: s Value: 1
+group result: 158
+
+
+hidv
+hixduv
+uvdifh
+ndivzh
+gdhcvtime
+People: 5
+key: h Value: 5
+key: i Value: 5
+key: d Value: 5
+key: v Value: 5
+key: x Value: 1
+key: u Value: 2
+key: f Value: 1
+key: n Value: 1
+key: z Value: 1
+key: g Value: 1
+key: c Value: 1
+key: t Value: 1
+key: m Value: 1
+key: e Value: 1
+group result: 162
+
+
+mdyrbfujolche
+qvldabjmuc
+People: 2
+key: m Value: 2
+key: d Value: 2
+key: y Value: 1
+key: r Value: 1
+key: b Value: 2
+key: f Value: 1
+key: u Value: 2
+key: j Value: 2
+key: o Value: 1
+key: l Value: 2
+key: c Value: 2
+key: h Value: 1
+key: e Value: 1
+key: q Value: 1
+key: v Value: 1
+key: a Value: 1
+group result: 169
+
+
+o
+i
+e
+People: 3
+key: o Value: 1
+key: i Value: 1
+key: e Value: 1
+group result: 169
+
+
+cwjoesuyvbmfx
+yzafdkcevjglshobmx
+ofscpvjrinxeytbmq
+mvxcfuesywjbgo
+People: 4
+key: c Value: 4
+key: w Value: 2
+key: j Value: 4
+key: o Value: 4
+key: e Value: 4
+key: s Value: 4
+key: u Value: 2
+key: y Value: 4
+key: v Value: 4
+key: b Value: 4
+key: m Value: 4
+key: f Value: 4
+key: x Value: 4
+key: z Value: 1
+key: a Value: 1
+key: d Value: 1
+key: k Value: 1
+key: g Value: 2
+key: l Value: 1
+key: h Value: 1
+key: p Value: 1
+key: r Value: 1
+key: i Value: 1
+key: n Value: 1
+key: t Value: 1
+key: q Value: 1
+group result: 180
+
+
+jolexqn
+ejpbn
+jzespnb
+People: 3
+key: j Value: 3
+key: o Value: 1
+key: l Value: 1
+key: e Value: 3
+key: x Value: 1
+key: q Value: 1
+key: n Value: 3
+key: p Value: 2
+key: b Value: 2
+key: z Value: 1
+key: s Value: 1
+group result: 183
+
+
+rklhfdmpvixqzebsjatwyg
+sqfjzhgxketiplamvrdyb
+People: 2
+key: r Value: 2
+key: k Value: 2
+key: l Value: 2
+key: h Value: 2
+key: f Value: 2
+key: d Value: 2
+key: m Value: 2
+key: p Value: 2
+key: v Value: 2
+key: i Value: 2
+key: x Value: 2
+key: q Value: 2
+key: z Value: 2
+key: e Value: 2
+key: b Value: 2
+key: s Value: 2
+key: j Value: 2
+key: a Value: 2
+key: t Value: 2
+key: w Value: 1
+key: y Value: 2
+key: g Value: 2
+group result: 204
+
+
+tkrxoqu
+lruqo
+arpuzoql
+rluqo
+olraduq
+People: 5
+key: t Value: 1
+key: k Value: 1
+key: r Value: 5
+key: x Value: 1
+key: o Value: 5
+key: q Value: 5
+key: u Value: 5
+key: l Value: 4
+key: a Value: 2
+key: p Value: 1
+key: z Value: 1
+key: d Value: 1
+group result: 208
+
+
+s
+s
+s
+People: 3
+key: s Value: 3
+group result: 209
+
+
+upyzxrmgenk
+iumrzpncxey
+pzicymnerux
+People: 3
+key: u Value: 3
+key: p Value: 3
+key: y Value: 3
+key: z Value: 3
+key: x Value: 3
+key: r Value: 3
+key: m Value: 3
+key: g Value: 1
+key: e Value: 3
+key: n Value: 3
+key: k Value: 1
+key: i Value: 2
+key: c Value: 2
+group result: 218
+
+
+skxy
+xzkmy
+rtaepyck
+zkmyg
+People: 4
+key: s Value: 1
+key: k Value: 4
+key: x Value: 2
+key: y Value: 4
+key: z Value: 2
+key: m Value: 2
+key: r Value: 1
+key: t Value: 1
+key: a Value: 1
+key: e Value: 1
+key: p Value: 1
+key: c Value: 1
+key: g Value: 1
+group result: 220
+
+
+kuymqh
+xyqmuz
+qmykue
+oyfbqum
+People: 4
+key: k Value: 2
+key: u Value: 4
+key: y Value: 4
+key: m Value: 4
+key: q Value: 4
+key: h Value: 1
+key: x Value: 1
+key: z Value: 1
+key: e Value: 1
+key: o Value: 1
+key: f Value: 1
+key: b Value: 1
+group result: 224
+
+
+t
+u
+cqs
+il
+jhl
+People: 5
+key: t Value: 1
+key: u Value: 1
+key: c Value: 1
+key: q Value: 1
+key: s Value: 1
+key: i Value: 1
+key: l Value: 2
+key: j Value: 1
+key: h Value: 1
+group result: 224
+
+
+szrhdwe
+olr
+gr
+fypmtur
+hnglzr
+People: 5
+key: s Value: 1
+key: z Value: 2
+key: r Value: 5
+key: h Value: 2
+key: d Value: 1
+key: w Value: 1
+key: e Value: 1
+key: o Value: 1
+key: l Value: 2
+key: g Value: 2
+key: f Value: 1
+key: y Value: 1
+key: p Value: 1
+key: m Value: 1
+key: t Value: 1
+key: u Value: 1
+key: n Value: 1
+group result: 225
+
+
+quv
+unpr
+fru
+ru
+People: 4
+key: q Value: 1
+key: u Value: 4
+key: v Value: 1
+key: n Value: 1
+key: p Value: 1
+key: r Value: 3
+key: f Value: 1
+group result: 226
+
+
+tdkybancpfmvhez
+igbouylstjxwr
+People: 2
+key: t Value: 2
+key: d Value: 1
+key: k Value: 1
+key: y Value: 2
+key: b Value: 2
+key: a Value: 1
+key: n Value: 1
+key: c Value: 1
+key: p Value: 1
+key: f Value: 1
+key: m Value: 1
+key: v Value: 1
+key: h Value: 1
+key: e Value: 1
+key: z Value: 1
+key: i Value: 1
+key: g Value: 1
+key: o Value: 1
+key: u Value: 1
+key: l Value: 1
+key: s Value: 1
+key: j Value: 1
+key: x Value: 1
+key: w Value: 1
+key: r Value: 1
+group result: 229
+
+
+vckofs
+kvspnfcbyg
+vskfcer
+kcsvfj
+People: 4
+key: v Value: 4
+key: c Value: 4
+key: k Value: 4
+key: o Value: 1
+key: f Value: 4
+key: s Value: 4
+key: p Value: 1
+key: n Value: 1
+key: b Value: 1
+key: y Value: 1
+key: g Value: 1
+key: e Value: 1
+key: r Value: 1
+key: j Value: 1
+group result: 234
+
+
+bevcrslyfopmzkjng
+dsvoeflrzj
+rfjesolizv
+xqroevzjsfl
+People: 4
+key: b Value: 1
+key: e Value: 4
+key: v Value: 4
+key: c Value: 1
+key: r Value: 4
+key: s Value: 4
+key: l Value: 4
+key: y Value: 1
+key: f Value: 4
+key: o Value: 4
+key: p Value: 1
+key: m Value: 1
+key: z Value: 4
+key: k Value: 1
+key: j Value: 4
+key: n Value: 1
+key: g Value: 1
+key: d Value: 1
+key: i Value: 1
+key: x Value: 1
+key: q Value: 1
+group result: 243
+
+
+k
+eb
+o
+m
+x
+People: 5
+key: k Value: 1
+key: e Value: 1
+key: b Value: 1
+key: o Value: 1
+key: m Value: 1
+key: x Value: 1
+group result: 243
+
+
+gxulbvfnj
+nvfxugj
+People: 2
+key: g Value: 2
+key: x Value: 2
+key: u Value: 2
+key: l Value: 1
+key: b Value: 1
+key: v Value: 2
+key: f Value: 2
+key: n Value: 2
+key: j Value: 2
+group result: 250
+
+
+liqcxnv
+vxlfqn
+People: 2
+key: l Value: 2
+key: i Value: 1
+key: q Value: 2
+key: c Value: 1
+key: x Value: 2
+key: n Value: 2
+key: v Value: 2
+key: f Value: 1
+group result: 255
+
+
+o
+o
+o
+o
+People: 4
+key: o Value: 4
+group result: 256
+
+
+ynsowejdq
+fuzrxmls
+People: 2
+key: y Value: 1
+key: n Value: 1
+key: s Value: 2
+key: o Value: 1
+key: w Value: 1
+key: e Value: 1
+key: j Value: 1
+key: d Value: 1
+key: q Value: 1
+key: f Value: 1
+key: u Value: 1
+key: z Value: 1
+key: r Value: 1
+key: x Value: 1
+key: m Value: 1
+key: l Value: 1
+group result: 257
+
+
+necsvqwyxfzbur
+fomigbkasyunhvpt
+People: 2
+key: n Value: 2
+key: e Value: 1
+key: c Value: 1
+key: s Value: 2
+key: v Value: 2
+key: q Value: 1
+key: w Value: 1
+key: y Value: 2
+key: x Value: 1
+key: f Value: 2
+key: z Value: 1
+key: b Value: 2
+key: u Value: 2
+key: r Value: 1
+key: o Value: 1
+key: m Value: 1
+key: i Value: 1
+key: g Value: 1
+key: k Value: 1
+key: a Value: 1
+key: h Value: 1
+key: p Value: 1
+key: t Value: 1
+group result: 264
+
+
+k
+kv
+k
+People: 3
+key: k Value: 3
+key: v Value: 1
+group result: 265
+
+
+jlnscagkozwm
+ctgmlznwkas
+ewgjcfmsnzlka
+scluzgwkxabnrm
+People: 4
+key: j Value: 2
+key: l Value: 4
+key: n Value: 4
+key: s Value: 4
+key: c Value: 4
+key: a Value: 4
+key: g Value: 4
+key: k Value: 4
+key: o Value: 1
+key: z Value: 4
+key: w Value: 4
+key: m Value: 4
+key: t Value: 1
+key: e Value: 1
+key: f Value: 1
+key: u Value: 1
+key: x Value: 1
+key: b Value: 1
+key: r Value: 1
+group result: 275
+
+
+rmfviobzuekan
+gztioywe
+People: 2
+key: r Value: 1
+key: m Value: 1
+key: f Value: 1
+key: v Value: 1
+key: i Value: 2
+key: o Value: 2
+key: b Value: 1
+key: z Value: 2
+key: u Value: 1
+key: e Value: 2
+key: k Value: 1
+key: a Value: 1
+key: n Value: 1
+key: g Value: 1
+key: t Value: 1
+key: y Value: 1
+key: w Value: 1
+group result: 279
+
+
+ihxumnvtajswgbl
+bvsitkamwjhgxul
+agvhjwusbxlitmzo
+yhdxewivbsgrcqupajmt
+People: 4
+key: i Value: 4
+key: h Value: 4
+key: x Value: 4
+key: u Value: 4
+key: m Value: 4
+key: n Value: 1
+key: v Value: 4
+key: t Value: 4
+key: a Value: 4
+key: j Value: 4
+key: s Value: 4
+key: w Value: 4
+key: g Value: 4
+key: b Value: 4
+key: l Value: 3
+key: k Value: 1
+key: z Value: 1
+key: o Value: 1
+key: y Value: 1
+key: d Value: 1
+key: e Value: 1
+key: r Value: 1
+key: c Value: 1
+key: q Value: 1
+key: p Value: 1
+group result: 292
+
+
+azrmjwki
+mikzjrwa
+People: 2
+key: a Value: 2
+key: z Value: 2
+key: r Value: 2
+key: m Value: 2
+key: j Value: 2
+key: w Value: 2
+key: k Value: 2
+key: i Value: 2
+group result: 300
+
+
+podwmavyujf
+jvtawfoyudkp
+apyovdijfuw
+People: 3
+key: p Value: 3
+key: o Value: 3
+key: d Value: 3
+key: w Value: 3
+key: m Value: 1
+key: a Value: 3
+key: v Value: 3
+key: y Value: 3
+key: u Value: 3
+key: j Value: 3
+key: f Value: 3
+key: t Value: 1
+key: k Value: 1
+key: i Value: 1
+group result: 310
+
+
+nqyvc
+cnvy
+yvnc
+nvqyc
+aycnwfv
+People: 5
+key: n Value: 5
+key: q Value: 2
+key: y Value: 5
+key: v Value: 5
+key: c Value: 5
+key: a Value: 1
+key: w Value: 1
+key: f Value: 1
+group result: 314
+
+
+go
+nv
+zs
+rbmda
+People: 4
+key: g Value: 1
+key: o Value: 1
+key: n Value: 1
+key: v Value: 1
+key: z Value: 1
+key: s Value: 1
+key: r Value: 1
+key: b Value: 1
+key: m Value: 1
+key: d Value: 1
+key: a Value: 1
+group result: 314
+
+
+laixtnkeqvjr
+tfagkclver
+People: 2
+key: l Value: 2
+key: a Value: 2
+key: i Value: 1
+key: x Value: 1
+key: t Value: 2
+key: n Value: 1
+key: k Value: 2
+key: e Value: 2
+key: q Value: 1
+key: v Value: 2
+key: j Value: 1
+key: r Value: 2
+key: f Value: 1
+key: g Value: 1
+key: c Value: 1
+group result: 321
+
+
+w
+wz
+People: 2
+key: w Value: 2
+key: z Value: 1
+group result: 322
+
+
+ismtrejyqhzncko
+zctksyemvhqin
+ztiqaynludkscxhm
+People: 3
+key: i Value: 3
+key: s Value: 3
+key: m Value: 3
+key: t Value: 3
+key: r Value: 1
+key: e Value: 2
+key: j Value: 1
+key: y Value: 3
+key: q Value: 3
+key: h Value: 3
+key: z Value: 3
+key: n Value: 3
+key: c Value: 3
+key: k Value: 3
+key: o Value: 1
+key: v Value: 1
+key: a Value: 1
+key: l Value: 1
+key: u Value: 1
+key: d Value: 1
+key: x Value: 1
+group result: 333
+
+
+lqtowzfpau
+pleajiht
+snb
+People: 3
+key: l Value: 2
+key: q Value: 1
+key: t Value: 2
+key: o Value: 1
+key: w Value: 1
+key: z Value: 1
+key: f Value: 1
+key: p Value: 2
+key: a Value: 2
+key: u Value: 1
+key: e Value: 1
+key: j Value: 1
+key: i Value: 1
+key: h Value: 1
+key: s Value: 1
+key: n Value: 1
+key: b Value: 1
+group result: 333
+
+
+xmilskwayjtdgcuzfpbr
+akmpqrbotzgswcjuy
+jytkoezhmrpbcuswag
+qzabcgksjeyutpwrm
+People: 4
+key: x Value: 1
+key: m Value: 4
+key: i Value: 1
+key: l Value: 1
+key: s Value: 4
+key: k Value: 4
+key: w Value: 4
+key: a Value: 4
+key: y Value: 4
+key: j Value: 4
+key: t Value: 4
+key: d Value: 1
+key: g Value: 4
+key: c Value: 4
+key: u Value: 4
+key: z Value: 4
+key: f Value: 1
+key: p Value: 4
+key: b Value: 4
+key: r Value: 4
+key: q Value: 2
+key: o Value: 2
+key: e Value: 2
+key: h Value: 1
+group result: 348
+
+
+bzv
+byz
+kszb
+People: 3
+key: b Value: 3
+key: z Value: 3
+key: v Value: 1
+key: y Value: 1
+key: k Value: 1
+key: s Value: 1
+group result: 350
+
+
+repd
+nqplacx
+pert
+People: 3
+key: r Value: 2
+key: e Value: 2
+key: p Value: 3
+key: d Value: 1
+key: n Value: 1
+key: q Value: 1
+key: l Value: 1
+key: a Value: 1
+key: c Value: 1
+key: x Value: 1
+key: t Value: 1
+group result: 351
+
+
+qjax
+sqzikvtuc
+People: 2
+key: q Value: 2
+key: j Value: 1
+key: a Value: 1
+key: x Value: 1
+key: s Value: 1
+key: z Value: 1
+key: i Value: 1
+key: k Value: 1
+key: v Value: 1
+key: t Value: 1
+key: u Value: 1
+key: c Value: 1
+group result: 352
+
+
+jbvflcxmkgeuiqshwdon
+ehojsklfxngmvcidwubq
+efmilsjwgqunxvochdkb
+People: 3
+key: j Value: 3
+key: b Value: 3
+key: v Value: 3
+key: f Value: 3
+key: l Value: 3
+key: c Value: 3
+key: x Value: 3
+key: m Value: 3
+key: k Value: 3
+key: g Value: 3
+key: e Value: 3
+key: u Value: 3
+key: i Value: 3
+key: q Value: 3
+key: s Value: 3
+key: h Value: 3
+key: w Value: 3
+key: d Value: 3
+key: o Value: 3
+key: n Value: 3
+group result: 372
+
+
+asbcpe
+pecsabv
+sabucpe
+cbspea
+People: 4
+key: a Value: 4
+key: s Value: 4
+key: b Value: 4
+key: c Value: 4
+key: p Value: 4
+key: e Value: 4
+key: v Value: 1
+key: u Value: 1
+group result: 378
+
+
+puazdrxn
+huodn
+ul
+bhxtalj
+ewqgkcfmyiv
+People: 5
+key: p Value: 1
+key: u Value: 3
+key: a Value: 2
+key: z Value: 1
+key: d Value: 2
+key: r Value: 1
+key: x Value: 2
+key: n Value: 2
+key: h Value: 2
+key: o Value: 1
+key: l Value: 2
+key: b Value: 1
+key: t Value: 1
+key: j Value: 1
+key: e Value: 1
+key: w Value: 1
+key: q Value: 1
+key: g Value: 1
+key: k Value: 1
+key: c Value: 1
+key: f Value: 1
+key: m Value: 1
+key: y Value: 1
+key: i Value: 1
+key: v Value: 1
+group result: 378
+
+
+mkzlap
+gkuejz
+vckdwty
+People: 3
+key: m Value: 1
+key: k Value: 3
+key: z Value: 2
+key: l Value: 1
+key: a Value: 1
+key: p Value: 1
+key: g Value: 1
+key: u Value: 1
+key: e Value: 1
+key: j Value: 1
+key: v Value: 1
+key: c Value: 1
+key: d Value: 1
+key: w Value: 1
+key: t Value: 1
+key: y Value: 1
+group result: 379
+
+
+bgwuqlcpye
+ruyplegbc
+ebgslpyuc
+People: 3
+key: b Value: 3
+key: g Value: 3
+key: w Value: 1
+key: u Value: 3
+key: q Value: 1
+key: l Value: 3
+key: c Value: 3
+key: p Value: 3
+key: y Value: 3
+key: e Value: 3
+key: r Value: 1
+key: s Value: 1
+group result: 387
+
+
+rzxjahqkdm
+qsvzl
+fqzl
+yqzs
+qgivz
+People: 5
+key: r Value: 1
+key: z Value: 5
+key: x Value: 1
+key: j Value: 1
+key: a Value: 1
+key: h Value: 1
+key: q Value: 5
+key: k Value: 1
+key: d Value: 1
+key: m Value: 1
+key: s Value: 2
+key: v Value: 2
+key: l Value: 2
+key: f Value: 1
+key: y Value: 1
+key: g Value: 1
+key: i Value: 1
+group result: 389
+
+
+oz
+z
+rgz
+People: 3
+key: o Value: 1
+key: z Value: 3
+key: r Value: 1
+key: g Value: 1
+group result: 390
+
+
+qeodmnwfrcgszxljpbtiva
+bxfmsotjiwahdreyqcgznlv
+rfgoacmsvtdlxiznbwqje
+isnrctlvbdjeogxqmfywza
+People: 4
+key: q Value: 4
+key: e Value: 4
+key: o Value: 4
+key: d Value: 4
+key: m Value: 4
+key: n Value: 4
+key: w Value: 4
+key: f Value: 4
+key: r Value: 4
+key: c Value: 4
+key: g Value: 4
+key: s Value: 4
+key: z Value: 4
+key: x Value: 4
+key: l Value: 4
+key: j Value: 4
+key: p Value: 1
+key: b Value: 4
+key: t Value: 4
+key: i Value: 4
+key: v Value: 4
+key: a Value: 4
+key: h Value: 1
+key: y Value: 2
+group result: 411
+
+
+k
+ok
+ndk
+k
+k
+People: 5
+key: k Value: 5
+key: o Value: 1
+key: n Value: 1
+key: d Value: 1
+group result: 412
+
+
+kvlaxjyuizosc
+rskivnuzdgylcax
+yeulqahszikvxw
+People: 3
+key: k Value: 3
+key: v Value: 3
+key: l Value: 3
+key: a Value: 3
+key: x Value: 3
+key: j Value: 1
+key: y Value: 3
+key: u Value: 3
+key: i Value: 3
+key: z Value: 3
+key: o Value: 1
+key: s Value: 3
+key: c Value: 2
+key: r Value: 1
+key: n Value: 1
+key: d Value: 1
+key: g Value: 1
+key: e Value: 1
+key: q Value: 1
+key: h Value: 1
+key: w Value: 1
+group result: 422
+
+
+njcgolfwi
+nbvgpfwjaoislt
+ngifljcoyw
+People: 3
+key: n Value: 3
+key: j Value: 3
+key: c Value: 2
+key: g Value: 3
+key: o Value: 3
+key: l Value: 3
+key: f Value: 3
+key: w Value: 3
+key: i Value: 3
+key: b Value: 1
+key: v Value: 1
+key: p Value: 1
+key: a Value: 1
+key: s Value: 1
+key: t Value: 1
+key: y Value: 1
+group result: 430
+
+
+kmhe
+jtkg
+People: 2
+key: k Value: 2
+key: m Value: 1
+key: h Value: 1
+key: e Value: 1
+key: j Value: 1
+key: t Value: 1
+key: g Value: 1
+group result: 431
+
+
+rwxcsfokl
+owikfaxpc
+njoxkwcf
+ackfwox
+People: 4
+key: r Value: 1
+key: w Value: 4
+key: x Value: 4
+key: c Value: 4
+key: s Value: 1
+key: f Value: 4
+key: o Value: 4
+key: k Value: 4
+key: l Value: 1
+key: i Value: 1
+key: a Value: 2
+key: p Value: 1
+key: n Value: 1
+key: j Value: 1
+group result: 437
+
+
+ur
+ur
+ru
+People: 3
+key: u Value: 3
+key: r Value: 3
+group result: 439
+
+
+fdywlphcigkqo
+thuynwzra
+People: 2
+key: f Value: 1
+key: d Value: 1
+key: y Value: 2
+key: w Value: 2
+key: l Value: 1
+key: p Value: 1
+key: h Value: 2
+key: c Value: 1
+key: i Value: 1
+key: g Value: 1
+key: k Value: 1
+key: q Value: 1
+key: o Value: 1
+key: t Value: 1
+key: u Value: 1
+key: n Value: 1
+key: z Value: 1
+key: r Value: 1
+key: a Value: 1
+group result: 442
+
+
+yg
+yg
+yg
+yg
+yg
+People: 5
+key: y Value: 5
+key: g Value: 5
+group result: 444
+
+
+lgujzisehrmfvpqdtwx
+kpxwbjsrycvmedotuna
+People: 2
+key: l Value: 1
+key: g Value: 1
+key: u Value: 2
+key: j Value: 2
+key: z Value: 1
+key: i Value: 1
+key: s Value: 2
+key: e Value: 2
+key: h Value: 1
+key: r Value: 2
+key: m Value: 2
+key: f Value: 1
+key: v Value: 2
+key: p Value: 2
+key: q Value: 1
+key: d Value: 2
+key: t Value: 2
+key: w Value: 2
+key: x Value: 2
+key: k Value: 1
+key: b Value: 1
+key: y Value: 1
+key: c Value: 1
+key: o Value: 1
+key: n Value: 1
+key: a Value: 1
+group result: 456
+
+
+caoqxmnz
+znmoqax
+People: 2
+key: c Value: 1
+key: a Value: 2
+key: o Value: 2
+key: q Value: 2
+key: x Value: 2
+key: m Value: 2
+key: n Value: 2
+key: z Value: 2
+group result: 463
+
+
+n
+n
+n
+People: 3
+key: n Value: 3
+group result: 464
+
+
+dl
+z
+z
+z
+People: 4
+key: d Value: 1
+key: l Value: 1
+key: z Value: 3
+group result: 464
+
+
+myxjup
+xapmujy
+pymjxu
+People: 3
+key: m Value: 3
+key: y Value: 3
+key: x Value: 3
+key: j Value: 3
+key: u Value: 3
+key: p Value: 3
+key: a Value: 1
+group result: 470
+
+
+armiuvky
+rukyvmai
+People: 2
+key: a Value: 2
+key: r Value: 2
+key: m Value: 2
+key: i Value: 2
+key: u Value: 2
+key: v Value: 2
+key: k Value: 2
+key: y Value: 2
+group result: 478
+
+
+oblmhucy
+lor
+oadzwlv
+People: 3
+key: o Value: 3
+key: b Value: 1
+key: l Value: 3
+key: m Value: 1
+key: h Value: 1
+key: u Value: 1
+key: c Value: 1
+key: y Value: 1
+key: r Value: 1
+key: a Value: 1
+key: d Value: 1
+key: z Value: 1
+key: w Value: 1
+key: v Value: 1
+group result: 480
+
+
+gmuhklsdpeifwjzyx
+ujhimzlwxpkdfcgye
+hdzjyexbmfukgplwi
+hjfiugmzlpwnyekxd
+uwpozylxmhkgjdfie
+People: 5
+key: g Value: 5
+key: m Value: 5
+key: u Value: 5
+key: h Value: 5
+key: k Value: 5
+key: l Value: 5
+key: s Value: 1
+key: d Value: 5
+key: p Value: 5
+key: e Value: 5
+key: i Value: 5
+key: f Value: 5
+key: w Value: 5
+key: j Value: 5
+key: z Value: 5
+key: y Value: 5
+key: x Value: 5
+key: c Value: 1
+key: b Value: 1
+key: n Value: 1
+key: o Value: 1
+group result: 496
+
+
+egvotzkidfbschnwj
+cuojhenkdtgivfzwp
+People: 2
+key: e Value: 2
+key: g Value: 2
+key: v Value: 2
+key: o Value: 2
+key: t Value: 2
+key: z Value: 2
+key: k Value: 2
+key: i Value: 2
+key: d Value: 2
+key: f Value: 2
+key: b Value: 1
+key: s Value: 1
+key: c Value: 2
+key: h Value: 2
+key: n Value: 2
+key: w Value: 2
+key: j Value: 2
+key: u Value: 1
+key: p Value: 1
+group result: 511
+
+
+sydwoxjtrgeilkpq
+wlisqzgxyjdepo
+yjisgwoldqpxe
+People: 3
+key: s Value: 3
+key: y Value: 3
+key: d Value: 3
+key: w Value: 3
+key: o Value: 3
+key: x Value: 3
+key: j Value: 3
+key: t Value: 1
+key: r Value: 1
+key: g Value: 3
+key: e Value: 3
+key: i Value: 3
+key: l Value: 3
+key: k Value: 1
+key: p Value: 3
+key: q Value: 3
+key: z Value: 1
+group result: 524
+
+
+ziu
+vbcli
+dhti
+gik
+iu
+People: 5
+key: z Value: 1
+key: i Value: 5
+key: u Value: 2
+key: v Value: 1
+key: b Value: 1
+key: c Value: 1
+key: l Value: 1
+key: d Value: 1
+key: h Value: 1
+key: t Value: 1
+key: g Value: 1
+key: k Value: 1
+group result: 525
+
+
+wsaqb
+fdhmkv
+oqzeligb
+yxagtq
+People: 4
+key: w Value: 1
+key: s Value: 1
+key: a Value: 2
+key: q Value: 3
+key: b Value: 2
+key: f Value: 1
+key: d Value: 1
+key: h Value: 1
+key: m Value: 1
+key: k Value: 1
+key: v Value: 1
+key: o Value: 1
+key: z Value: 1
+key: e Value: 1
+key: l Value: 1
+key: i Value: 1
+key: g Value: 2
+key: y Value: 1
+key: x Value: 1
+key: t Value: 1
+group result: 525
+
+
+hgxnkmtczelbiywdu
+egdlkbhxinzwmtyuc
+People: 2
+key: h Value: 2
+key: g Value: 2
+key: x Value: 2
+key: n Value: 2
+key: k Value: 2
+key: m Value: 2
+key: t Value: 2
+key: c Value: 2
+key: z Value: 2
+key: e Value: 2
+key: l Value: 2
+key: b Value: 2
+key: i Value: 2
+key: y Value: 2
+key: w Value: 2
+key: d Value: 2
+key: u Value: 2
+group result: 542
+
+
+zylwnjbpxfikgma
+uyiwbalxjfpnzkmg
+People: 2
+key: z Value: 2
+key: y Value: 2
+key: l Value: 2
+key: w Value: 2
+key: n Value: 2
+key: j Value: 2
+key: b Value: 2
+key: p Value: 2
+key: x Value: 2
+key: f Value: 2
+key: i Value: 2
+key: k Value: 2
+key: g Value: 2
+key: m Value: 2
+key: a Value: 2
+key: u Value: 1
+group result: 557
+
+
+fdk
+zudwmolx
+iuwydo
+People: 3
+key: f Value: 1
+key: d Value: 3
+key: k Value: 1
+key: z Value: 1
+key: u Value: 2
+key: w Value: 2
+key: m Value: 1
+key: o Value: 2
+key: l Value: 1
+key: x Value: 1
+key: i Value: 1
+key: y Value: 1
+group result: 558
+
+
+ipg
+gpk
+pg
+lgp
+People: 4
+key: i Value: 1
+key: p Value: 4
+key: g Value: 4
+key: k Value: 1
+key: l Value: 1
+group result: 560
+
+
+qo
+oq
+People: 2
+key: q Value: 2
+key: o Value: 2
+group result: 562
+
+
+ftvpzxbnrcaejlsughokm
+pajgbomszrvlkthufncxe
+rcvkltzomsanehubpgfjx
+slpnugxkvbtofcjzaremh
+mevnxbcwlofphgjzustark
+People: 5
+key: f Value: 5
+key: t Value: 5
+key: v Value: 5
+key: p Value: 5
+key: z Value: 5
+key: x Value: 5
+key: b Value: 5
+key: n Value: 5
+key: r Value: 5
+key: c Value: 5
+key: a Value: 5
+key: e Value: 5
+key: j Value: 5
+key: l Value: 5
+key: s Value: 5
+key: u Value: 5
+key: g Value: 5
+key: h Value: 5
+key: o Value: 5
+key: k Value: 5
+key: m Value: 5
+key: w Value: 1
+group result: 583
+
+
+imqpfwxzdbyej
+befpdqiwymzjx
+jbweqdizmxfpy
+mdifjqpxwebzy
+fqpwyzejxmbdi
+People: 5
+key: i Value: 5
+key: m Value: 5
+key: q Value: 5
+key: p Value: 5
+key: f Value: 5
+key: w Value: 5
+key: x Value: 5
+key: z Value: 5
+key: d Value: 5
+key: b Value: 5
+key: y Value: 5
+key: e Value: 5
+key: j Value: 5
+group result: 596
+
+
+xcgqsnhjfewkitrdbl
+ikexjmzqghfuwb
+People: 2
+key: x Value: 2
+key: c Value: 1
+key: g Value: 2
+key: q Value: 2
+key: s Value: 1
+key: n Value: 1
+key: h Value: 2
+key: j Value: 2
+key: f Value: 2
+key: e Value: 2
+key: w Value: 2
+key: k Value: 2
+key: i Value: 2
+key: t Value: 1
+key: r Value: 1
+key: d Value: 1
+key: b Value: 2
+key: l Value: 1
+key: m Value: 1
+key: z Value: 1
+key: u Value: 1
+group result: 607
+
+
+xvlt
+plxizgt
+canruewkof
+hdv
+ph
+People: 5
+key: x Value: 2
+key: v Value: 2
+key: l Value: 2
+key: t Value: 2
+key: p Value: 2
+key: i Value: 1
+key: z Value: 1
+key: g Value: 1
+key: c Value: 1
+key: a Value: 1
+key: n Value: 1
+key: r Value: 1
+key: u Value: 1
+key: e Value: 1
+key: w Value: 1
+key: k Value: 1
+key: o Value: 1
+key: f Value: 1
+key: h Value: 2
+key: d Value: 1
+group result: 607
+
+
+selthipryzdjaqo
+mwvgfsczjx
+People: 2
+key: s Value: 2
+key: e Value: 1
+key: l Value: 1
+key: t Value: 1
+key: h Value: 1
+key: i Value: 1
+key: p Value: 1
+key: r Value: 1
+key: y Value: 1
+key: z Value: 2
+key: d Value: 1
+key: j Value: 2
+key: a Value: 1
+key: q Value: 1
+key: o Value: 1
+key: m Value: 1
+key: w Value: 1
+key: v Value: 1
+key: g Value: 1
+key: f Value: 1
+key: c Value: 1
+key: x Value: 1
+group result: 610
+
+
+lkvhrmfxcei
+dlxeikvrhmc
+bcivhjuletrx
+People: 3
+key: l Value: 3
+key: k Value: 2
+key: v Value: 3
+key: h Value: 3
+key: r Value: 3
+key: m Value: 2
+key: f Value: 1
+key: x Value: 3
+key: c Value: 3
+key: e Value: 3
+key: i Value: 3
+key: d Value: 1
+key: b Value: 1
+key: j Value: 1
+key: u Value: 1
+key: t Value: 1
+group result: 618
+
+
+hameyvutcq
+ceimstquyha
+tcvmheuaqy
+qtycuimhae
+wtexqymuahc
+People: 5
+key: h Value: 5
+key: a Value: 5
+key: m Value: 5
+key: e Value: 5
+key: y Value: 5
+key: v Value: 2
+key: u Value: 5
+key: t Value: 5
+key: c Value: 5
+key: q Value: 5
+key: i Value: 2
+key: s Value: 1
+key: w Value: 1
+key: x Value: 1
+group result: 627
+
+
+aqi
+ahqi
+iqa
+aqli
+People: 4
+key: a Value: 4
+key: q Value: 4
+key: i Value: 4
+key: h Value: 1
+key: l Value: 1
+group result: 630
+
+
+dqsyvxihlnapkugfet
+avhylqkigpntuf
+uyogpqtznfjablvkihw
+People: 3
+key: d Value: 1
+key: q Value: 3
+key: s Value: 1
+key: y Value: 3
+key: v Value: 3
+key: x Value: 1
+key: i Value: 3
+key: h Value: 3
+key: l Value: 3
+key: n Value: 3
+key: a Value: 3
+key: p Value: 3
+key: k Value: 3
+key: u Value: 3
+key: g Value: 3
+key: f Value: 3
+key: e Value: 1
+key: t Value: 3
+key: o Value: 1
+key: z Value: 1
+key: j Value: 1
+key: b Value: 1
+key: w Value: 1
+group result: 644
+
+
+ujteibs
+jnmse
+People: 2
+key: u Value: 1
+key: j Value: 2
+key: t Value: 1
+key: e Value: 2
+key: i Value: 1
+key: b Value: 1
+key: s Value: 2
+key: n Value: 1
+key: m Value: 1
+group result: 647
+
+
+lcark
+kcalr
+raklc
+clkar
+People: 4
+key: l Value: 4
+key: c Value: 4
+key: a Value: 4
+key: r Value: 4
+key: k Value: 4
+group result: 652
+
+
+pdriy
+dypir
+rpiyd
+iyrdp
+iurdpy
+People: 5
+key: p Value: 5
+key: d Value: 5
+key: r Value: 5
+key: i Value: 5
+key: y Value: 5
+key: u Value: 1
+group result: 657
+
+
+xqfiongludk
+mgthdfqcjislw
+gfrodulibnq
+eqiofgld
+dialxyfqg
+People: 5
+key: x Value: 2
+key: q Value: 5
+key: f Value: 5
+key: i Value: 5
+key: o Value: 3
+key: n Value: 2
+key: g Value: 5
+key: l Value: 5
+key: u Value: 2
+key: d Value: 5
+key: k Value: 1
+key: m Value: 1
+key: t Value: 1
+key: h Value: 1
+key: c Value: 1
+key: j Value: 1
+key: s Value: 1
+key: w Value: 1
+key: r Value: 1
+key: b Value: 1
+key: e Value: 1
+key: a Value: 1
+key: y Value: 1
+group result: 663
+
+
+nuglmj
+yglmejodvu
+pguymjl
+ojmuzglb
+twqumlhjkirgxc
+People: 5
+key: n Value: 1
+key: u Value: 5
+key: g Value: 5
+key: l Value: 5
+key: m Value: 5
+key: j Value: 5
+key: y Value: 2
+key: e Value: 1
+key: o Value: 2
+key: d Value: 1
+key: v Value: 1
+key: p Value: 1
+key: z Value: 1
+key: b Value: 1
+key: t Value: 1
+key: w Value: 1
+key: q Value: 1
+key: h Value: 1
+key: k Value: 1
+key: i Value: 1
+key: r Value: 1
+key: x Value: 1
+key: c Value: 1
+group result: 668
+
+
+zvcfwmxr
+mtwlcnvyr
+vmwrtc
+People: 3
+key: z Value: 1
+key: v Value: 3
+key: c Value: 3
+key: f Value: 1
+key: w Value: 3
+key: m Value: 3
+key: x Value: 1
+key: r Value: 3
+key: t Value: 2
+key: l Value: 1
+key: n Value: 1
+key: y Value: 1
+group result: 673
+
+
+fnegrtvcszb
+fvtczsbrglen
+regtnblzvc
+qvetwrbjngzc
+rztnsvbcge
+People: 5
+key: f Value: 2
+key: n Value: 5
+key: e Value: 5
+key: g Value: 5
+key: r Value: 5
+key: t Value: 5
+key: v Value: 5
+key: c Value: 5
+key: s Value: 3
+key: z Value: 5
+key: b Value: 5
+key: l Value: 2
+key: q Value: 1
+key: w Value: 1
+key: j Value: 1
+group result: 682
+
+
+c
+c
+ic
+People: 3
+key: c Value: 3
+key: i Value: 1
+group result: 683
+
+
+ytafbngdrwkmsizu
+mtbarufinsgdwz
+buzgnmfirsatwd
+gmfdwaivrupstnzb
+People: 4
+key: y Value: 1
+key: t Value: 4
+key: a Value: 4
+key: f Value: 4
+key: b Value: 4
+key: n Value: 4
+key: g Value: 4
+key: d Value: 4
+key: r Value: 4
+key: w Value: 4
+key: k Value: 1
+key: m Value: 4
+key: s Value: 4
+key: i Value: 4
+key: z Value: 4
+key: u Value: 4
+key: v Value: 1
+key: p Value: 1
+group result: 697
+
+
+wmiugpfxvaqy
+mysauioxwqp
+wxmupiyqa
+iualopmhywxq
+uqxpiwyaml
+People: 5
+key: w Value: 5
+key: m Value: 5
+key: i Value: 5
+key: u Value: 5
+key: g Value: 1
+key: p Value: 5
+key: f Value: 1
+key: x Value: 5
+key: v Value: 1
+key: a Value: 5
+key: q Value: 5
+key: y Value: 5
+key: s Value: 1
+key: o Value: 2
+key: l Value: 2
+key: h Value: 1
+group result: 706
+
+
+rfoazmhstpwu
+ylhdagctoszuv
+tnouzbsixja
+ethsavmwoquz
+People: 4
+key: r Value: 1
+key: f Value: 1
+key: o Value: 4
+key: a Value: 4
+key: z Value: 4
+key: m Value: 2
+key: h Value: 3
+key: s Value: 4
+key: t Value: 4
+key: p Value: 1
+key: w Value: 2
+key: u Value: 4
+key: y Value: 1
+key: l Value: 1
+key: d Value: 1
+key: g Value: 1
+key: c Value: 1
+key: v Value: 2
+key: n Value: 1
+key: b Value: 1
+key: i Value: 1
+key: x Value: 1
+key: j Value: 1
+key: e Value: 1
+key: q Value: 1
+group result: 712
+
+
+rusvk
+sukrv
+lsurvk
+ivarksuj
+People: 4
+key: r Value: 4
+key: u Value: 4
+key: s Value: 4
+key: v Value: 4
+key: k Value: 4
+key: l Value: 1
+key: i Value: 1
+key: a Value: 1
+key: j Value: 1
+group result: 717
+
+
+vtonlxkefpmhc
+toxnmplkvehfc
+lxepkfohnctmv
+lcfpwvkomnxeht
+People: 4
+key: v Value: 4
+key: t Value: 4
+key: o Value: 4
+key: n Value: 4
+key: l Value: 4
+key: x Value: 4
+key: k Value: 4
+key: e Value: 4
+key: f Value: 4
+key: p Value: 4
+key: m Value: 4
+key: h Value: 4
+key: c Value: 4
+key: w Value: 1
+group result: 730
+
+
+k
+uk
+People: 2
+key: k Value: 2
+key: u Value: 1
+group result: 731
+
+
+masqlgwvbzthjfodi
+qidwstlzhmgbvjfa
+walfgtjbimhsdvzq
+jgvqfidzwhtlbmas
+jfbdtsqvwhzimgla
+People: 5
+key: m Value: 5
+key: a Value: 5
+key: s Value: 5
+key: q Value: 5
+key: l Value: 5
+key: g Value: 5
+key: w Value: 5
+key: v Value: 5
+key: b Value: 5
+key: z Value: 5
+key: t Value: 5
+key: h Value: 5
+key: j Value: 5
+key: f Value: 5
+key: o Value: 1
+key: d Value: 5
+key: i Value: 5
+group result: 747
+
+
+ycghqoakjvledit
+cvogqadtylxheikj
+dlikveqjytgocah
+qjogltyvkdiehca
+hqctvekdgoaiylj
+People: 5
+key: y Value: 5
+key: c Value: 5
+key: g Value: 5
+key: h Value: 5
+key: q Value: 5
+key: o Value: 5
+key: a Value: 5
+key: k Value: 5
+key: j Value: 5
+key: v Value: 5
+key: l Value: 5
+key: e Value: 5
+key: d Value: 5
+key: i Value: 5
+key: t Value: 5
+key: x Value: 1
+group result: 762
+
+
+qmfszexayhrodlkjgcunvpb
+azkcfvgbqhwntisemxojlurpyd
+mahdrunjvogfszeklqxcbyp
+People: 3
+key: q Value: 3
+key: m Value: 3
+key: f Value: 3
+key: s Value: 3
+key: z Value: 3
+key: e Value: 3
+key: x Value: 3
+key: a Value: 3
+key: y Value: 3
+key: h Value: 3
+key: r Value: 3
+key: o Value: 3
+key: d Value: 3
+key: l Value: 3
+key: k Value: 3
+key: j Value: 3
+key: g Value: 3
+key: c Value: 3
+key: u Value: 3
+key: n Value: 3
+key: v Value: 3
+key: p Value: 3
+key: b Value: 3
+key: w Value: 1
+key: t Value: 1
+key: i Value: 1
+group result: 785
+
+
+afneqblchsiztjkormgwyv
+xtnekyjawmcgboqzhlvpr
+People: 2
+key: a Value: 2
+key: f Value: 1
+key: n Value: 2
+key: e Value: 2
+key: q Value: 2
+key: b Value: 2
+key: l Value: 2
+key: c Value: 2
+key: h Value: 2
+key: s Value: 1
+key: i Value: 1
+key: z Value: 2
+key: t Value: 2
+key: j Value: 2
+key: k Value: 2
+key: o Value: 2
+key: r Value: 2
+key: m Value: 2
+key: g Value: 2
+key: w Value: 2
+key: y Value: 2
+key: v Value: 2
+key: x Value: 1
+key: p Value: 1
+group result: 804
+
+
+sx
+jdbx
+lx
+xh
+xa
+People: 5
+key: s Value: 1
+key: x Value: 5
+key: j Value: 1
+key: d Value: 1
+key: b Value: 1
+key: l Value: 1
+key: h Value: 1
+key: a Value: 1
+group result: 805
+
+
+rdjilzeufkawpynthm
+uihatklnjrwyzbefpd
+People: 2
+key: r Value: 2
+key: d Value: 2
+key: j Value: 2
+key: i Value: 2
+key: l Value: 2
+key: z Value: 2
+key: e Value: 2
+key: u Value: 2
+key: f Value: 2
+key: k Value: 2
+key: a Value: 2
+key: w Value: 2
+key: p Value: 2
+key: y Value: 2
+key: n Value: 2
+key: t Value: 2
+key: h Value: 2
+key: m Value: 1
+key: b Value: 1
+group result: 822
+
+
+xamycgrp
+odcxabirgyp
+yrxgnpca
+rpcyhxiag
+carjykfgxp
+People: 5
+key: x Value: 5
+key: a Value: 5
+key: m Value: 1
+key: y Value: 5
+key: c Value: 5
+key: g Value: 5
+key: r Value: 5
+key: p Value: 5
+key: o Value: 1
+key: d Value: 1
+key: b Value: 1
+key: i Value: 2
+key: n Value: 1
+key: h Value: 1
+key: j Value: 1
+key: k Value: 1
+key: f Value: 1
+group result: 829
+
+
+qfzjcxvngr
+vxjrngcfzq
+fgvnzxcqrj
+People: 3
+key: q Value: 3
+key: f Value: 3
+key: z Value: 3
+key: j Value: 3
+key: c Value: 3
+key: x Value: 3
+key: v Value: 3
+key: n Value: 3
+key: g Value: 3
+key: r Value: 3
+group result: 839
+
+
+pndiwz
+ziwnpqd
+hnckpziuw
+iwpnza
+People: 4
+key: p Value: 4
+key: n Value: 4
+key: d Value: 2
+key: i Value: 4
+key: w Value: 4
+key: z Value: 4
+key: q Value: 1
+key: h Value: 1
+key: c Value: 1
+key: k Value: 1
+key: u Value: 1
+key: a Value: 1
+group result: 844
+
+
+oqg
+n
+e
+People: 3
+key: o Value: 1
+key: q Value: 1
+key: g Value: 1
+key: n Value: 1
+key: e Value: 1
+group result: 844
+
+
+xiqkbmeunpgz
+qkunzpgexmbi
+buzpqknhsegmxi
+gnqzekimpbxu
+People: 4
+key: x Value: 4
+key: i Value: 4
+key: q Value: 4
+key: k Value: 4
+key: b Value: 4
+key: m Value: 4
+key: e Value: 4
+key: u Value: 4
+key: n Value: 4
+key: p Value: 4
+key: g Value: 4
+key: z Value: 4
+key: h Value: 1
+key: s Value: 1
+group result: 856
+
+
+hw
+hwqy
+People: 2
+key: h Value: 2
+key: w Value: 2
+key: q Value: 1
+key: y Value: 1
+group result: 858
+
+
+nikreb
+beirkn
+rekinb
+ikenrb
+briekn
+People: 5
+key: n Value: 5
+key: i Value: 5
+key: k Value: 5
+key: r Value: 5
+key: e Value: 5
+key: b Value: 5
+group result: 864
+
+
+ygu
+yug
+uyg
+guy
+yug
+People: 5
+key: y Value: 5
+key: g Value: 5
+key: u Value: 5
+group result: 867
+
+
+qa
+aq
+paqt
+qlaei
+qmuona
+People: 5
+key: q Value: 5
+key: a Value: 5
+key: p Value: 1
+key: t Value: 1
+key: l Value: 1
+key: e Value: 1
+key: i Value: 1
+key: m Value: 1
+key: u Value: 1
+key: o Value: 1
+key: n Value: 1
+group result: 869
+
+
+eikhtowu
+ucqt
+dblxyj
+People: 3
+key: e Value: 1
+key: i Value: 1
+key: k Value: 1
+key: h Value: 1
+key: t Value: 2
+key: o Value: 1
+key: w Value: 1
+key: u Value: 2
+key: c Value: 1
+key: q Value: 1
+key: d Value: 1
+key: b Value: 1
+key: l Value: 1
+key: x Value: 1
+key: y Value: 1
+key: j Value: 1
+group result: 869
+
+
+h
+h
+h
+People: 3
+key: h Value: 3
+group result: 870
+
+
+efachl
+lxwseg
+kdvcotebwl
+urmzieqypnj
+People: 4
+key: e Value: 4
+key: f Value: 1
+key: a Value: 1
+key: c Value: 2
+key: h Value: 1
+key: l Value: 3
+key: x Value: 1
+key: w Value: 2
+key: s Value: 1
+key: g Value: 1
+key: k Value: 1
+key: d Value: 1
+key: v Value: 1
+key: o Value: 1
+key: t Value: 1
+key: b Value: 1
+key: u Value: 1
+key: r Value: 1
+key: m Value: 1
+key: z Value: 1
+key: i Value: 1
+key: q Value: 1
+key: y Value: 1
+key: p Value: 1
+key: n Value: 1
+key: j Value: 1
+group result: 871
+
+
+xim
+mix
+People: 2
+key: x Value: 2
+key: i Value: 2
+key: m Value: 2
+group result: 874
+
+
+yueg
+rfuqv
+hcuyt
+mwdxoijl
+pu
+People: 5
+key: y Value: 2
+key: u Value: 4
+key: e Value: 1
+key: g Value: 1
+key: r Value: 1
+key: f Value: 1
+key: q Value: 1
+key: v Value: 1
+key: h Value: 1
+key: c Value: 1
+key: t Value: 1
+key: m Value: 1
+key: w Value: 1
+key: d Value: 1
+key: x Value: 1
+key: o Value: 1
+key: i Value: 1
+key: j Value: 1
+key: l Value: 1
+key: p Value: 1
+group result: 874
+
+
+dt
+d
+d
+dg
+d
+People: 5
+key: d Value: 5
+key: t Value: 1
+key: g Value: 1
+group result: 875
+
+
+njpbavcqi
+apbvnci
+xitcnkavbp
+jvpbanic
+People: 4
+key: n Value: 4
+key: j Value: 2
+key: p Value: 4
+key: b Value: 4
+key: a Value: 4
+key: v Value: 4
+key: c Value: 4
+key: q Value: 1
+key: i Value: 4
+key: x Value: 1
+key: t Value: 1
+key: k Value: 1
+group result: 882
+
+
+ihafgmuzlsecyw
+wilkugsacehmfy
+hmsogafiycewl
+yasifqwghmpcel
+sewfmlgaichy
+People: 5
+key: i Value: 5
+key: h Value: 5
+key: a Value: 5
+key: f Value: 5
+key: g Value: 5
+key: m Value: 5
+key: u Value: 2
+key: z Value: 1
+key: l Value: 5
+key: s Value: 5
+key: e Value: 5
+key: c Value: 5
+key: y Value: 5
+key: w Value: 5
+key: k Value: 1
+key: o Value: 1
+key: q Value: 1
+key: p Value: 1
+group result: 894
+
+
+bwzqplsndam
+npablswzmdqr
+mznawdpqlsb
+pmqnwblasdz
+People: 4
+key: b Value: 4
+key: w Value: 4
+key: z Value: 4
+key: q Value: 4
+key: p Value: 4
+key: l Value: 4
+key: s Value: 4
+key: n Value: 4
+key: d Value: 4
+key: a Value: 4
+key: m Value: 4
+key: r Value: 1
+group result: 905
+
+
+bstnjrdih
+mzqg
+auvxom
+xfl
+xwzeapqcyk
+People: 5
+key: b Value: 1
+key: s Value: 1
+key: t Value: 1
+key: n Value: 1
+key: j Value: 1
+key: r Value: 1
+key: d Value: 1
+key: i Value: 1
+key: h Value: 1
+key: m Value: 2
+key: z Value: 2
+key: q Value: 2
+key: g Value: 1
+key: a Value: 2
+key: u Value: 1
+key: v Value: 1
+key: x Value: 3
+key: o Value: 1
+key: f Value: 1
+key: l Value: 1
+key: w Value: 1
+key: e Value: 1
+key: p Value: 1
+key: c Value: 1
+key: y Value: 1
+key: k Value: 1
+group result: 905
+
+
+biylorc
+jehr
+People: 2
+key: b Value: 1
+key: i Value: 1
+key: y Value: 1
+key: l Value: 1
+key: o Value: 1
+key: r Value: 2
+key: c Value: 1
+key: j Value: 1
+key: e Value: 1
+key: h Value: 1
+group result: 906
+
+
+klsmr
+bsrulm
+sulrm
+lmcysr
+People: 4
+key: k Value: 1
+key: l Value: 4
+key: s Value: 4
+key: m Value: 4
+key: r Value: 4
+key: b Value: 1
+key: u Value: 2
+key: c Value: 1
+key: y Value: 1
+group result: 910
+
+
+ryhfwom
+ylfprowhgs
+whdayfro
+rbfhwxqyo
+ofhrwy
+People: 5
+key: r Value: 5
+key: y Value: 5
+key: h Value: 5
+key: f Value: 5
+key: w Value: 5
+key: o Value: 5
+key: m Value: 1
+key: l Value: 1
+key: p Value: 1
+key: g Value: 1
+key: s Value: 1
+key: d Value: 1
+key: a Value: 1
+key: b Value: 1
+key: x Value: 1
+key: q Value: 1
+group result: 916
+
+
+bjsotye
+btykhedw
+People: 2
+key: b Value: 2
+key: j Value: 1
+key: s Value: 1
+key: o Value: 1
+key: t Value: 2
+key: y Value: 2
+key: e Value: 2
+key: k Value: 1
+key: h Value: 1
+key: d Value: 1
+key: w Value: 1
+group result: 920
+
+
+ytfvapsh
+wgrvpyahkf
+fyhvpa
+vyhstpfa
+People: 4
+key: y Value: 4
+key: t Value: 2
+key: f Value: 4
+key: v Value: 4
+key: a Value: 4
+key: p Value: 4
+key: s Value: 2
+key: h Value: 4
+key: w Value: 1
+key: g Value: 1
+key: r Value: 1
+key: k Value: 1
+group result: 926
+
+
+a
+ak
+am
+People: 3
+key: a Value: 3
+key: k Value: 1
+key: m Value: 1
+group result: 927
+
+
+z
+z
+z
+People: 3
+key: z Value: 3
+group result: 928
+
+
+kvzfwneupotmcgldhjrx
+mdkwnevctjxlouqrzhfp
+People: 2
+key: k Value: 2
+key: v Value: 2
+key: z Value: 2
+key: f Value: 2
+key: w Value: 2
+key: n Value: 2
+key: e Value: 2
+key: u Value: 2
+key: p Value: 2
+key: o Value: 2
+key: t Value: 2
+key: m Value: 2
+key: c Value: 2
+key: g Value: 1
+key: l Value: 2
+key: d Value: 2
+key: h Value: 2
+key: j Value: 2
+key: r Value: 2
+key: x Value: 2
+key: q Value: 1
+group result: 947
+
+
+ipwgoe
+poegniwd
+People: 2
+key: i Value: 2
+key: p Value: 2
+key: w Value: 2
+key: g Value: 2
+key: o Value: 2
+key: e Value: 2
+key: n Value: 1
+key: d Value: 1
+group result: 953
+
+
+mptxh
+umj
+yegdkrizcvb
+People: 3
+key: m Value: 2
+key: p Value: 1
+key: t Value: 1
+key: x Value: 1
+key: h Value: 1
+key: u Value: 1
+key: j Value: 1
+key: y Value: 1
+key: e Value: 1
+key: g Value: 1
+key: d Value: 1
+key: k Value: 1
+key: r Value: 1
+key: i Value: 1
+key: z Value: 1
+key: c Value: 1
+key: v Value: 1
+key: b Value: 1
+group result: 953
+
+
+bea
+e
+e
+ey
+es
+People: 5
+key: b Value: 1
+key: e Value: 5
+key: a Value: 1
+key: y Value: 1
+key: s Value: 1
+group result: 954
+
+
+acbzkvrhujltyqf
+htvcaqgkfiulbypezrj
+aqkfzthjbyuvrlc
+yaqtzlkhcuvjbrf
+People: 4
+key: a Value: 4
+key: c Value: 4
+key: b Value: 4
+key: z Value: 4
+key: k Value: 4
+key: v Value: 4
+key: r Value: 4
+key: h Value: 4
+key: u Value: 4
+key: j Value: 4
+key: l Value: 4
+key: t Value: 4
+key: y Value: 4
+key: q Value: 4
+key: f Value: 4
+key: g Value: 1
+key: i Value: 1
+key: p Value: 1
+key: e Value: 1
+group result: 969
+
+
+ilgschjkmxuy
+qtiywjlcx
+lfcjyqxoiv
+People: 3
+key: i Value: 3
+key: l Value: 3
+key: g Value: 1
+key: s Value: 1
+key: c Value: 3
+key: h Value: 1
+key: j Value: 3
+key: k Value: 1
+key: m Value: 1
+key: x Value: 3
+key: u Value: 1
+key: y Value: 3
+key: q Value: 2
+key: t Value: 1
+key: w Value: 1
+key: f Value: 1
+key: o Value: 1
+key: v Value: 1
+group result: 975
+
+
+e
+e
+e
+e
+People: 4
+key: e Value: 4
+group result: 976
+
+
+vtaiyrfpj
+jtpmvfyra
+pfrytvja
+People: 3
+key: v Value: 3
+key: t Value: 3
+key: a Value: 3
+key: i Value: 1
+key: y Value: 3
+key: r Value: 3
+key: f Value: 3
+key: p Value: 3
+key: j Value: 3
+key: m Value: 1
+group result: 984
+
+
+kmlxghip
+mhldpg
+mghplq
+mhpgl
+People: 4
+key: k Value: 1
+key: m Value: 4
+key: l Value: 4
+key: x Value: 1
+key: g Value: 4
+key: h Value: 4
+key: i Value: 1
+key: p Value: 4
+key: d Value: 1
+key: q Value: 1
+group result: 989
+
+
+glv
+sugfl
+klgdib
+glw
+People: 4
+key: g Value: 4
+key: l Value: 4
+key: v Value: 1
+key: s Value: 1
+key: u Value: 1
+key: f Value: 1
+key: k Value: 1
+key: d Value: 1
+key: i Value: 1
+key: b Value: 1
+key: w Value: 1
+group result: 991
+
+
+xteusvw
+euxtvsw
+wvbxteus
+wmsxtuphveq
+People: 4
+key: x Value: 4
+key: t Value: 4
+key: e Value: 4
+key: u Value: 4
+key: s Value: 4
+key: v Value: 4
+key: w Value: 4
+key: b Value: 1
+key: m Value: 1
+key: p Value: 1
+key: h Value: 1
+key: q Value: 1
+group result: 998
+
+
+cdzjibqkytax
+jkbzxdiyqnct
+People: 2
+key: c Value: 2
+key: d Value: 2
+key: z Value: 2
+key: j Value: 2
+key: i Value: 2
+key: b Value: 2
+key: q Value: 2
+key: k Value: 2
+key: y Value: 2
+key: t Value: 2
+key: a Value: 1
+key: x Value: 2
+key: n Value: 1
+group result: 1009
+
+
+zankicousdgtl
+ustgdaniczokl
+okulsgtdaincz
+ktsocladiuzng
+People: 4
+key: z Value: 4
+key: a Value: 4
+key: n Value: 4
+key: k Value: 4
+key: i Value: 4
+key: c Value: 4
+key: o Value: 4
+key: u Value: 4
+key: s Value: 4
+key: d Value: 4
+key: g Value: 4
+key: t Value: 4
+key: l Value: 4
+group result: 1022
+
+
+inau
+naui
+iuzmpan
+uina
+ianu
+People: 5
+key: i Value: 5
+key: n Value: 5
+key: a Value: 5
+key: u Value: 5
+key: z Value: 1
+key: m Value: 1
+key: p Value: 1
+group result: 1026
+
+
+plbuxck
+clfpxkbu
+People: 2
+key: p Value: 2
+key: l Value: 2
+key: b Value: 2
+key: u Value: 2
+key: x Value: 2
+key: c Value: 2
+key: k Value: 2
+key: f Value: 1
+group result: 1033
+
+
+ryxu
+yru
+dcrjyiu
+ryu
+uyr
+People: 5
+key: r Value: 5
+key: y Value: 5
+key: x Value: 1
+key: u Value: 5
+key: d Value: 1
+key: c Value: 1
+key: j Value: 1
+key: i Value: 1
+group result: 1036
+
+
+vgwrjpsxhqn
+fdqpn
+pfqn
+pnuqt
+People: 4
+key: v Value: 1
+key: g Value: 1
+key: w Value: 1
+key: r Value: 1
+key: j Value: 1
+key: p Value: 4
+key: s Value: 1
+key: x Value: 1
+key: h Value: 1
+key: q Value: 4
+key: n Value: 4
+key: f Value: 2
+key: d Value: 1
+key: u Value: 1
+key: t Value: 1
+group result: 1039
+
+
+wahxceymdtj
+ycdmjaxwhet
+emdtaychxjw
+dewhymjtcxna
+People: 4
+key: w Value: 4
+key: a Value: 4
+key: h Value: 4
+key: x Value: 4
+key: c Value: 4
+key: e Value: 4
+key: y Value: 4
+key: m Value: 4
+key: d Value: 4
+key: t Value: 4
+key: j Value: 4
+key: n Value: 1
+group result: 1050
+
+
+gbua
+nkw
+People: 2
+key: g Value: 1
+key: b Value: 1
+key: u Value: 1
+key: a Value: 1
+key: n Value: 1
+key: k Value: 1
+key: w Value: 1
+group result: 1050
+
+
+fz
+z
+pz
+bz
+zf
+People: 5
+key: f Value: 2
+key: z Value: 5
+key: p Value: 1
+key: b Value: 1
+group result: 1051
+
+
+jlfeonbgdutm
+nebtofdjmlgu
+ldugbeynfotmj
+fmlutjobegnd
+People: 4
+key: j Value: 4
+key: l Value: 4
+key: f Value: 4
+key: e Value: 4
+key: o Value: 4
+key: n Value: 4
+key: b Value: 4
+key: g Value: 4
+key: d Value: 4
+key: u Value: 4
+key: t Value: 4
+key: m Value: 4
+key: y Value: 1
+group result: 1063
+
+
+pdkzowbuflqgt
+twbolqufpdzg
+People: 2
+key: p Value: 2
+key: d Value: 2
+key: k Value: 1
+key: z Value: 2
+key: o Value: 2
+key: w Value: 2
+key: b Value: 2
+key: u Value: 2
+key: f Value: 2
+key: l Value: 2
+key: q Value: 2
+key: g Value: 2
+key: t Value: 2
+group result: 1075
+
+
+cyeuvjtbinholfx
+cjhostyevfnlbmi
+People: 2
+key: c Value: 2
+key: y Value: 2
+key: e Value: 2
+key: u Value: 1
+key: v Value: 2
+key: j Value: 2
+key: t Value: 2
+key: b Value: 2
+key: i Value: 2
+key: n Value: 2
+key: h Value: 2
+key: o Value: 2
+key: l Value: 2
+key: f Value: 2
+key: x Value: 1
+key: s Value: 1
+key: m Value: 1
+group result: 1088
+
+
+x
+bx
+x
+xa
+x
+People: 5
+key: x Value: 5
+key: b Value: 1
+key: a Value: 1
+group result: 1089
+
+
+rudlgmtnkc
+oqbxv
+o
+People: 3
+key: r Value: 1
+key: u Value: 1
+key: d Value: 1
+key: l Value: 1
+key: g Value: 1
+key: m Value: 1
+key: t Value: 1
+key: n Value: 1
+key: k Value: 1
+key: c Value: 1
+key: o Value: 2
+key: q Value: 1
+key: b Value: 1
+key: x Value: 1
+key: v Value: 1
+group result: 1089
+
+
+vyasowhlpgdufrqbenxt
+batgwhlsqufvopenryxd
+xtyrenhpvafgbsqwdlou
+fhxanltgworqbspdueyv
+twpyqnuvgerxbhldafos
+People: 5
+key: v Value: 5
+key: y Value: 5
+key: a Value: 5
+key: s Value: 5
+key: o Value: 5
+key: w Value: 5
+key: h Value: 5
+key: l Value: 5
+key: p Value: 5
+key: g Value: 5
+key: d Value: 5
+key: u Value: 5
+key: f Value: 5
+key: r Value: 5
+key: q Value: 5
+key: b Value: 5
+key: e Value: 5
+key: n Value: 5
+key: x Value: 5
+key: t Value: 5
+group result: 1109
+
+
+mvcb
+vcm
+vcm
+cvm
+mvc
+People: 5
+key: m Value: 5
+key: v Value: 5
+key: c Value: 5
+key: b Value: 1
+group result: 1112
+
+
+ycaplgozxd
+daoxlgczpy
+People: 2
+key: y Value: 2
+key: c Value: 2
+key: a Value: 2
+key: p Value: 2
+key: l Value: 2
+key: g Value: 2
+key: o Value: 2
+key: z Value: 2
+key: x Value: 2
+key: d Value: 2
+group result: 1122
+
+
+b
+b
+b
+x
+People: 4
+key: b Value: 3
+key: x Value: 1
+group result: 1122
+
+
+fz
+f
+krjeaxmf
+f
+fz
+People: 5
+key: f Value: 5
+key: z Value: 2
+key: k Value: 1
+key: r Value: 1
+key: j Value: 1
+key: e Value: 1
+key: a Value: 1
+key: x Value: 1
+key: m Value: 1
+group result: 1123
+
+
+vcbm
+vwsgef
+evln
+yqiuhtkzrj
+People: 4
+key: v Value: 3
+key: c Value: 1
+key: b Value: 1
+key: m Value: 1
+key: w Value: 1
+key: s Value: 1
+key: g Value: 1
+key: e Value: 2
+key: f Value: 1
+key: l Value: 1
+key: n Value: 1
+key: y Value: 1
+key: q Value: 1
+key: i Value: 1
+key: u Value: 1
+key: h Value: 1
+key: t Value: 1
+key: k Value: 1
+key: z Value: 1
+key: r Value: 1
+key: j Value: 1
+group result: 1123
+
+
+ng
+ng
+nlj
+People: 3
+key: n Value: 3
+key: g Value: 2
+key: l Value: 1
+key: j Value: 1
+group result: 1124
+
+
+acoplfbrxjgwutq
+jrwocqlfatxubp
+People: 2
+key: a Value: 2
+key: c Value: 2
+key: o Value: 2
+key: p Value: 2
+key: l Value: 2
+key: f Value: 2
+key: b Value: 2
+key: r Value: 2
+key: x Value: 2
+key: j Value: 2
+key: g Value: 1
+key: w Value: 2
+key: u Value: 2
+key: t Value: 2
+key: q Value: 2
+group result: 1138
+
+
+oszjfuv
+dslu
+pxdus
+People: 3
+key: o Value: 1
+key: s Value: 3
+key: z Value: 1
+key: j Value: 1
+key: f Value: 1
+key: u Value: 3
+key: v Value: 1
+key: d Value: 2
+key: l Value: 1
+key: p Value: 1
+key: x Value: 1
+group result: 1140
+
+
+zubdqopa
+dbuapjnqo
+buiadoph
+ojawubpd
+sofpmrudab
+People: 5
+key: z Value: 1
+key: u Value: 5
+key: b Value: 5
+key: d Value: 5
+key: q Value: 2
+key: o Value: 5
+key: p Value: 5
+key: a Value: 5
+key: j Value: 2
+key: n Value: 1
+key: i Value: 1
+key: h Value: 1
+key: w Value: 1
+key: s Value: 1
+key: f Value: 1
+key: m Value: 1
+key: r Value: 1
+group result: 1146
+
+
+ct
+ctyx
+gtc
+ct
+tc
+People: 5
+key: c Value: 5
+key: t Value: 5
+key: y Value: 1
+key: x Value: 1
+key: g Value: 1
+group result: 1148
+
+
+j
+j
+People: 2
+key: j Value: 2
+group result: 1149
+
+
+hdqgvk
+vqkdgh
+qvgdhk
+People: 3
+key: h Value: 3
+key: d Value: 3
+key: q Value: 3
+key: g Value: 3
+key: v Value: 3
+key: k Value: 3
+group result: 1155
+
+
+fmgpbxdwyiqj
+bqywxfgjimpd
+People: 2
+key: f Value: 2
+key: m Value: 2
+key: g Value: 2
+key: p Value: 2
+key: b Value: 2
+key: x Value: 2
+key: d Value: 2
+key: w Value: 2
+key: y Value: 2
+key: i Value: 2
+key: q Value: 2
+key: j Value: 2
+group result: 1167
+
+
+dxmuvetajoysibhqg
+nxedgmqvipytbsurjo
+People: 2
+key: d Value: 2
+key: x Value: 2
+key: m Value: 2
+key: u Value: 2
+key: v Value: 2
+key: e Value: 2
+key: t Value: 2
+key: a Value: 1
+key: j Value: 2
+key: o Value: 2
+key: y Value: 2
+key: s Value: 2
+key: i Value: 2
+key: b Value: 2
+key: h Value: 1
+key: q Value: 2
+key: g Value: 2
+key: n Value: 1
+key: p Value: 1
+key: r Value: 1
+group result: 1182
+
+
+eubkmnpz
+hxmvufkibnz
+kbudmowsz
+inrzbmuxk
+People: 4
+key: e Value: 1
+key: u Value: 4
+key: b Value: 4
+key: k Value: 4
+key: m Value: 4
+key: n Value: 3
+key: p Value: 1
+key: z Value: 4
+key: h Value: 1
+key: x Value: 2
+key: v Value: 1
+key: f Value: 1
+key: i Value: 2
+key: d Value: 1
+key: o Value: 1
+key: w Value: 1
+key: s Value: 1
+key: r Value: 1
+group result: 1187
+
+
+hqje
+ejhq
+heqj
+ejqh
+People: 4
+key: h Value: 4
+key: q Value: 4
+key: j Value: 4
+key: e Value: 4
+group result: 1191
+
+
+y
+y
+yc
+y
+People: 4
+key: y Value: 4
+key: c Value: 1
+group result: 1192
+
+
+nmsgowetayil
+hpvbdqnckxj
+People: 2
+key: n Value: 2
+key: m Value: 1
+key: s Value: 1
+key: g Value: 1
+key: o Value: 1
+key: w Value: 1
+key: e Value: 1
+key: t Value: 1
+key: a Value: 1
+key: y Value: 1
+key: i Value: 1
+key: l Value: 1
+key: h Value: 1
+key: p Value: 1
+key: v Value: 1
+key: b Value: 1
+key: d Value: 1
+key: q Value: 1
+key: c Value: 1
+key: k Value: 1
+key: x Value: 1
+key: j Value: 1
+group result: 1193
+
+
+zyj
+zdyjk
+yzj
+jypz
+People: 4
+key: z Value: 4
+key: y Value: 4
+key: j Value: 4
+key: d Value: 1
+key: k Value: 1
+key: p Value: 1
+group result: 1196
+
+
+qgpu
+qg
+People: 2
+key: q Value: 2
+key: g Value: 2
+key: p Value: 1
+key: u Value: 1
+group result: 1198
+
+
+fu
+xs
+omw
+People: 3
+key: f Value: 1
+key: u Value: 1
+key: x Value: 1
+key: s Value: 1
+key: o Value: 1
+key: m Value: 1
+key: w Value: 1
+group result: 1198
+
+
+w
+agd
+dx
+tezoc
+People: 4
+key: w Value: 1
+key: a Value: 1
+key: g Value: 1
+key: d Value: 2
+key: x Value: 1
+key: t Value: 1
+key: e Value: 1
+key: z Value: 1
+key: o Value: 1
+key: c Value: 1
+group result: 1198
+
+
+erqkcxt
+sdpmvilozyan
+quc
+gxbhqr
+People: 4
+key: e Value: 1
+key: r Value: 2
+key: q Value: 3
+key: k Value: 1
+key: c Value: 2
+key: x Value: 2
+key: t Value: 1
+key: s Value: 1
+key: d Value: 1
+key: p Value: 1
+key: m Value: 1
+key: v Value: 1
+key: i Value: 1
+key: l Value: 1
+key: o Value: 1
+key: z Value: 1
+key: y Value: 1
+key: a Value: 1
+key: n Value: 1
+key: u Value: 1
+key: g Value: 1
+key: b Value: 1
+key: h Value: 1
+group result: 1198
+
+
+tdeqmjigaywlvsrn
+imsctqvnrdwjlgyea
+vunkwyhibsrgmxaqtldzej
+People: 3
+key: t Value: 3
+key: d Value: 3
+key: e Value: 3
+key: q Value: 3
+key: m Value: 3
+key: j Value: 3
+key: i Value: 3
+key: g Value: 3
+key: a Value: 3
+key: y Value: 3
+key: w Value: 3
+key: l Value: 3
+key: v Value: 3
+key: s Value: 3
+key: r Value: 3
+key: n Value: 3
+key: c Value: 1
+key: u Value: 1
+key: k Value: 1
+key: h Value: 1
+key: b Value: 1
+key: x Value: 1
+key: z Value: 1
+group result: 1214
+
+
+qxpnhkyz
+hnypxzqk
+qphzxynk
+pzyqxnkh
+ynzpxqkh
+People: 5
+key: q Value: 5
+key: x Value: 5
+key: p Value: 5
+key: n Value: 5
+key: h Value: 5
+key: k Value: 5
+key: y Value: 5
+key: z Value: 5
+group result: 1222
+
+
+bue
+bue
+ufbmeq
+People: 3
+key: b Value: 3
+key: u Value: 3
+key: e Value: 3
+key: f Value: 1
+key: m Value: 1
+key: q Value: 1
+group result: 1225
+
+
+neg
+e
+ksxo
+People: 3
+key: n Value: 1
+key: e Value: 2
+key: g Value: 1
+key: k Value: 1
+key: s Value: 1
+key: x Value: 1
+key: o Value: 1
+group result: 1225
+
+
+fgdkuwm
+grkfu
+People: 2
+key: f Value: 2
+key: g Value: 2
+key: d Value: 1
+key: k Value: 2
+key: u Value: 2
+key: w Value: 1
+key: m Value: 1
+key: r Value: 1
+group result: 1229
+
+
+c
+c
+c
+People: 3
+key: c Value: 3
+group result: 1230
+
+
+djqksy
+syqjd
+People: 2
+key: d Value: 2
+key: j Value: 2
+key: q Value: 2
+key: k Value: 1
+key: s Value: 2
+key: y Value: 2
+group result: 1235
+
+
+uqvztgcy
+tuzvcb
+jztuvce
+ctuevz
+zuovtc
+People: 5
+key: u Value: 5
+key: q Value: 1
+key: v Value: 5
+key: z Value: 5
+key: t Value: 5
+key: g Value: 1
+key: c Value: 5
+key: y Value: 1
+key: b Value: 1
+key: j Value: 1
+key: e Value: 2
+key: o Value: 1
+group result: 1240
+
+
+phlbum
+bhupml
+uhblpm
+aplhbmute
+People: 4
+key: p Value: 4
+key: h Value: 4
+key: l Value: 4
+key: b Value: 4
+key: u Value: 4
+key: m Value: 4
+key: a Value: 1
+key: t Value: 1
+key: e Value: 1
+group result: 1246
+
+
+gbiwk
+gawxiek
+gkiw
+glkbiw
+giwkl
+People: 5
+key: g Value: 5
+key: b Value: 2
+key: i Value: 5
+key: w Value: 5
+key: k Value: 5
+key: a Value: 1
+key: x Value: 1
+key: e Value: 1
+key: l Value: 2
+group result: 1250
+
+
+xepwdgfrytajinhoq
+rsaotezjgucnlimk
+People: 2
+key: x Value: 1
+key: e Value: 2
+key: p Value: 1
+key: w Value: 1
+key: d Value: 1
+key: g Value: 2
+key: f Value: 1
+key: r Value: 2
+key: y Value: 1
+key: t Value: 2
+key: a Value: 2
+key: j Value: 2
+key: i Value: 2
+key: n Value: 2
+key: h Value: 1
+key: o Value: 2
+key: q Value: 1
+key: s Value: 1
+key: z Value: 1
+key: u Value: 1
+key: c Value: 1
+key: l Value: 1
+key: m Value: 1
+key: k Value: 1
+group result: 1259
+
+
+oficy
+yca
+ycd
+cyg
+yc
+People: 5
+key: o Value: 1
+key: f Value: 1
+key: i Value: 1
+key: c Value: 5
+key: y Value: 5
+key: a Value: 1
+key: d Value: 1
+key: g Value: 1
+group result: 1261
+
+
+lub
+cblu
+lruxnb
+People: 3
+key: l Value: 3
+key: u Value: 3
+key: b Value: 3
+key: c Value: 1
+key: r Value: 1
+key: x Value: 1
+key: n Value: 1
+group result: 1264
+
+
+nbwcmqa
+xbnqwcam
+nmbawqc
+wnacfqmb
+People: 4
+key: n Value: 4
+key: b Value: 4
+key: w Value: 4
+key: c Value: 4
+key: m Value: 4
+key: q Value: 4
+key: a Value: 4
+key: x Value: 1
+key: f Value: 1
+group result: 1271
+
+
+cvounwyxtmrfdhjbsla
+tvdmxjhqucaowbfsnlr
+People: 2
+key: c Value: 2
+key: v Value: 2
+key: o Value: 2
+key: u Value: 2
+key: n Value: 2
+key: w Value: 2
+key: y Value: 1
+key: x Value: 2
+key: t Value: 2
+key: m Value: 2
+key: r Value: 2
+key: f Value: 2
+key: d Value: 2
+key: h Value: 2
+key: j Value: 2
+key: b Value: 2
+key: s Value: 2
+key: l Value: 2
+key: a Value: 2
+key: q Value: 1
+group result: 1289
+
+
+uhcdfzsgxwtejkqo
+hxzcquksfgeodwtj
+osezufdhwqjxtcgk
+tcewzdjoqghxuskf
+qgzhsujdxwoeftkc
+People: 5
+key: u Value: 5
+key: h Value: 5
+key: c Value: 5
+key: d Value: 5
+key: f Value: 5
+key: z Value: 5
+key: s Value: 5
+key: g Value: 5
+key: x Value: 5
+key: w Value: 5
+key: t Value: 5
+key: e Value: 5
+key: j Value: 5
+key: k Value: 5
+key: q Value: 5
+key: o Value: 5
+group result: 1305
+
+
+xvhboqlgrypjf
+hftqjpxguyolvb
+jxvqgyfacopzbl
+People: 3
+key: x Value: 3
+key: v Value: 3
+key: h Value: 2
+key: b Value: 3
+key: o Value: 3
+key: q Value: 3
+key: l Value: 3
+key: g Value: 3
+key: r Value: 1
+key: y Value: 3
+key: p Value: 3
+key: j Value: 3
+key: f Value: 3
+key: t Value: 1
+key: u Value: 1
+key: a Value: 1
+key: c Value: 1
+key: z Value: 1
+group result: 1316
+
+
+hqosbywltnagkzpudirjcmefx
+hnmuldwyxcpfsbrzkgejov
+People: 2
+key: h Value: 2
+key: q Value: 1
+key: o Value: 2
+key: s Value: 2
+key: b Value: 2
+key: y Value: 2
+key: w Value: 2
+key: l Value: 2
+key: t Value: 1
+key: n Value: 2
+key: a Value: 1
+key: g Value: 2
+key: k Value: 2
+key: z Value: 2
+key: p Value: 2
+key: u Value: 2
+key: d Value: 2
+key: i Value: 1
+key: r Value: 2
+key: j Value: 2
+key: c Value: 2
+key: m Value: 2
+key: e Value: 2
+key: f Value: 2
+key: x Value: 2
+key: v Value: 1
+group result: 1337
+
+
+ghtvjnuwldzx
+vsuzahjwmnd
+pzwvuctijlndh
+qwznuybvjheofkd
+wdusnjrzhvt
+People: 5
+key: g Value: 1
+key: h Value: 5
+key: t Value: 3
+key: v Value: 5
+key: j Value: 5
+key: n Value: 5
+key: u Value: 5
+key: w Value: 5
+key: l Value: 2
+key: d Value: 5
+key: z Value: 5
+key: x Value: 1
+key: s Value: 2
+key: a Value: 1
+key: m Value: 1
+key: p Value: 1
+key: c Value: 1
+key: i Value: 1
+key: q Value: 1
+key: y Value: 1
+key: b Value: 1
+key: e Value: 1
+key: o Value: 1
+key: f Value: 1
+key: k Value: 1
+key: r Value: 1
+group result: 1345
+
+
+zuphrg
+puhzrg
+purhzg
+puhgzr
+People: 4
+key: z Value: 4
+key: u Value: 4
+key: p Value: 4
+key: h Value: 4
+key: r Value: 4
+key: g Value: 4
+group result: 1351
+
+
+injtqw
+niqtj
+tjpncqrzl
+stqjn
+tgjnwq
+People: 5
+key: i Value: 2
+key: n Value: 5
+key: j Value: 5
+key: t Value: 5
+key: q Value: 5
+key: w Value: 2
+key: p Value: 1
+key: c Value: 1
+key: r Value: 1
+key: z Value: 1
+key: l Value: 1
+key: s Value: 1
+key: g Value: 1
+group result: 1355
+
+
+ogrqaclmytjspwuefz
+owpcyrqgatmfueszlj
+qeprtazojwlghumfcsy
+syfclprwjzauogqtme
+mltuasgyqjeopzwcfr
+People: 5
+key: o Value: 5
+key: g Value: 5
+key: r Value: 5
+key: q Value: 5
+key: a Value: 5
+key: c Value: 5
+key: l Value: 5
+key: m Value: 5
+key: y Value: 5
+key: t Value: 5
+key: j Value: 5
+key: s Value: 5
+key: p Value: 5
+key: w Value: 5
+key: u Value: 5
+key: e Value: 5
+key: f Value: 5
+key: z Value: 5
+key: h Value: 1
+group result: 1373
+
+
+vwczioq
+wnlh
+wn
+hfnw
+People: 4
+key: v Value: 1
+key: w Value: 4
+key: c Value: 1
+key: z Value: 1
+key: i Value: 1
+key: o Value: 1
+key: q Value: 1
+key: n Value: 3
+key: l Value: 1
+key: h Value: 2
+key: f Value: 1
+group result: 1374
+
+
+xpamkfbv
+gytnslei
+zhcswj
+eznydrt
+People: 4
+key: x Value: 1
+key: p Value: 1
+key: a Value: 1
+key: m Value: 1
+key: k Value: 1
+key: f Value: 1
+key: b Value: 1
+key: v Value: 1
+key: g Value: 1
+key: y Value: 2
+key: t Value: 2
+key: n Value: 2
+key: s Value: 2
+key: l Value: 1
+key: e Value: 2
+key: i Value: 1
+key: z Value: 2
+key: h Value: 1
+key: c Value: 1
+key: w Value: 1
+key: j Value: 1
+key: d Value: 1
+key: r Value: 1
+group result: 1374
+
+
+gwnxykecs
+sxenkycw
+yknecwsx
+People: 3
+key: g Value: 1
+key: w Value: 3
+key: n Value: 3
+key: x Value: 3
+key: y Value: 3
+key: k Value: 3
+key: e Value: 3
+key: c Value: 3
+key: s Value: 3
+group result: 1382
+
+
+arsyvxtn
+fpkejwcuog
+lxzsdhirmqbn
+People: 3
+key: a Value: 1
+key: r Value: 2
+key: s Value: 2
+key: y Value: 1
+key: v Value: 1
+key: x Value: 2
+key: t Value: 1
+key: n Value: 2
+key: f Value: 1
+key: p Value: 1
+key: k Value: 1
+key: e Value: 1
+key: j Value: 1
+key: w Value: 1
+key: c Value: 1
+key: u Value: 1
+key: o Value: 1
+key: g Value: 1
+key: l Value: 1
+key: z Value: 1
+key: d Value: 1
+key: h Value: 1
+key: i Value: 1
+key: m Value: 1
+key: q Value: 1
+key: b Value: 1
+group result: 1382
+
+
+deoi
+byeanvt
+idple
+People: 3
+key: d Value: 2
+key: e Value: 3
+key: o Value: 1
+key: i Value: 2
+key: b Value: 1
+key: y Value: 1
+key: a Value: 1
+key: n Value: 1
+key: v Value: 1
+key: t Value: 1
+key: p Value: 1
+key: l Value: 1
+group result: 1383
+
+
+gtjhvn
+ukny
+ltnm
+qofsadewxcb
+People: 4
+key: g Value: 1
+key: t Value: 2
+key: j Value: 1
+key: h Value: 1
+key: v Value: 1
+key: n Value: 3
+key: u Value: 1
+key: k Value: 1
+key: y Value: 1
+key: l Value: 1
+key: m Value: 1
+key: q Value: 1
+key: o Value: 1
+key: f Value: 1
+key: s Value: 1
+key: a Value: 1
+key: d Value: 1
+key: e Value: 1
+key: w Value: 1
+key: x Value: 1
+key: c Value: 1
+key: b Value: 1
+group result: 1383
+
+
+jsfxod
+bcqyxzd
+xdpomwnt
+People: 3
+key: j Value: 1
+key: s Value: 1
+key: f Value: 1
+key: x Value: 3
+key: o Value: 2
+key: d Value: 3
+key: b Value: 1
+key: c Value: 1
+key: q Value: 1
+key: y Value: 1
+key: z Value: 1
+key: p Value: 1
+key: m Value: 1
+key: w Value: 1
+key: n Value: 1
+key: t Value: 1
+group result: 1385
+
+
+wxdypceabjtigruhmszv
+abyxhgtevjpmwrczuids
+czvgbhrtjxsaiydwpmeu
+aybegztxsihrcjpvwumd
+ztdeimhryjxwcsbapvug
+People: 5
+key: w Value: 5
+key: x Value: 5
+key: d Value: 5
+key: y Value: 5
+key: p Value: 5
+key: c Value: 5
+key: e Value: 5
+key: a Value: 5
+key: b Value: 5
+key: j Value: 5
+key: t Value: 5
+key: i Value: 5
+key: g Value: 5
+key: r Value: 5
+key: u Value: 5
+key: h Value: 5
+key: m Value: 5
+key: s Value: 5
+key: z Value: 5
+key: v Value: 5
+group result: 1405
+
+
+awk
+wa
+vwa
+aw
+People: 4
+key: a Value: 4
+key: w Value: 4
+key: k Value: 1
+key: v Value: 1
+group result: 1407
+
+
+kh
+gk
+People: 2
+key: k Value: 2
+key: h Value: 1
+key: g Value: 1
+group result: 1408
+
+
+orhs
+ohqrs
+srho
+People: 3
+key: o Value: 3
+key: r Value: 3
+key: h Value: 3
+key: s Value: 3
+key: q Value: 1
+group result: 1412
+
+
+cdseliqzmxr
+putwvjigze
+ikzvanwe
+pgazjie
+People: 4
+key: c Value: 1
+key: d Value: 1
+key: s Value: 1
+key: e Value: 4
+key: l Value: 1
+key: i Value: 4
+key: q Value: 1
+key: z Value: 4
+key: m Value: 1
+key: x Value: 1
+key: r Value: 1
+key: p Value: 2
+key: u Value: 1
+key: t Value: 1
+key: w Value: 2
+key: v Value: 2
+key: j Value: 2
+key: g Value: 2
+key: k Value: 1
+key: a Value: 2
+key: n Value: 1
+group result: 1415
+
+
+lj
+jl
+ljc
+jlr
+People: 4
+key: l Value: 4
+key: j Value: 4
+key: c Value: 1
+key: r Value: 1
+group result: 1417
+
+
+fcjtuhaokiex
+eoxhfqukzitcjanw
+xjoutkphcfdgsial
+People: 3
+key: f Value: 3
+key: c Value: 3
+key: j Value: 3
+key: t Value: 3
+key: u Value: 3
+key: h Value: 3
+key: a Value: 3
+key: o Value: 3
+key: k Value: 3
+key: i Value: 3
+key: e Value: 2
+key: x Value: 3
+key: q Value: 1
+key: z Value: 1
+key: n Value: 1
+key: w Value: 1
+key: p Value: 1
+key: d Value: 1
+key: g Value: 1
+key: s Value: 1
+key: l Value: 1
+group result: 1428
+
+
+diqvuj
+vdquji
+xudsiqjv
+dvqjui
+uvdijq
+People: 5
+key: d Value: 5
+key: i Value: 5
+key: q Value: 5
+key: v Value: 5
+key: u Value: 5
+key: j Value: 5
+key: x Value: 1
+key: s Value: 1
+group result: 1434
+
+
+sgyjcewoqmtknir
+njcueswamtrgkqoi
+srinwekoyqtcmgj
+qwxbrjkehgfvcntopszimd
+People: 4
+key: s Value: 4
+key: g Value: 4
+key: y Value: 2
+key: j Value: 4
+key: c Value: 4
+key: e Value: 4
+key: w Value: 4
+key: o Value: 4
+key: q Value: 4
+key: m Value: 4
+key: t Value: 4
+key: k Value: 4
+key: n Value: 4
+key: i Value: 4
+key: r Value: 4
+key: u Value: 1
+key: a Value: 1
+key: x Value: 1
+key: b Value: 1
+key: h Value: 1
+key: f Value: 1
+key: v Value: 1
+key: p Value: 1
+key: z Value: 1
+key: d Value: 1
+group result: 1448
+
+
+ihudyzfgvplqjawrtemcsxkbo
+wmfdbjzxtkiruvyqscphelago
+qspaetibkfdzuhmlxjwryovcg
+pfgykiqajmoezudwhlrcbvtsx
+qbweptkonashfgrjxuzcdlmivy
+People: 5
+key: i Value: 5
+key: h Value: 5
+key: u Value: 5
+key: d Value: 5
+key: y Value: 5
+key: z Value: 5
+key: f Value: 5
+key: g Value: 5
+key: v Value: 5
+key: p Value: 5
+key: l Value: 5
+key: q Value: 5
+key: j Value: 5
+key: a Value: 5
+key: w Value: 5
+key: r Value: 5
+key: t Value: 5
+key: e Value: 5
+key: m Value: 5
+key: c Value: 5
+key: s Value: 5
+key: x Value: 5
+key: k Value: 5
+key: b Value: 5
+key: o Value: 5
+key: n Value: 1
+group result: 1473
+
+
+tqpnysgxbrczi
+ewungkavbzoqix
+People: 2
+key: t Value: 1
+key: q Value: 2
+key: p Value: 1
+key: n Value: 2
+key: y Value: 1
+key: s Value: 1
+key: g Value: 2
+key: x Value: 2
+key: b Value: 2
+key: r Value: 1
+key: c Value: 1
+key: z Value: 2
+key: i Value: 2
+key: e Value: 1
+key: w Value: 1
+key: u Value: 1
+key: k Value: 1
+key: a Value: 1
+key: v Value: 1
+key: o Value: 1
+group result: 1480
+
+
+dnatolubrm
+gykvdnqblero
+rbndolsm
+zlbdrosnf
+arhlbnfuod
+People: 5
+key: d Value: 5
+key: n Value: 5
+key: a Value: 2
+key: t Value: 1
+key: o Value: 5
+key: l Value: 5
+key: u Value: 2
+key: b Value: 5
+key: r Value: 5
+key: m Value: 2
+key: g Value: 1
+key: y Value: 1
+key: k Value: 1
+key: v Value: 1
+key: q Value: 1
+key: e Value: 1
+key: s Value: 2
+key: z Value: 1
+key: f Value: 2
+key: h Value: 1
+group result: 1486
+
+
+bof
+obf
+obf
+People: 3
+key: b Value: 3
+key: o Value: 3
+key: f Value: 3
+group result: 1489
+
+
+sfowhkxidyu
+dsyxfhik
+khxdgsfyi
+People: 3
+key: s Value: 3
+key: f Value: 3
+key: o Value: 1
+key: w Value: 1
+key: h Value: 3
+key: k Value: 3
+key: x Value: 3
+key: i Value: 3
+key: d Value: 3
+key: y Value: 3
+key: u Value: 1
+key: g Value: 1
+group result: 1497
+
+
+troasbmedwuc
+bakeputwdfmycos
+bmvwlngheqsctazujodx
+odbafecmtwsu
+People: 4
+key: t Value: 4
+key: r Value: 1
+key: o Value: 4
+key: a Value: 4
+key: s Value: 4
+key: b Value: 4
+key: m Value: 4
+key: e Value: 4
+key: d Value: 4
+key: w Value: 4
+key: u Value: 4
+key: c Value: 4
+key: k Value: 1
+key: p Value: 1
+key: f Value: 2
+key: y Value: 1
+key: v Value: 1
+key: l Value: 1
+key: n Value: 1
+key: g Value: 1
+key: h Value: 1
+key: q Value: 1
+key: z Value: 1
+key: j Value: 1
+key: x Value: 1
+group result: 1508
+
+
+svugapj
+hupsjv
+uspvj
+vuspj
+ysduvhjp
+People: 5
+key: s Value: 5
+key: v Value: 5
+key: u Value: 5
+key: g Value: 1
+key: a Value: 1
+key: p Value: 5
+key: j Value: 5
+key: h Value: 2
+key: y Value: 1
+key: d Value: 1
+group result: 1513
+
+
+epvkocuynsdgxabw
+askfqcwevpudxlngby
+jwxcvbyghdsauekpn
+People: 3
+key: e Value: 3
+key: p Value: 3
+key: v Value: 3
+key: k Value: 3
+key: o Value: 1
+key: c Value: 3
+key: u Value: 3
+key: y Value: 3
+key: n Value: 3
+key: s Value: 3
+key: d Value: 3
+key: g Value: 3
+key: x Value: 3
+key: a Value: 3
+key: b Value: 3
+key: w Value: 3
+key: f Value: 1
+key: q Value: 1
+key: l Value: 1
+key: j Value: 1
+key: h Value: 1
+group result: 1528
+
+
+uxomkrnqbda
+bkdaxqnuomr
+mnqxkdubrosa
+qmrblxndkauo
+daqbknurmyjox
+People: 5
+key: u Value: 5
+key: x Value: 5
+key: o Value: 5
+key: m Value: 5
+key: k Value: 5
+key: r Value: 5
+key: n Value: 5
+key: q Value: 5
+key: b Value: 5
+key: d Value: 5
+key: a Value: 5
+key: s Value: 1
+key: l Value: 1
+key: y Value: 1
+key: j Value: 1
+group result: 1539
+
+
+fdmys
+ydmsf
+fydsm
+sdmfy
+sfmdy
+People: 5
+key: f Value: 5
+key: d Value: 5
+key: m Value: 5
+key: y Value: 5
+key: s Value: 5
+group result: 1544
+
+
+kwyios
+yksiov
+okqnlashy
+ogyks
+vkfmosy
+People: 5
+key: k Value: 5
+key: w Value: 1
+key: y Value: 5
+key: i Value: 2
+key: o Value: 5
+key: s Value: 5
+key: v Value: 2
+key: q Value: 1
+key: n Value: 1
+key: l Value: 1
+key: a Value: 1
+key: h Value: 1
+key: g Value: 1
+key: f Value: 1
+key: m Value: 1
+group result: 1548
+
+
+bwsa
+wbphsua
+nubotsaw
+ajscmwbf
+People: 4
+key: b Value: 4
+key: w Value: 4
+key: s Value: 4
+key: a Value: 4
+key: p Value: 1
+key: h Value: 1
+key: u Value: 2
+key: n Value: 1
+key: o Value: 1
+key: t Value: 1
+key: j Value: 1
+key: c Value: 1
+key: m Value: 1
+key: f Value: 1
+group result: 1552
+
+
+nhxec
+ubdkivs
+People: 2
+key: n Value: 1
+key: h Value: 1
+key: x Value: 1
+key: e Value: 1
+key: c Value: 1
+key: u Value: 1
+key: b Value: 1
+key: d Value: 1
+key: k Value: 1
+key: i Value: 1
+key: v Value: 1
+key: s Value: 1
+group result: 1552
+
+
+eatgmjflvkbpqyroszuidchnx
+vndrhqzbcfkxouemjgltys
+dbhtvucnwfmylozsejkxqrg
+People: 3
+key: e Value: 3
+key: a Value: 1
+key: t Value: 3
+key: g Value: 3
+key: m Value: 3
+key: j Value: 3
+key: f Value: 3
+key: l Value: 3
+key: v Value: 3
+key: k Value: 3
+key: b Value: 3
+key: p Value: 1
+key: q Value: 3
+key: y Value: 3
+key: r Value: 3
+key: o Value: 3
+key: s Value: 3
+key: z Value: 3
+key: u Value: 3
+key: i Value: 1
+key: d Value: 3
+key: c Value: 3
+key: h Value: 3
+key: n Value: 3
+key: x Value: 3
+key: w Value: 1
+group result: 1574
+
+
+sizuofhdl
+chdztjpym
+xhzoebd
+abhvzsd
+People: 4
+key: s Value: 2
+key: i Value: 1
+key: z Value: 4
+key: u Value: 1
+key: o Value: 2
+key: f Value: 1
+key: h Value: 4
+key: d Value: 4
+key: l Value: 1
+key: c Value: 1
+key: t Value: 1
+key: j Value: 1
+key: p Value: 1
+key: y Value: 1
+key: m Value: 1
+key: x Value: 1
+key: e Value: 1
+key: b Value: 2
+key: a Value: 1
+key: v Value: 1
+group result: 1577
+
+
+wepdrksjizqxa
+jdegpilxkrzaswq
+kvpybqrxdszjiuamwe
+sqzdijkrxpeaw
+sijqpzxkaewdgr
+People: 5
+key: w Value: 5
+key: e Value: 5
+key: p Value: 5
+key: d Value: 5
+key: r Value: 5
+key: k Value: 5
+key: s Value: 5
+key: j Value: 5
+key: i Value: 5
+key: z Value: 5
+key: q Value: 5
+key: x Value: 5
+key: a Value: 5
+key: g Value: 2
+key: l Value: 1
+key: v Value: 1
+key: y Value: 1
+key: b Value: 1
+key: u Value: 1
+key: m Value: 1
+group result: 1590
+
+
+bhip
+bhk
+People: 2
+key: b Value: 2
+key: h Value: 2
+key: i Value: 1
+key: p Value: 1
+key: k Value: 1
+group result: 1592
+
+
+ynfhorsbquxicw
+ufgrcnsixybhqow
+People: 2
+key: y Value: 2
+key: n Value: 2
+key: f Value: 2
+key: h Value: 2
+key: o Value: 2
+key: r Value: 2
+key: s Value: 2
+key: b Value: 2
+key: q Value: 2
+key: u Value: 2
+key: x Value: 2
+key: i Value: 2
+key: c Value: 2
+key: w Value: 2
+key: g Value: 1
+group result: 1606
+
+
+ivopdlxhzysjqncw
+pukfrqxish
+People: 2
+key: i Value: 2
+key: v Value: 1
+key: o Value: 1
+key: p Value: 2
+key: d Value: 1
+key: l Value: 1
+key: x Value: 2
+key: h Value: 2
+key: z Value: 1
+key: y Value: 1
+key: s Value: 2
+key: j Value: 1
+key: q Value: 2
+key: n Value: 1
+key: c Value: 1
+key: w Value: 1
+key: u Value: 1
+key: k Value: 1
+key: f Value: 1
+key: r Value: 1
+group result: 1612
+
+
+gwfmuntbicp
+dwgsmfntbxzuq
+teumifngbw
+ghtnbuwykmf
+People: 4
+key: g Value: 4
+key: w Value: 4
+key: f Value: 4
+key: m Value: 4
+key: u Value: 4
+key: n Value: 4
+key: t Value: 4
+key: b Value: 4
+key: i Value: 2
+key: c Value: 1
+key: p Value: 1
+key: d Value: 1
+key: s Value: 1
+key: x Value: 1
+key: z Value: 1
+key: q Value: 1
+key: e Value: 1
+key: h Value: 1
+key: y Value: 1
+key: k Value: 1
+group result: 1620
+
+
+ayrwtqmpvhjnfbo
+fybqnxjrswakto
+obglufdeitqrncza
+People: 3
+key: a Value: 3
+key: y Value: 2
+key: r Value: 3
+key: w Value: 2
+key: t Value: 3
+key: q Value: 3
+key: m Value: 1
+key: p Value: 1
+key: v Value: 1
+key: h Value: 1
+key: j Value: 2
+key: n Value: 3
+key: f Value: 3
+key: b Value: 3
+key: o Value: 3
+key: x Value: 1
+key: s Value: 1
+key: k Value: 1
+key: g Value: 1
+key: l Value: 1
+key: u Value: 1
+key: d Value: 1
+key: e Value: 1
+key: i Value: 1
+key: c Value: 1
+key: z Value: 1
+group result: 1628
+
+
+wynjtzfvdpiahxlrubksgqm
+pxqgkjtbdhvyusnlzmwafri
+yjlnqcrzsbtumvkfiahxwpdg
+People: 3
+key: w Value: 3
+key: y Value: 3
+key: n Value: 3
+key: j Value: 3
+key: t Value: 3
+key: z Value: 3
+key: f Value: 3
+key: v Value: 3
+key: d Value: 3
+key: p Value: 3
+key: i Value: 3
+key: a Value: 3
+key: h Value: 3
+key: x Value: 3
+key: l Value: 3
+key: r Value: 3
+key: u Value: 3
+key: b Value: 3
+key: k Value: 3
+key: s Value: 3
+key: g Value: 3
+key: q Value: 3
+key: m Value: 3
+key: c Value: 1
+group result: 1651
+
+
+bcfmw
+waezsm
+siwgz
+ovtrnduhqwl
+wciex
+People: 5
+key: b Value: 1
+key: c Value: 2
+key: f Value: 1
+key: m Value: 2
+key: w Value: 5
+key: a Value: 1
+key: e Value: 2
+key: z Value: 2
+key: s Value: 2
+key: i Value: 2
+key: g Value: 1
+key: o Value: 1
+key: v Value: 1
+key: t Value: 1
+key: r Value: 1
+key: n Value: 1
+key: d Value: 1
+key: u Value: 1
+key: h Value: 1
+key: q Value: 1
+key: l Value: 1
+key: x Value: 1
+group result: 1652
+
+
+dsiekwvym
+dswemtyvaik
+vsmkewiryd
+dyewiksvm
+mydelvwaski
+People: 5
+key: d Value: 5
+key: s Value: 5
+key: i Value: 5
+key: e Value: 5
+key: k Value: 5
+key: w Value: 5
+key: v Value: 5
+key: y Value: 5
+key: m Value: 5
+key: t Value: 1
+key: a Value: 2
+key: r Value: 1
+key: l Value: 1
+group result: 1661
+
+
+jinutyhcm
+dvymgtpbxj
+People: 2
+key: j Value: 2
+key: i Value: 1
+key: n Value: 1
+key: u Value: 1
+key: t Value: 2
+key: y Value: 2
+key: h Value: 1
+key: c Value: 1
+key: m Value: 2
+key: d Value: 1
+key: v Value: 1
+key: g Value: 1
+key: p Value: 1
+key: b Value: 1
+key: x Value: 1
+group result: 1665
+
+
+ekyambt
+etabrngkcy
+hoayktbe
+People: 3
+key: e Value: 3
+key: k Value: 3
+key: y Value: 3
+key: a Value: 3
+key: m Value: 1
+key: b Value: 3
+key: t Value: 3
+key: r Value: 1
+key: n Value: 1
+key: g Value: 1
+key: c Value: 1
+key: h Value: 1
+key: o Value: 1
+group result: 1671
+
+
+vypd
+xgfhle
+People: 2
+key: v Value: 1
+key: y Value: 1
+key: p Value: 1
+key: d Value: 1
+key: x Value: 1
+key: g Value: 1
+key: f Value: 1
+key: h Value: 1
+key: l Value: 1
+key: e Value: 1
+group result: 1671
+
+
+idkwmoephjnlvfa
+ecofuiknpalt
+euacykbifporln
+People: 3
+key: i Value: 3
+key: d Value: 1
+key: k Value: 3
+key: w Value: 1
+key: m Value: 1
+key: o Value: 3
+key: e Value: 3
+key: p Value: 3
+key: h Value: 1
+key: j Value: 1
+key: n Value: 3
+key: l Value: 3
+key: v Value: 1
+key: f Value: 3
+key: a Value: 3
+key: c Value: 2
+key: u Value: 2
+key: t Value: 1
+key: y Value: 1
+key: b Value: 1
+key: r Value: 1
+group result: 1680
+
+
+ogyxzvnr
+gozynv
+nvozyag
+vnozgy
+zyeovgnq
+People: 5
+key: o Value: 5
+key: g Value: 5
+key: y Value: 5
+key: x Value: 1
+key: z Value: 5
+key: v Value: 5
+key: n Value: 5
+key: r Value: 1
+key: a Value: 1
+key: e Value: 1
+key: q Value: 1
+group result: 1686
+
+
+tgplxrfdnuzqme
+ugktcxpmrlbdf
+xlvmyfbcdghprtu
+People: 3
+key: t Value: 3
+key: g Value: 3
+key: p Value: 3
+key: l Value: 3
+key: x Value: 3
+key: r Value: 3
+key: f Value: 3
+key: d Value: 3
+key: n Value: 1
+key: u Value: 3
+key: z Value: 1
+key: q Value: 1
+key: m Value: 3
+key: e Value: 1
+key: k Value: 1
+key: c Value: 2
+key: b Value: 2
+key: v Value: 1
+key: y Value: 1
+key: h Value: 1
+group result: 1696
+
+
+pbgueijkfax
+aufjegikx
+People: 2
+key: p Value: 1
+key: b Value: 1
+key: g Value: 2
+key: u Value: 2
+key: e Value: 2
+key: i Value: 2
+key: j Value: 2
+key: k Value: 2
+key: f Value: 2
+key: a Value: 2
+key: x Value: 2
+group result: 1705
+
+
+l
+ly
+l
+l
+People: 4
+key: l Value: 4
+key: y Value: 1
+group result: 1706
+
+
+awmdfvtrlybucg
+vtfwubmrcgld
+cldmjtpurkwgvzbf
+People: 3
+key: a Value: 1
+key: w Value: 3
+key: m Value: 3
+key: d Value: 3
+key: f Value: 3
+key: v Value: 3
+key: t Value: 3
+key: r Value: 3
+key: l Value: 3
+key: y Value: 1
+key: b Value: 3
+key: u Value: 3
+key: c Value: 3
+key: g Value: 3
+key: j Value: 1
+key: p Value: 1
+key: k Value: 1
+key: z Value: 1
+group result: 1718
+
+
+l
+l
+lk
+People: 3
+key: l Value: 3
+key: k Value: 1
+group result: 1719
+
+
+qkpouawef
+cqfgkbameixo
+ouaktqzwfje
+People: 3
+key: q Value: 3
+key: k Value: 3
+key: p Value: 1
+key: o Value: 3
+key: u Value: 2
+key: a Value: 3
+key: w Value: 2
+key: e Value: 3
+key: f Value: 3
+key: c Value: 1
+key: g Value: 1
+key: b Value: 1
+key: m Value: 1
+key: i Value: 1
+key: x Value: 1
+key: t Value: 1
+key: z Value: 1
+key: j Value: 1
+group result: 1725
+
+
+camibs
+tcyd
+ndgxc
+pcwlt
+People: 4
+key: c Value: 4
+key: a Value: 1
+key: m Value: 1
+key: i Value: 1
+key: b Value: 1
+key: s Value: 1
+key: t Value: 2
+key: y Value: 1
+key: d Value: 2
+key: n Value: 1
+key: g Value: 1
+key: x Value: 1
+key: p Value: 1
+key: w Value: 1
+key: l Value: 1
+group result: 1726
+
+
+pfbnrxzywviot
+ypgrmixowasufznvj
+People: 2
+key: p Value: 2
+key: f Value: 2
+key: b Value: 1
+key: n Value: 2
+key: r Value: 2
+key: x Value: 2
+key: z Value: 2
+key: y Value: 2
+key: w Value: 2
+key: v Value: 2
+key: i Value: 2
+key: o Value: 2
+key: t Value: 1
+key: g Value: 1
+key: m Value: 1
+key: a Value: 1
+key: s Value: 1
+key: u Value: 1
+key: j Value: 1
+group result: 1737
+
+
+lzbyhnwsgdrxomai
+omlyzanbhvgiwdrs
+lborwhziangsydm
+People: 3
+key: l Value: 3
+key: z Value: 3
+key: b Value: 3
+key: y Value: 3
+key: h Value: 3
+key: n Value: 3
+key: w Value: 3
+key: s Value: 3
+key: g Value: 3
+key: d Value: 3
+key: r Value: 3
+key: x Value: 1
+key: o Value: 3
+key: m Value: 3
+key: a Value: 3
+key: i Value: 3
+key: v Value: 1
+group result: 1752
+
+
+bconaghpkfzvmy
+qhyxogapvkfmcn
+kcgfuhympnvaorw
+sthkfoncjliapydvmg
+kqvnoempghucyfa
+People: 5
+key: b Value: 1
+key: c Value: 5
+key: o Value: 5
+key: n Value: 5
+key: a Value: 5
+key: g Value: 5
+key: h Value: 5
+key: p Value: 5
+key: k Value: 5
+key: f Value: 5
+key: z Value: 1
+key: v Value: 5
+key: m Value: 5
+key: y Value: 5
+key: q Value: 2
+key: x Value: 1
+key: u Value: 2
+key: r Value: 1
+key: w Value: 1
+key: s Value: 1
+key: t Value: 1
+key: j Value: 1
+key: l Value: 1
+key: i Value: 1
+key: d Value: 1
+key: e Value: 1
+group result: 1764
+
+
+zixq
+qzxi
+xqiz
+lqimxgz
+xqiz
+People: 5
+key: z Value: 5
+key: i Value: 5
+key: x Value: 5
+key: q Value: 5
+key: l Value: 1
+key: m Value: 1
+key: g Value: 1
+group result: 1768
+
+
+w
+jstq
+xkphoue
+fzjv
+sgwt
+People: 5
+key: w Value: 2
+key: j Value: 2
+key: s Value: 2
+key: t Value: 2
+key: q Value: 1
+key: x Value: 1
+key: k Value: 1
+key: p Value: 1
+key: h Value: 1
+key: o Value: 1
+key: u Value: 1
+key: e Value: 1
+key: f Value: 1
+key: z Value: 1
+key: v Value: 1
+key: g Value: 1
+group result: 1768
+
+
+ocl
+bctnamsyhdfr
+ce
+c
+jclip
+People: 5
+key: o Value: 1
+key: c Value: 5
+key: l Value: 2
+key: b Value: 1
+key: t Value: 1
+key: n Value: 1
+key: a Value: 1
+key: m Value: 1
+key: s Value: 1
+key: y Value: 1
+key: h Value: 1
+key: d Value: 1
+key: f Value: 1
+key: r Value: 1
+key: e Value: 1
+key: j Value: 1
+key: i Value: 1
+key: p Value: 1
+group result: 1769
+
+
+aywt
+pt
+People: 2
+key: a Value: 1
+key: y Value: 1
+key: w Value: 1
+key: t Value: 2
+key: p Value: 1
+group result: 1770
+
+
+on
+nho
+on
+People: 3
+key: o Value: 3
+key: n Value: 3
+key: h Value: 1
+group result: 1772
+
+
+wyikztj
+zecdrxan
+psmubwzvj
+fzhmkq
+People: 4
+key: w Value: 2
+key: y Value: 1
+key: i Value: 1
+key: k Value: 2
+key: z Value: 4
+key: t Value: 1
+key: j Value: 2
+key: e Value: 1
+key: c Value: 1
+key: d Value: 1
+key: r Value: 1
+key: x Value: 1
+key: a Value: 1
+key: n Value: 1
+key: p Value: 1
+key: s Value: 1
+key: m Value: 2
+key: u Value: 1
+key: b Value: 1
+key: v Value: 1
+key: f Value: 1
+key: h Value: 1
+key: q Value: 1
+group result: 1773
+
+
+bwtuvk
+uvbtkc
+uvkpto
+mtqykvsjrgiu
+twovku
+People: 5
+key: b Value: 2
+key: w Value: 2
+key: t Value: 5
+key: u Value: 5
+key: v Value: 5
+key: k Value: 5
+key: c Value: 1
+key: p Value: 1
+key: o Value: 2
+key: m Value: 1
+key: q Value: 1
+key: y Value: 1
+key: s Value: 1
+key: j Value: 1
+key: r Value: 1
+key: g Value: 1
+key: i Value: 1
+group result: 1777
+
+
+m
+m
+g
+s
+People: 4
+key: m Value: 2
+key: g Value: 1
+key: s Value: 1
+group result: 1777
+
+
+pdmuxeftk
+szvgeotcrwbuq
+People: 2
+key: p Value: 1
+key: d Value: 1
+key: m Value: 1
+key: u Value: 2
+key: x Value: 1
+key: e Value: 2
+key: f Value: 1
+key: t Value: 2
+key: k Value: 1
+key: s Value: 1
+key: z Value: 1
+key: v Value: 1
+key: g Value: 1
+key: o Value: 1
+key: c Value: 1
+key: r Value: 1
+key: w Value: 1
+key: b Value: 1
+key: q Value: 1
+group result: 1780
+
+
+ibvgkput
+iugpkvtzjbx
+People: 2
+key: i Value: 2
+key: b Value: 2
+key: v Value: 2
+key: g Value: 2
+key: k Value: 2
+key: p Value: 2
+key: u Value: 2
+key: t Value: 2
+key: z Value: 1
+key: j Value: 1
+key: x Value: 1
+group result: 1788
+
+
+skzuqtbiaedovwhlrpfnygxj
+yqfidorlkwhgsuptzemvx
+boelkavqwrtxhzgifypuds
+People: 3
+key: s Value: 3
+key: k Value: 3
+key: z Value: 3
+key: u Value: 3
+key: q Value: 3
+key: t Value: 3
+key: b Value: 2
+key: i Value: 3
+key: a Value: 2
+key: e Value: 3
+key: d Value: 3
+key: o Value: 3
+key: v Value: 3
+key: w Value: 3
+key: h Value: 3
+key: l Value: 3
+key: r Value: 3
+key: p Value: 3
+key: f Value: 3
+key: n Value: 1
+key: y Value: 3
+key: g Value: 3
+key: x Value: 3
+key: j Value: 1
+key: m Value: 1
+group result: 1808
+
+
+o
+o
+xo
+o
+People: 4
+key: o Value: 4
+key: x Value: 1
+group result: 1809
+
+
+bkpjouw
+cjoklhbw
+ehukwbo
+bkfxynqrgo
+iokjabw
+People: 5
+key: b Value: 5
+key: k Value: 5
+key: p Value: 1
+key: j Value: 3
+key: o Value: 5
+key: u Value: 2
+key: w Value: 4
+key: c Value: 1
+key: l Value: 1
+key: h Value: 2
+key: e Value: 1
+key: f Value: 1
+key: x Value: 1
+key: y Value: 1
+key: n Value: 1
+key: q Value: 1
+key: r Value: 1
+key: g Value: 1
+key: i Value: 1
+key: a Value: 1
+group result: 1812
+
+
+kceugzapxfmisljnwhtrbd
+gfzhwrbkdcliuejsamntxp
+msdkgplhfrjucetnwaxzib
+ktsrinlcaedfhzgbjuxmwp
+bwguhamrtfkeplicsxnjdz
+People: 5
+key: k Value: 5
+key: c Value: 5
+key: e Value: 5
+key: u Value: 5
+key: g Value: 5
+key: z Value: 5
+key: a Value: 5
+key: p Value: 5
+key: x Value: 5
+key: f Value: 5
+key: m Value: 5
+key: i Value: 5
+key: s Value: 5
+key: l Value: 5
+key: j Value: 5
+key: n Value: 5
+key: w Value: 5
+key: h Value: 5
+key: t Value: 5
+key: r Value: 5
+key: b Value: 5
+key: d Value: 5
+group result: 1834
+
+
+lz
+l
+z
+u
+People: 4
+key: l Value: 2
+key: z Value: 2
+key: u Value: 1
+group result: 1834
+
+
+mwsuaicld
+saiwmludc
+sciamwdlu
+sdawuclim
+People: 4
+key: m Value: 4
+key: w Value: 4
+key: s Value: 4
+key: u Value: 4
+key: a Value: 4
+key: i Value: 4
+key: c Value: 4
+key: l Value: 4
+key: d Value: 4
+group result: 1843
+
+
+zvb
+zpv
+vmdqr
+People: 3
+key: z Value: 2
+key: v Value: 3
+key: b Value: 1
+key: p Value: 1
+key: m Value: 1
+key: d Value: 1
+key: q Value: 1
+key: r Value: 1
+group result: 1844
+
+
+djr
+isjdr
+People: 2
+key: d Value: 2
+key: j Value: 2
+key: r Value: 2
+key: i Value: 1
+key: s Value: 1
+group result: 1847
+
+
+ybek
+rkl
+fgoknah
+kmij
+qktyx
+People: 5
+key: y Value: 2
+key: b Value: 1
+key: e Value: 1
+key: k Value: 5
+key: r Value: 1
+key: l Value: 1
+key: f Value: 1
+key: g Value: 1
+key: o Value: 1
+key: n Value: 1
+key: a Value: 1
+key: h Value: 1
+key: m Value: 1
+key: i Value: 1
+key: j Value: 1
+key: q Value: 1
+key: t Value: 1
+key: x Value: 1
+group result: 1848
+
+
+oulpwbgy
+oalwgujy
+ehflnwckxgosrdizum
+wvloug
+People: 4
+key: o Value: 4
+key: u Value: 4
+key: l Value: 4
+key: p Value: 1
+key: w Value: 4
+key: b Value: 1
+key: g Value: 4
+key: y Value: 2
+key: a Value: 1
+key: j Value: 1
+key: e Value: 1
+key: h Value: 1
+key: f Value: 1
+key: n Value: 1
+key: c Value: 1
+key: k Value: 1
+key: x Value: 1
+key: s Value: 1
+key: r Value: 1
+key: d Value: 1
+key: i Value: 1
+key: z Value: 1
+key: m Value: 1
+key: v Value: 1
+group result: 1853
+
+
+vcuxtb
+vcux
+vuxc
+cixvu
+People: 4
+key: v Value: 4
+key: c Value: 4
+key: u Value: 4
+key: x Value: 4
+key: t Value: 1
+key: b Value: 1
+key: i Value: 1
+group result: 1857
+
+
+tyczpjsn
+szpnjtcy
+zpsjytcn
+People: 3
+key: t Value: 3
+key: y Value: 3
+key: c Value: 3
+key: z Value: 3
+key: p Value: 3
+key: j Value: 3
+key: s Value: 3
+key: n Value: 3
+group result: 1865
+
+
+hurjk
+krhuj
+khjr
+vrhkj
+People: 4
+key: h Value: 4
+key: u Value: 2
+key: r Value: 4
+key: j Value: 4
+key: k Value: 4
+key: v Value: 1
+group result: 1869
+
+
+befydcomjzpi
+vpejdyb
+darbfeylcpjg
+tnyuekwqbjdh
+oexdbsyj
+People: 5
+key: b Value: 5
+key: e Value: 5
+key: f Value: 2
+key: y Value: 5
+key: d Value: 5
+key: c Value: 2
+key: o Value: 2
+key: m Value: 1
+key: j Value: 5
+key: z Value: 1
+key: p Value: 3
+key: i Value: 1
+key: v Value: 1
+key: a Value: 1
+key: r Value: 1
+key: l Value: 1
+key: g Value: 1
+key: t Value: 1
+key: n Value: 1
+key: u Value: 1
+key: k Value: 1
+key: w Value: 1
+key: q Value: 1
+key: h Value: 1
+key: x Value: 1
+key: s Value: 1
+group result: 1874
+
+
+d
+d
+eiyd
+d
+d
+People: 5
+key: d Value: 5
+key: e Value: 1
+key: i Value: 1
+key: y Value: 1
+group result: 1875
+
+
+anhoyr
+hn
+hrna
+hkxpnifbc
+People: 4
+key: a Value: 2
+key: n Value: 4
+key: h Value: 4
+key: o Value: 1
+key: y Value: 1
+key: r Value: 2
+key: k Value: 1
+key: x Value: 1
+key: p Value: 1
+key: i Value: 1
+key: f Value: 1
+key: b Value: 1
+key: c Value: 1
+group result: 1877
+
+
+yapmothqvzxkwbgufe
+ojwbmysdi
+bdrmycwosl
+wnmyob
+People: 4
+key: y Value: 4
+key: a Value: 1
+key: p Value: 1
+key: m Value: 4
+key: o Value: 4
+key: t Value: 1
+key: h Value: 1
+key: q Value: 1
+key: v Value: 1
+key: z Value: 1
+key: x Value: 1
+key: k Value: 1
+key: w Value: 4
+key: b Value: 4
+key: g Value: 1
+key: u Value: 1
+key: f Value: 1
+key: e Value: 1
+key: j Value: 1
+key: s Value: 2
+key: d Value: 2
+key: i Value: 1
+key: r Value: 1
+key: c Value: 1
+key: l Value: 1
+key: n Value: 1
+group result: 1882
+
+
+qkjznrdpsfbocmuaeihwlv
+jbsumpqahtlwdczfrkv
+jlpcqbhfduzwkyrsvtma
+jxdqhacvzpwsgkbfurltm
+People: 4
+key: q Value: 4
+key: k Value: 4
+key: j Value: 4
+key: z Value: 4
+key: n Value: 1
+key: r Value: 4
+key: d Value: 4
+key: p Value: 4
+key: s Value: 4
+key: f Value: 4
+key: b Value: 4
+key: o Value: 1
+key: c Value: 4
+key: m Value: 4
+key: u Value: 4
+key: a Value: 4
+key: e Value: 1
+key: i Value: 1
+key: h Value: 4
+key: w Value: 4
+key: l Value: 4
+key: v Value: 4
+key: t Value: 3
+key: y Value: 1
+key: x Value: 1
+key: g Value: 1
+group result: 1900
+
+
+cr
+jxsqu
+wc
+People: 3
+key: c Value: 2
+key: r Value: 1
+key: j Value: 1
+key: x Value: 1
+key: s Value: 1
+key: q Value: 1
+key: u Value: 1
+key: w Value: 1
+group result: 1900
+
+
+qzsgdceyfuwlkjrmio
+idlcywerqojzkmgfsu
+tsokrqumcawlefyzgij
+kulosgvhzqrjfiywcxme
+People: 4
+key: q Value: 4
+key: z Value: 4
+key: s Value: 4
+key: g Value: 4
+key: d Value: 2
+key: c Value: 4
+key: e Value: 4
+key: y Value: 4
+key: f Value: 4
+key: u Value: 4
+key: w Value: 4
+key: l Value: 4
+key: k Value: 4
+key: j Value: 4
+key: r Value: 4
+key: m Value: 4
+key: i Value: 4
+key: o Value: 4
+key: t Value: 1
+key: a Value: 1
+key: v Value: 1
+key: h Value: 1
+key: x Value: 1
+group result: 1917
+
+
+tfpqmobildwx
+cnawmups
+People: 2
+key: t Value: 1
+key: f Value: 1
+key: p Value: 2
+key: q Value: 1
+key: m Value: 2
+key: o Value: 1
+key: b Value: 1
+key: i Value: 1
+key: l Value: 1
+key: d Value: 1
+key: w Value: 2
+key: x Value: 1
+key: c Value: 1
+key: n Value: 1
+key: a Value: 1
+key: u Value: 1
+key: s Value: 1
+group result: 1920
+
+
+yuilzhtrpvkq
+tvucoih
+bjgafmenxdsth
+People: 3
+key: y Value: 1
+key: u Value: 2
+key: i Value: 2
+key: l Value: 1
+key: z Value: 1
+key: h Value: 3
+key: t Value: 3
+key: r Value: 1
+key: p Value: 1
+key: v Value: 2
+key: k Value: 1
+key: q Value: 1
+key: c Value: 1
+key: o Value: 1
+key: b Value: 1
+key: j Value: 1
+key: g Value: 1
+key: a Value: 1
+key: f Value: 1
+key: m Value: 1
+key: e Value: 1
+key: n Value: 1
+key: x Value: 1
+key: d Value: 1
+key: s Value: 1
+group result: 1922
+
+
+opzulrejdgqhwftvbn
+yozgtenplwrvjbfdu
+urobdigfwlnpvjezt
+People: 3
+key: o Value: 3
+key: p Value: 3
+key: z Value: 3
+key: u Value: 3
+key: l Value: 3
+key: r Value: 3
+key: e Value: 3
+key: j Value: 3
+key: d Value: 3
+key: g Value: 3
+key: q Value: 1
+key: h Value: 1
+key: w Value: 3
+key: f Value: 3
+key: t Value: 3
+key: v Value: 3
+key: b Value: 3
+key: n Value: 3
+key: y Value: 1
+key: i Value: 1
+group result: 1938
+
+
+jeatvniymqcogupsxfwd
+qedsypugotcjvawfmixn
+dpqyseiajuwxmvofntc
+pxamvsucfwoyqjhitedn
+xsuypaovrlqjewizfcndtm
+People: 5
+key: j Value: 5
+key: e Value: 5
+key: a Value: 5
+key: t Value: 5
+key: v Value: 5
+key: n Value: 5
+key: i Value: 5
+key: y Value: 5
+key: m Value: 5
+key: q Value: 5
+key: c Value: 5
+key: o Value: 5
+key: g Value: 2
+key: u Value: 5
+key: p Value: 5
+key: s Value: 5
+key: x Value: 5
+key: f Value: 5
+key: w Value: 5
+key: d Value: 5
+key: h Value: 1
+key: r Value: 1
+key: l Value: 1
+key: z Value: 1
+group result: 1957
+
+
+vugbznlqkixady
+dvoejyxcfzbrmas
+People: 2
+key: v Value: 2
+key: u Value: 1
+key: g Value: 1
+key: b Value: 2
+key: z Value: 2
+key: n Value: 1
+key: l Value: 1
+key: q Value: 1
+key: k Value: 1
+key: i Value: 1
+key: x Value: 2
+key: a Value: 2
+key: d Value: 2
+key: y Value: 2
+key: o Value: 1
+key: e Value: 1
+key: j Value: 1
+key: c Value: 1
+key: f Value: 1
+key: r Value: 1
+key: m Value: 1
+key: s Value: 1
+group result: 1964
+
+
+mwsklah
+ahksmwl
+bmwkhisla
+ahlwsxmk
+People: 4
+key: m Value: 4
+key: w Value: 4
+key: s Value: 4
+key: k Value: 4
+key: l Value: 4
+key: a Value: 4
+key: h Value: 4
+key: b Value: 1
+key: i Value: 1
+key: x Value: 1
+group result: 1971
+
+
+srfqb
+sqbrf
+qrbfs
+sfqrb
+People: 4
+key: s Value: 4
+key: r Value: 4
+key: f Value: 4
+key: q Value: 4
+key: b Value: 4
+group result: 1976
+
+
+xhvbocnpwgaqylirsuft
+onrypglqxfibhvwudska
+opxvsfniwblrqjhaguy
+reixqwnglhfyvbaspou
+People: 4
+key: x Value: 4
+key: h Value: 4
+key: v Value: 4
+key: b Value: 4
+key: o Value: 4
+key: c Value: 1
+key: n Value: 4
+key: p Value: 4
+key: w Value: 4
+key: g Value: 4
+key: a Value: 4
+key: q Value: 4
+key: y Value: 4
+key: l Value: 4
+key: i Value: 4
+key: r Value: 4
+key: s Value: 4
+key: u Value: 4
+key: f Value: 4
+key: t Value: 1
+key: d Value: 1
+key: k Value: 1
+key: j Value: 1
+key: e Value: 1
+group result: 1994
+
+
+linazro
+np
+n
+nm
+mwn
+People: 5
+key: l Value: 1
+key: i Value: 1
+key: n Value: 5
+key: a Value: 1
+key: z Value: 1
+key: r Value: 1
+key: o Value: 1
+key: p Value: 1
+key: m Value: 2
+key: w Value: 1
+group result: 1995
+
+
+gvbxwtsalpurfcm
+bwgacrmvxupsfl
+abfwpumxcrgvsl
+aluvmgfrbscxpw
+mlpcbxawsfrvug
+People: 5
+key: g Value: 5
+key: v Value: 5
+key: b Value: 5
+key: x Value: 5
+key: w Value: 5
+key: t Value: 1
+key: s Value: 5
+key: a Value: 5
+key: l Value: 5
+key: p Value: 5
+key: u Value: 5
+key: r Value: 5
+key: f Value: 5
+key: c Value: 5
+key: m Value: 5
+group result: 2009
+
+
+v
+v
+v
+v
+v
+People: 5
+key: v Value: 5
+group result: 2010
+
+
+nwdzilkeqogcjxybaru
+mcygaopwdrizkuxjlbnqe
+People: 2
+key: n Value: 2
+key: w Value: 2
+key: d Value: 2
+key: z Value: 2
+key: i Value: 2
+key: l Value: 2
+key: k Value: 2
+key: e Value: 2
+key: q Value: 2
+key: o Value: 2
+key: g Value: 2
+key: c Value: 2
+key: j Value: 2
+key: x Value: 2
+key: y Value: 2
+key: b Value: 2
+key: a Value: 2
+key: r Value: 2
+key: u Value: 2
+key: m Value: 1
+key: p Value: 1
+group result: 2029
+
+
+zocngjfxebvrwlsydqp
+oqvfclunwxsbrzpgjdy
+People: 2
+key: z Value: 2
+key: o Value: 2
+key: c Value: 2
+key: n Value: 2
+key: g Value: 2
+key: j Value: 2
+key: f Value: 2
+key: x Value: 2
+key: e Value: 1
+key: b Value: 2
+key: v Value: 2
+key: r Value: 2
+key: w Value: 2
+key: l Value: 2
+key: s Value: 2
+key: y Value: 2
+key: d Value: 2
+key: q Value: 2
+key: p Value: 2
+key: u Value: 1
+group result: 2047
+
+
+jvrglxbp
+brlpvyjx
+rxlpbvyj
+People: 3
+key: j Value: 3
+key: v Value: 3
+key: r Value: 3
+key: g Value: 1
+key: l Value: 3
+key: x Value: 3
+key: b Value: 3
+key: p Value: 3
+key: y Value: 2
+group result: 2054
+
+
+voiuyjcdtgsnh
+cwtugdovkhin
+bhnatyoxgvmcdiu
+People: 3
+key: v Value: 3
+key: o Value: 3
+key: i Value: 3
+key: u Value: 3
+key: y Value: 2
+key: j Value: 1
+key: c Value: 3
+key: d Value: 3
+key: t Value: 3
+key: g Value: 3
+key: s Value: 1
+key: n Value: 3
+key: h Value: 3
+key: w Value: 1
+key: k Value: 1
+key: b Value: 1
+key: a Value: 1
+key: x Value: 1
+key: m Value: 1
+group result: 2064
+
+
+ikfl
+li
+People: 2
+key: i Value: 2
+key: k Value: 1
+key: f Value: 1
+key: l Value: 2
+group result: 2066
+
+
+wt
+wztjqy
+wt
+tdwsau
+wt
+People: 5
+key: w Value: 5
+key: t Value: 5
+key: z Value: 1
+key: j Value: 1
+key: q Value: 1
+key: y Value: 1
+key: d Value: 1
+key: s Value: 1
+key: a Value: 1
+key: u Value: 1
+group result: 2068
+
+
+owkszmhcqdeb
+rpyaswvxclf
+People: 2
+key: o Value: 1
+key: w Value: 2
+key: k Value: 1
+key: s Value: 2
+key: z Value: 1
+key: m Value: 1
+key: h Value: 1
+key: c Value: 2
+key: q Value: 1
+key: d Value: 1
+key: e Value: 1
+key: b Value: 1
+key: r Value: 1
+key: p Value: 1
+key: y Value: 1
+key: a Value: 1
+key: v Value: 1
+key: x Value: 1
+key: l Value: 1
+key: f Value: 1
+group result: 2071
+
+
+aqxneirmc
+mnqaiexrc
+qxcaemnir
+eqxmniarc
+nzeaxqimrc
+People: 5
+key: a Value: 5
+key: q Value: 5
+key: x Value: 5
+key: n Value: 5
+key: e Value: 5
+key: i Value: 5
+key: r Value: 5
+key: m Value: 5
+key: c Value: 5
+key: z Value: 1
+group result: 2080
+
+
+obefhjkmsyl
+fgcdqwvzypur
+People: 2
+key: o Value: 1
+key: b Value: 1
+key: e Value: 1
+key: f Value: 2
+key: h Value: 1
+key: j Value: 1
+key: k Value: 1
+key: m Value: 1
+key: s Value: 1
+key: y Value: 2
+key: l Value: 1
+key: g Value: 1
+key: c Value: 1
+key: d Value: 1
+key: q Value: 1
+key: w Value: 1
+key: v Value: 1
+key: z Value: 1
+key: p Value: 1
+key: u Value: 1
+key: r Value: 1
+group result: 2082
+
+
+jv
+jv
+vj
+vj
+jv
+People: 5
+key: j Value: 5
+key: v Value: 5
+group result: 2084
+
+
+vesgfhmrox
+exmfgsrvh
+nfyirshgjvmex
+People: 3
+key: v Value: 3
+key: e Value: 3
+key: s Value: 3
+key: g Value: 3
+key: f Value: 3
+key: h Value: 3
+key: m Value: 3
+key: r Value: 3
+key: o Value: 1
+key: x Value: 3
+key: n Value: 1
+key: y Value: 1
+key: i Value: 1
+key: j Value: 1
+group result: 2093
+
+
+hyabitjszvupmfor
+ierfutjmhbs
+hjxinstkfcqb
+People: 3
+key: h Value: 3
+key: y Value: 1
+key: a Value: 1
+key: b Value: 3
+key: i Value: 3
+key: t Value: 3
+key: j Value: 3
+key: s Value: 3
+key: z Value: 1
+key: v Value: 1
+key: u Value: 2
+key: p Value: 1
+key: m Value: 2
+key: f Value: 3
+key: o Value: 1
+key: r Value: 2
+key: e Value: 1
+key: x Value: 1
+key: n Value: 1
+key: k Value: 1
+key: c Value: 1
+key: q Value: 1
+group result: 2100
+
+
+giqrzmfsuxcehvldkabw
+iqfsgzbxlvawhmudcrek
+People: 2
+key: g Value: 2
+key: i Value: 2
+key: q Value: 2
+key: r Value: 2
+key: z Value: 2
+key: m Value: 2
+key: f Value: 2
+key: s Value: 2
+key: u Value: 2
+key: x Value: 2
+key: c Value: 2
+key: e Value: 2
+key: h Value: 2
+key: v Value: 2
+key: l Value: 2
+key: d Value: 2
+key: k Value: 2
+key: a Value: 2
+key: b Value: 2
+key: w Value: 2
+group result: 2120
+
+
+top
+yjqvk
+vqx
+People: 3
+key: t Value: 1
+key: o Value: 1
+key: p Value: 1
+key: y Value: 1
+key: j Value: 1
+key: q Value: 2
+key: v Value: 2
+key: k Value: 1
+key: x Value: 1
+group result: 2120
+
+
+qpdiksm
+dkmiqs
+msdkiq
+People: 3
+key: q Value: 3
+key: p Value: 1
+key: d Value: 3
+key: i Value: 3
+key: k Value: 3
+key: s Value: 3
+key: m Value: 3
+group result: 2126
+
+
+olwkfxdpehmj
+kdfpeomljhwx
+jplxoewmfdhk
+jpkeowhtlfxdm
+qzkojefdhxpwmlu
+People: 5
+key: o Value: 5
+key: l Value: 5
+key: w Value: 5
+key: k Value: 5
+key: f Value: 5
+key: x Value: 5
+key: d Value: 5
+key: p Value: 5
+key: e Value: 5
+key: h Value: 5
+key: m Value: 5
+key: j Value: 5
+key: t Value: 1
+key: q Value: 1
+key: z Value: 1
+key: u Value: 1
+group result: 2138
+
+
+sxjwrpgqeciz
+vnkcujwhidral
+mejsrxizocbtwy
+People: 3
+key: s Value: 2
+key: x Value: 2
+key: j Value: 3
+key: w Value: 3
+key: r Value: 3
+key: p Value: 1
+key: g Value: 1
+key: q Value: 1
+key: e Value: 2
+key: c Value: 3
+key: i Value: 3
+key: z Value: 2
+key: v Value: 1
+key: n Value: 1
+key: k Value: 1
+key: u Value: 1
+key: h Value: 1
+key: d Value: 1
+key: a Value: 1
+key: l Value: 1
+key: m Value: 1
+key: o Value: 1
+key: b Value: 1
+key: t Value: 1
+key: y Value: 1
+group result: 2143
+
+
+qojeghzvlkn
+kqonvcjeghzl
+vokgqlzenjh
+vozhjlnqkeg
+kljohvqgenz
+People: 5
+key: q Value: 5
+key: o Value: 5
+key: j Value: 5
+key: e Value: 5
+key: g Value: 5
+key: h Value: 5
+key: z Value: 5
+key: v Value: 5
+key: l Value: 5
+key: k Value: 5
+key: n Value: 5
+key: c Value: 1
+group result: 2154
+
+
+dpwyhufkvaiqob
+dpuanijkbqgy
+alkpqbsrtide
+People: 3
+key: d Value: 3
+key: p Value: 3
+key: w Value: 1
+key: y Value: 2
+key: h Value: 1
+key: u Value: 2
+key: f Value: 1
+key: k Value: 3
+key: v Value: 1
+key: a Value: 3
+key: i Value: 3
+key: q Value: 3
+key: o Value: 1
+key: b Value: 3
+key: n Value: 1
+key: j Value: 1
+key: g Value: 1
+key: l Value: 1
+key: s Value: 1
+key: r Value: 1
+key: t Value: 1
+key: e Value: 1
+group result: 2161
+
+
+wcju
+wuqgs
+ampdbnzwufok
+wulcyq
+People: 4
+key: w Value: 4
+key: c Value: 2
+key: j Value: 1
+key: u Value: 4
+key: q Value: 2
+key: g Value: 1
+key: s Value: 1
+key: a Value: 1
+key: m Value: 1
+key: p Value: 1
+key: d Value: 1
+key: b Value: 1
+key: n Value: 1
+key: z Value: 1
+key: f Value: 1
+key: o Value: 1
+key: k Value: 1
+key: l Value: 1
+key: y Value: 1
+group result: 2163
+
+
+izojdpfgke
+zpeokgdijf
+epfgkiodzj
+gdefojzpik
+People: 4
+key: i Value: 4
+key: z Value: 4
+key: o Value: 4
+key: j Value: 4
+key: d Value: 4
+key: p Value: 4
+key: f Value: 4
+key: g Value: 4
+key: k Value: 4
+key: e Value: 4
+group result: 2173
+
+
+wjqpblyt
+ajbqpwflvty
+jpqywblt
+bqlwjyztp
+People: 4
+key: w Value: 4
+key: j Value: 4
+key: q Value: 4
+key: p Value: 4
+key: b Value: 4
+key: l Value: 4
+key: y Value: 4
+key: t Value: 4
+key: a Value: 1
+key: f Value: 1
+key: v Value: 1
+key: z Value: 1
+group result: 2181
+
+
+brej
+jre
+herj
+jre
+People: 4
+key: b Value: 1
+key: r Value: 4
+key: e Value: 4
+key: j Value: 4
+key: h Value: 1
+group result: 2184
+
+
+myibr
+rbimly
+People: 2
+key: m Value: 2
+key: y Value: 2
+key: i Value: 2
+key: b Value: 2
+key: r Value: 2
+key: l Value: 1
+group result: 2189
+
+
+gmwbanlupcxjkrtsfqieovz
+ieuamrzqvsxctbnojgkfpw
+cvstxzkmgnqiaujfporwbe
+People: 3
+key: g Value: 3
+key: m Value: 3
+key: w Value: 3
+key: b Value: 3
+key: a Value: 3
+key: n Value: 3
+key: l Value: 1
+key: u Value: 3
+key: p Value: 3
+key: c Value: 3
+key: x Value: 3
+key: j Value: 3
+key: k Value: 3
+key: r Value: 3
+key: t Value: 3
+key: s Value: 3
+key: f Value: 3
+key: q Value: 3
+key: i Value: 3
+key: e Value: 3
+key: o Value: 3
+key: v Value: 3
+key: z Value: 3
+group result: 2211
+
+
+si
+is
+usi
+People: 3
+key: s Value: 3
+key: i Value: 3
+key: u Value: 1
+group result: 2213
+
+
+hsuqefpd
+qrupshdg
+dsuhpeq
+quhpesd
+qpduhls
+People: 5
+key: h Value: 5
+key: s Value: 5
+key: u Value: 5
+key: q Value: 5
+key: e Value: 3
+key: f Value: 1
+key: p Value: 5
+key: d Value: 5
+key: r Value: 1
+key: g Value: 1
+key: l Value: 1
+group result: 2219
+
+
+djewcplsmbnykqfuhv
+bkgucwsvymaei
+ykvzmscurwbe
+People: 3
+key: d Value: 1
+key: j Value: 1
+key: e Value: 3
+key: w Value: 3
+key: c Value: 3
+key: p Value: 1
+key: l Value: 1
+key: s Value: 3
+key: m Value: 3
+key: b Value: 3
+key: n Value: 1
+key: y Value: 3
+key: k Value: 3
+key: q Value: 1
+key: f Value: 1
+key: u Value: 3
+key: h Value: 1
+key: v Value: 3
+key: g Value: 1
+key: a Value: 1
+key: i Value: 1
+key: z Value: 1
+key: r Value: 1
+group result: 2229
+
+
+ifpavbtrzjlyesqdgkhxu
+qzyalxeunimdojgbf
+awyuezqifbgjxldm
+jmeydfgiblxuzqa
+wjnuxzdeagblfiqy
+People: 5
+key: i Value: 5
+key: f Value: 5
+key: p Value: 1
+key: a Value: 5
+key: v Value: 1
+key: b Value: 5
+key: t Value: 1
+key: r Value: 1
+key: z Value: 5
+key: j Value: 5
+key: l Value: 5
+key: y Value: 5
+key: e Value: 5
+key: s Value: 1
+key: q Value: 5
+key: d Value: 5
+key: g Value: 5
+key: k Value: 1
+key: h Value: 1
+key: x Value: 5
+key: u Value: 5
+key: n Value: 2
+key: m Value: 3
+key: o Value: 1
+key: w Value: 2
+group result: 2243
+
+
+e
+b
+People: 2
+key: e Value: 1
+key: b Value: 1
+group result: 2243
+
+
+lwx
+w
+whi
+People: 3
+key: l Value: 1
+key: w Value: 3
+key: x Value: 1
+key: h Value: 1
+key: i Value: 1
+group result: 2244
+
+
+xqomviapj
+myqcvo
+People: 2
+key: x Value: 1
+key: q Value: 2
+key: o Value: 2
+key: m Value: 2
+key: v Value: 2
+key: i Value: 1
+key: a Value: 1
+key: p Value: 1
+key: j Value: 1
+key: y Value: 1
+key: c Value: 1
+group result: 2248
+
+
+vaidsjrbgouhw
+ynufzsqepdtx
+People: 2
+key: v Value: 1
+key: a Value: 1
+key: i Value: 1
+key: d Value: 2
+key: s Value: 2
+key: j Value: 1
+key: r Value: 1
+key: b Value: 1
+key: g Value: 1
+key: o Value: 1
+key: u Value: 2
+key: h Value: 1
+key: w Value: 1
+key: y Value: 1
+key: n Value: 1
+key: f Value: 1
+key: z Value: 1
+key: q Value: 1
+key: e Value: 1
+key: p Value: 1
+key: t Value: 1
+key: x Value: 1
+group result: 2251
+
+
+ier
+eir
+ire
+eir
+People: 4
+key: i Value: 4
+key: e Value: 4
+key: r Value: 4
+group result: 2254
+
+
+q
+q
+q
+kq
+gq
+People: 5
+key: q Value: 5
+key: k Value: 1
+key: g Value: 1
+group result: 2255
+
+
+gdlnrpjwbkmcy
+pledjybncmw
+nwdbpcmljy
+cyzofudwptlbnxjm
+qmybdpchjlnw
+People: 5
+key: g Value: 1
+key: d Value: 5
+key: l Value: 5
+key: n Value: 5
+key: r Value: 1
+key: p Value: 5
+key: j Value: 5
+key: w Value: 5
+key: b Value: 5
+key: k Value: 1
+key: m Value: 5
+key: c Value: 5
+key: y Value: 5
+key: e Value: 1
+key: z Value: 1
+key: o Value: 1
+key: f Value: 1
+key: u Value: 1
+key: t Value: 1
+key: x Value: 1
+key: q Value: 1
+key: h Value: 1
+group result: 2265
+
+
+guxvnk
+bvgztknx
+gvsjpxrknfe
+People: 3
+key: g Value: 3
+key: u Value: 1
+key: x Value: 3
+key: v Value: 3
+key: n Value: 3
+key: k Value: 3
+key: b Value: 1
+key: z Value: 1
+key: t Value: 1
+key: s Value: 1
+key: j Value: 1
+key: p Value: 1
+key: r Value: 1
+key: f Value: 1
+key: e Value: 1
+group result: 2270
+
+
+tkc
+tck
+ckt
+tck
+ctk
+People: 5
+key: t Value: 5
+key: k Value: 5
+key: c Value: 5
+group result: 2273
+
+
+tcvihysmdwjfuz
+hdjpkcyuetafxm
+jvmhcyuftd
+People: 3
+key: t Value: 3
+key: c Value: 3
+key: v Value: 2
+key: i Value: 1
+key: h Value: 3
+key: y Value: 3
+key: s Value: 1
+key: m Value: 3
+key: d Value: 3
+key: w Value: 1
+key: j Value: 3
+key: f Value: 3
+key: u Value: 3
+key: z Value: 1
+key: p Value: 1
+key: k Value: 1
+key: e Value: 1
+key: a Value: 1
+key: x Value: 1
+group result: 2282
+
+
+etvflsguxwqparh
+pqshwvikgutlraex
+ghrxultaqpsewv
+stmlauvhrxqgepw
+lthnsavupxqwedrg
+People: 5
+key: e Value: 5
+key: t Value: 5
+key: v Value: 5
+key: f Value: 1
+key: l Value: 5
+key: s Value: 5
+key: g Value: 5
+key: u Value: 5
+key: x Value: 5
+key: w Value: 5
+key: q Value: 5
+key: p Value: 5
+key: a Value: 5
+key: r Value: 5
+key: h Value: 5
+key: i Value: 1
+key: k Value: 1
+key: m Value: 1
+key: n Value: 1
+key: d Value: 1
+group result: 2296
+
+
+q
+q
+o
+q
+q
+People: 5
+key: q Value: 4
+key: o Value: 1
+group result: 2296
+
+
+p
+l
+fd
+n
+p
+People: 5
+key: p Value: 2
+key: l Value: 1
+key: f Value: 1
+key: d Value: 1
+key: n Value: 1
+group result: 2296
+
+
+kejbzgqhrwpsdmyluctaifx
+jbqyaksrwgpxezcthidlfum
+fithrjwagodsqzlycmxbkepu
+People: 3
+key: k Value: 3
+key: e Value: 3
+key: j Value: 3
+key: b Value: 3
+key: z Value: 3
+key: g Value: 3
+key: q Value: 3
+key: h Value: 3
+key: r Value: 3
+key: w Value: 3
+key: p Value: 3
+key: s Value: 3
+key: d Value: 3
+key: m Value: 3
+key: y Value: 3
+key: l Value: 3
+key: u Value: 3
+key: c Value: 3
+key: t Value: 3
+key: a Value: 3
+key: i Value: 3
+key: f Value: 3
+key: x Value: 3
+key: o Value: 1
+group result: 2319
+
+
+bjlktgunzed
+ezdtujbgkl
+oljkzbdxetgu
+jlgastdeubkz
+ljdzgtbuke
+People: 5
+key: b Value: 5
+key: j Value: 5
+key: l Value: 5
+key: k Value: 5
+key: t Value: 5
+key: g Value: 5
+key: u Value: 5
+key: n Value: 1
+key: z Value: 5
+key: e Value: 5
+key: d Value: 5
+key: o Value: 1
+key: x Value: 1
+key: a Value: 1
+key: s Value: 1
+group result: 2329
+
+
+b
+b
+b
+People: 3
+key: b Value: 3
+group result: 2330
+
+
+zcmqedjshfngwuta
+yczngvjfdkmuotaerhw
+quhjzdniftleagwcm
+People: 3
+key: z Value: 3
+key: c Value: 3
+key: m Value: 3
+key: q Value: 2
+key: e Value: 3
+key: d Value: 3
+key: j Value: 3
+key: s Value: 1
+key: h Value: 3
+key: f Value: 3
+key: n Value: 3
+key: g Value: 3
+key: w Value: 3
+key: u Value: 3
+key: t Value: 3
+key: a Value: 3
+key: y Value: 1
+key: v Value: 1
+key: k Value: 1
+key: o Value: 1
+key: r Value: 1
+key: i Value: 1
+key: l Value: 1
+group result: 2344
+
+
+uxokfse
+byseztxkcdpo
+xqresokl
+xskogven
+People: 4
+key: u Value: 1
+key: x Value: 4
+key: o Value: 4
+key: k Value: 4
+key: f Value: 1
+key: s Value: 4
+key: e Value: 4
+key: b Value: 1
+key: y Value: 1
+key: z Value: 1
+key: t Value: 1
+key: c Value: 1
+key: d Value: 1
+key: p Value: 1
+key: q Value: 1
+key: r Value: 1
+key: l Value: 1
+key: g Value: 1
+key: v Value: 1
+key: n Value: 1
+group result: 2349
+
+
+cpbfntrsqzdauvwmighokjl
+jnlzpgamuksvhdftorcqb
+dmktlpofhbczayusrgnjqv
+People: 3
+key: c Value: 3
+key: p Value: 3
+key: b Value: 3
+key: f Value: 3
+key: n Value: 3
+key: t Value: 3
+key: r Value: 3
+key: s Value: 3
+key: q Value: 3
+key: z Value: 3
+key: d Value: 3
+key: a Value: 3
+key: u Value: 3
+key: v Value: 3
+key: w Value: 1
+key: m Value: 3
+key: i Value: 1
+key: g Value: 3
+key: h Value: 3
+key: o Value: 3
+key: k Value: 3
+key: j Value: 3
+key: l Value: 3
+key: y Value: 1
+group result: 2370
+
+
+rywemn
+ney
+People: 2
+key: r Value: 1
+key: y Value: 2
+key: w Value: 1
+key: e Value: 2
+key: m Value: 1
+key: n Value: 2
+group result: 2373
+
+
+tnfmkwbr
+People: 1
+key: t Value: 1
+key: n Value: 1
+key: f Value: 1
+key: m Value: 1
+key: k Value: 1
+key: w Value: 1
+key: b Value: 1
+key: r Value: 1
+group result: 2381
+
+
+ieyok
+knyeo
+oeyk
+cmkoey
+People: 4
+key: i Value: 1
+key: e Value: 4
+key: y Value: 4
+key: o Value: 4
+key: k Value: 4
+key: n Value: 1
+key: c Value: 1
+key: m Value: 1
+group result: 2385
+
+
+fgeodaihyqrj
+aiyzfkdqhgj
+aqfzgydjih
+zjhgfiqyad
+fhjdmaigyzq
+People: 5
+key: f Value: 5
+key: g Value: 5
+key: e Value: 1
+key: o Value: 1
+key: d Value: 5
+key: a Value: 5
+key: i Value: 5
+key: h Value: 5
+key: y Value: 5
+key: q Value: 5
+key: r Value: 1
+key: j Value: 5
+key: z Value: 4
+key: k Value: 1
+key: m Value: 1
+group result: 2394
+
+
+jfsthv
+fzkshvet
+hsvft
+People: 3
+key: j Value: 1
+key: f Value: 3
+key: s Value: 3
+key: t Value: 3
+key: h Value: 3
+key: v Value: 3
+key: z Value: 1
+key: k Value: 1
+key: e Value: 1
+group result: 2399
+
+
+chjmnapvdlqi
+lqvpcidjham
+lhdctpiqujavm
+mavpbcjhildq
+mjpvalqdhic
+People: 5
+key: c Value: 5
+key: h Value: 5
+key: j Value: 5
+key: m Value: 5
+key: n Value: 1
+key: a Value: 5
+key: p Value: 5
+key: v Value: 5
+key: d Value: 5
+key: l Value: 5
+key: q Value: 5
+key: i Value: 5
+key: t Value: 1
+key: u Value: 1
+key: b Value: 1
+group result: 2410
+
+
+rxvozyjuc
+cvzxyour
+zyuvxocr
+zjcxvuoyr
+rcyvozuxe
+People: 5
+key: r Value: 5
+key: x Value: 5
+key: v Value: 5
+key: o Value: 5
+key: z Value: 5
+key: y Value: 5
+key: j Value: 2
+key: u Value: 5
+key: c Value: 5
+key: e Value: 1
+group result: 2418
+
+
+mkf
+sfmk
+fmk
+pmkef
+kmf
+People: 5
+key: m Value: 5
+key: k Value: 5
+key: f Value: 5
+key: s Value: 1
+key: p Value: 1
+key: e Value: 1
+group result: 2421
+
+
+myoakncviphrld
+vpkiycnradohmx
+People: 2
+key: m Value: 2
+key: y Value: 2
+key: o Value: 2
+key: a Value: 2
+key: k Value: 2
+key: n Value: 2
+key: c Value: 2
+key: v Value: 2
+key: i Value: 2
+key: p Value: 2
+key: h Value: 2
+key: r Value: 2
+key: l Value: 1
+key: d Value: 2
+key: x Value: 1
+group result: 2434
+
+
+yvdlnm
+tg
+uhdo
+jwfqs
+lozgrx
+People: 5
+key: y Value: 1
+key: v Value: 1
+key: d Value: 2
+key: l Value: 2
+key: n Value: 1
+key: m Value: 1
+key: t Value: 1
+key: g Value: 2
+key: u Value: 1
+key: h Value: 1
+key: o Value: 2
+key: j Value: 1
+key: w Value: 1
+key: f Value: 1
+key: q Value: 1
+key: s Value: 1
+key: z Value: 1
+key: r Value: 1
+key: x Value: 1
+group result: 2434
+
+
+flwcpvgm
+lvpfmcsagw
+vgwflpcmu
+glvswmacpf
+People: 4
+key: f Value: 4
+key: l Value: 4
+key: w Value: 4
+key: c Value: 4
+key: p Value: 4
+key: v Value: 4
+key: g Value: 4
+key: m Value: 4
+key: s Value: 2
+key: a Value: 2
+key: u Value: 1
+group result: 2442
+
+
+ujnaeld
+nclsuje
+nmejlu
+deunjal
+lequnj
+People: 5
+key: u Value: 5
+key: j Value: 5
+key: n Value: 5
+key: a Value: 2
+key: e Value: 5
+key: l Value: 5
+key: d Value: 2
+key: c Value: 1
+key: s Value: 1
+key: m Value: 1
+key: q Value: 1
+group result: 2447
+
+
+qveitg
+eiv
+vuei
+erlvi
+efvaipc
+People: 5
+key: q Value: 1
+key: v Value: 5
+key: e Value: 5
+key: i Value: 5
+key: t Value: 1
+key: g Value: 1
+key: u Value: 1
+key: r Value: 1
+key: l Value: 1
+key: f Value: 1
+key: a Value: 1
+key: p Value: 1
+key: c Value: 1
+group result: 2450
+
+
+b
+b
+People: 2
+key: b Value: 2
+group result: 2451
+
+
+blkdegxiuwpozmh
+mbielokudhzgwpx
+dewlugkxpmzobih
+edimgxuhlowpbkz
+odekxuwzmhbiplg
+People: 5
+key: b Value: 5
+key: l Value: 5
+key: k Value: 5
+key: d Value: 5
+key: e Value: 5
+key: g Value: 5
+key: x Value: 5
+key: i Value: 5
+key: u Value: 5
+key: w Value: 5
+key: p Value: 5
+key: o Value: 5
+key: z Value: 5
+key: m Value: 5
+key: h Value: 5
+group result: 2466
+
+
+agktcxds
+cstxadgk
+nxpdkcshuitrga
+dbtgskamcxvf
+akgdftcsx
+People: 5
+key: a Value: 5
+key: g Value: 5
+key: k Value: 5
+key: t Value: 5
+key: c Value: 5
+key: x Value: 5
+key: d Value: 5
+key: s Value: 5
+key: n Value: 1
+key: p Value: 1
+key: h Value: 1
+key: u Value: 1
+key: i Value: 1
+key: r Value: 1
+key: b Value: 1
+key: m Value: 1
+key: v Value: 1
+key: f Value: 2
+group result: 2474
+
+
+ap
+pa
+ape
+pa
+pktag
+People: 5
+key: a Value: 5
+key: p Value: 5
+key: e Value: 1
+key: k Value: 1
+key: t Value: 1
+key: g Value: 1
+group result: 2476
+
+
+cnxazmsefgqupvdjl
+ygwfsodp
+People: 2
+key: c Value: 1
+key: n Value: 1
+key: x Value: 1
+key: a Value: 1
+key: z Value: 1
+key: m Value: 1
+key: s Value: 2
+key: e Value: 1
+key: f Value: 2
+key: g Value: 2
+key: q Value: 1
+key: u Value: 1
+key: p Value: 2
+key: v Value: 1
+key: d Value: 2
+key: j Value: 1
+key: l Value: 1
+key: y Value: 1
+key: w Value: 1
+key: o Value: 1
+group result: 2481
+
+
+cobevtqrmpsfi
+esivcqbrtmopf
+mrscpvtieboqf
+People: 3
+key: c Value: 3
+key: o Value: 3
+key: b Value: 3
+key: e Value: 3
+key: v Value: 3
+key: t Value: 3
+key: q Value: 3
+key: r Value: 3
+key: m Value: 3
+key: p Value: 3
+key: s Value: 3
+key: f Value: 3
+key: i Value: 3
+group result: 2494
+
+
+nezfcvyqolapxdtgjh
+tjdcbnhpzwqe
+tzqcjnpehdr
+crnepdtzhqj
+jtcrbzhnpmeqkd
+People: 5
+key: n Value: 5
+key: e Value: 5
+key: z Value: 5
+key: f Value: 1
+key: c Value: 5
+key: v Value: 1
+key: y Value: 1
+key: q Value: 5
+key: o Value: 1
+key: l Value: 1
+key: a Value: 1
+key: p Value: 5
+key: x Value: 1
+key: d Value: 5
+key: t Value: 5
+key: g Value: 1
+key: j Value: 5
+key: h Value: 5
+key: b Value: 2
+key: w Value: 1
+key: r Value: 3
+key: m Value: 1
+key: k Value: 1
+group result: 2504
+
+
+uzcvrtfk
+utzrfvcbk
+vcktufrz
+ercpvzukft
+cvzuorfkt
+People: 5
+key: u Value: 5
+key: z Value: 5
+key: c Value: 5
+key: v Value: 5
+key: r Value: 5
+key: t Value: 5
+key: f Value: 5
+key: k Value: 5
+key: b Value: 1
+key: e Value: 1
+key: p Value: 1
+key: o Value: 1
+group result: 2512
+
+
+fhdvlupmyinrkg
+ykiapgmdluhvn
+vklipdybnuhgm
+People: 3
+key: f Value: 1
+key: h Value: 3
+key: d Value: 3
+key: v Value: 3
+key: l Value: 3
+key: u Value: 3
+key: p Value: 3
+key: m Value: 3
+key: y Value: 3
+key: i Value: 3
+key: n Value: 3
+key: r Value: 1
+key: k Value: 3
+key: g Value: 3
+key: a Value: 1
+key: b Value: 1
+group result: 2524
+
+
+gndywvfsrkmojb
+otdfbrynkwsvgj
+sdyjgobrfvtkwn
+yfrobjxgdnskwv
+People: 4
+key: g Value: 4
+key: n Value: 4
+key: d Value: 4
+key: y Value: 4
+key: w Value: 4
+key: v Value: 4
+key: f Value: 4
+key: s Value: 4
+key: r Value: 4
+key: k Value: 4
+key: m Value: 1
+key: o Value: 4
+key: j Value: 4
+key: b Value: 4
+key: t Value: 2
+key: x Value: 1
+group result: 2537
+
+
+jrcxmdlb
+clbrijx
+People: 2
+key: j Value: 2
+key: r Value: 2
+key: c Value: 2
+key: x Value: 2
+key: m Value: 1
+key: d Value: 1
+key: l Value: 2
+key: b Value: 2
+key: i Value: 1
+group result: 2543
+
+
+eabkotfyqicsrgluhv
+pxqzmaitgdjnhw
+People: 2
+key: e Value: 1
+key: a Value: 2
+key: b Value: 1
+key: k Value: 1
+key: o Value: 1
+key: t Value: 2
+key: f Value: 1
+key: y Value: 1
+key: q Value: 2
+key: i Value: 2
+key: c Value: 1
+key: s Value: 1
+key: r Value: 1
+key: g Value: 2
+key: l Value: 1
+key: u Value: 1
+key: h Value: 2
+key: v Value: 1
+key: p Value: 1
+key: x Value: 1
+key: z Value: 1
+key: m Value: 1
+key: d Value: 1
+key: j Value: 1
+key: n Value: 1
+key: w Value: 1
+group result: 2549
+
+
+mpydoxr
+odmpxwyr
+mrydpwazxo
+dyxzmrop
+drtpymxno
+People: 5
+key: m Value: 5
+key: p Value: 5
+key: y Value: 5
+key: d Value: 5
+key: o Value: 5
+key: x Value: 5
+key: r Value: 5
+key: w Value: 2
+key: a Value: 1
+key: z Value: 2
+key: t Value: 1
+key: n Value: 1
+group result: 2556
+
+
+irfveyz
+riyfzev
+People: 2
+key: i Value: 2
+key: r Value: 2
+key: f Value: 2
+key: v Value: 2
+key: e Value: 2
+key: y Value: 2
+key: z Value: 2
+group result: 2563
+
+
+envoajbhsp
+ayswzvnlxtjeoh
+jvwholeinqsfa
+People: 3
+key: e Value: 3
+key: n Value: 3
+key: v Value: 3
+key: o Value: 3
+key: a Value: 3
+key: j Value: 3
+key: b Value: 1
+key: h Value: 3
+key: s Value: 3
+key: p Value: 1
+key: y Value: 1
+key: w Value: 2
+key: z Value: 1
+key: l Value: 2
+key: x Value: 1
+key: t Value: 1
+key: i Value: 1
+key: q Value: 1
+key: f Value: 1
+group result: 2571
+
+
+gh
+mgh
+hgmj
+gwbh
+People: 4
+key: g Value: 4
+key: h Value: 4
+key: m Value: 2
+key: j Value: 1
+key: w Value: 1
+key: b Value: 1
+group result: 2573
+
+
+ymdjralcitnkwgsx
+xnilbdojkyfrmchtgas
+ukcatelqsxyrdpjvmigz
+People: 3
+key: y Value: 3
+key: m Value: 3
+key: d Value: 3
+key: j Value: 3
+key: r Value: 3
+key: a Value: 3
+key: l Value: 3
+key: c Value: 3
+key: i Value: 3
+key: t Value: 3
+key: n Value: 2
+key: k Value: 3
+key: w Value: 1
+key: g Value: 3
+key: s Value: 3
+key: x Value: 3
+key: b Value: 1
+key: o Value: 1
+key: f Value: 1
+key: h Value: 1
+key: u Value: 1
+key: e Value: 1
+key: q Value: 1
+key: p Value: 1
+key: v Value: 1
+key: z Value: 1
+group result: 2587
+
+
+xvbwsf
+rsbxvwf
+bvfswxaj
+swbvfx
+People: 4
+key: x Value: 4
+key: v Value: 4
+key: b Value: 4
+key: w Value: 4
+key: s Value: 4
+key: f Value: 4
+key: r Value: 1
+key: a Value: 1
+key: j Value: 1
+group result: 2593
+
+
+hx
+e
+People: 2
+key: h Value: 1
+key: x Value: 1
+key: e Value: 1
+group result: 2593
+
+
+jepqlufigz
+pxejfqgiul
+fxipqejlgu
+eljguiqpf
+People: 4
+key: j Value: 4
+key: e Value: 4
+key: p Value: 4
+key: q Value: 4
+key: l Value: 4
+key: u Value: 4
+key: f Value: 4
+key: i Value: 4
+key: g Value: 4
+key: z Value: 1
+key: x Value: 2
+group result: 2602
+
+
+fvco
+cotfvqxm
+People: 2
+key: f Value: 2
+key: v Value: 2
+key: c Value: 2
+key: o Value: 2
+key: t Value: 1
+key: q Value: 1
+key: x Value: 1
+key: m Value: 1
+group result: 2606
+
+
+kxpweshd
+wkxsdcpheyq
+People: 2
+key: k Value: 2
+key: x Value: 2
+key: p Value: 2
+key: w Value: 2
+key: e Value: 2
+key: s Value: 2
+key: h Value: 2
+key: d Value: 2
+key: c Value: 1
+key: y Value: 1
+key: q Value: 1
+group result: 2614
+
+
+ncfrt
+tnfc
+tfcnd
+cfjtn
+People: 4
+key: n Value: 4
+key: c Value: 4
+key: f Value: 4
+key: r Value: 1
+key: t Value: 4
+key: d Value: 1
+key: j Value: 1
+group result: 2618
+
+
+sgpcajvwz
+enulydokbixmh
+People: 2
+key: s Value: 1
+key: g Value: 1
+key: p Value: 1
+key: c Value: 1
+key: a Value: 1
+key: j Value: 1
+key: v Value: 1
+key: w Value: 1
+key: z Value: 1
+key: e Value: 1
+key: n Value: 1
+key: u Value: 1
+key: l Value: 1
+key: y Value: 1
+key: d Value: 1
+key: o Value: 1
+key: k Value: 1
+key: b Value: 1
+key: i Value: 1
+key: x Value: 1
+key: m Value: 1
+key: h Value: 1
+group result: 2618
+
+
+ft
+bjtmsf
+tf
+tf
+tf
+People: 5
+key: f Value: 5
+key: t Value: 5
+key: b Value: 1
+key: j Value: 1
+key: m Value: 1
+key: s Value: 1
+group result: 2620
+
+
+pgfuetm
+tmfeupg
+pmetfvug
+People: 3
+key: p Value: 3
+key: g Value: 3
+key: f Value: 3
+key: u Value: 3
+key: e Value: 3
+key: t Value: 3
+key: m Value: 3
+key: v Value: 1
+group result: 2627
+
+
+bts
+bstz
+People: 2
+key: b Value: 2
+key: t Value: 2
+key: s Value: 2
+key: z Value: 1
+group result: 2630
+
+
+rdfxyb
+xbqpy
+bex
+rqxb
+People: 4
+key: r Value: 2
+key: d Value: 1
+key: f Value: 1
+key: x Value: 4
+key: y Value: 2
+key: b Value: 4
+key: q Value: 2
+key: p Value: 1
+key: e Value: 1
+group result: 2632
+
+
+vj
+vj
+People: 2
+key: v Value: 2
+key: j Value: 2
+group result: 2634
+
+
+tfue
+gujxt
+fsnout
+tufnl
+People: 4
+key: t Value: 4
+key: f Value: 3
+key: u Value: 4
+key: e Value: 1
+key: g Value: 1
+key: j Value: 1
+key: x Value: 1
+key: s Value: 1
+key: n Value: 2
+key: o Value: 1
+key: l Value: 1
+group result: 2636
+
+
+jhpnewz
+rnqzwhl
+vhyznwkigt
+People: 3
+key: j Value: 1
+key: h Value: 3
+key: p Value: 1
+key: n Value: 3
+key: e Value: 1
+key: w Value: 3
+key: z Value: 3
+key: r Value: 1
+key: q Value: 1
+key: l Value: 1
+key: v Value: 1
+key: y Value: 1
+key: k Value: 1
+key: i Value: 1
+key: g Value: 1
+key: t Value: 1
+group result: 2640
+
+
+kcizgojlrnyhbetfmd
+drlcjtybkhmefionzg
+erihblomzdgkntcjfy
+nfmlrigzbejykdhtoc
+People: 4
+key: k Value: 4
+key: c Value: 4
+key: i Value: 4
+key: z Value: 4
+key: g Value: 4
+key: o Value: 4
+key: j Value: 4
+key: l Value: 4
+key: r Value: 4
+key: n Value: 4
+key: y Value: 4
+key: h Value: 4
+key: b Value: 4
+key: e Value: 4
+key: t Value: 4
+key: f Value: 4
+key: m Value: 4
+key: d Value: 4
+group result: 2658
+
+
+hbkfsjmpncuytgqd
+cewstfdnjgypmhqbu
+People: 2
+key: h Value: 2
+key: b Value: 2
+key: k Value: 1
+key: f Value: 2
+key: s Value: 2
+key: j Value: 2
+key: m Value: 2
+key: p Value: 2
+key: n Value: 2
+key: c Value: 2
+key: u Value: 2
+key: y Value: 2
+key: t Value: 2
+key: g Value: 2
+key: q Value: 2
+key: d Value: 2
+key: e Value: 1
+key: w Value: 1
+group result: 2673
+
+
+lnyupsfxzkdebhgwoamriqctv
+sqzptvgfcnworhuxiymbalde
+yflwhamutxobsdqncgpvezir
+qrysnohtbdzljwfvpgcmuxiea
+People: 4
+key: l Value: 4
+key: n Value: 4
+key: y Value: 4
+key: u Value: 4
+key: p Value: 4
+key: s Value: 4
+key: f Value: 4
+key: x Value: 4
+key: z Value: 4
+key: k Value: 1
+key: d Value: 4
+key: e Value: 4
+key: b Value: 4
+key: h Value: 4
+key: g Value: 4
+key: w Value: 4
+key: o Value: 4
+key: a Value: 4
+key: m Value: 4
+key: r Value: 4
+key: i Value: 4
+key: q Value: 4
+key: c Value: 4
+key: t Value: 4
+key: v Value: 4
+key: j Value: 1
+group result: 2697
+
+
+rkaqlw
+crkwuobal
+alwkr
+People: 3
+key: r Value: 3
+key: k Value: 3
+key: a Value: 3
+key: q Value: 1
+key: l Value: 3
+key: w Value: 3
+key: c Value: 1
+key: u Value: 1
+key: o Value: 1
+key: b Value: 1
+group result: 2702
+
+
+yehogdimsf
+levrtiphjcgdf
+wkeihgdsf
+fzqdesxngkhmia
+People: 4
+key: y Value: 1
+key: e Value: 4
+key: h Value: 4
+key: o Value: 1
+key: g Value: 4
+key: d Value: 4
+key: i Value: 4
+key: m Value: 2
+key: s Value: 3
+key: f Value: 4
+key: l Value: 1
+key: v Value: 1
+key: r Value: 1
+key: t Value: 1
+key: p Value: 1
+key: j Value: 1
+key: c Value: 1
+key: w Value: 1
+key: k Value: 2
+key: z Value: 1
+key: q Value: 1
+key: x Value: 1
+key: n Value: 1
+key: a Value: 1
+group result: 2708
+
+
+ovdmtba
+oamvur
+People: 2
+key: o Value: 2
+key: v Value: 2
+key: d Value: 1
+key: m Value: 2
+key: t Value: 1
+key: b Value: 1
+key: a Value: 2
+key: u Value: 1
+key: r Value: 1
+group result: 2712
+
+
+sfrwvczuopkjtldqyexngbmhia
+cayogtsqwbrimehvjflxknuzdp
+People: 2
+key: s Value: 2
+key: f Value: 2
+key: r Value: 2
+key: w Value: 2
+key: v Value: 2
+key: c Value: 2
+key: z Value: 2
+key: u Value: 2
+key: o Value: 2
+key: p Value: 2
+key: k Value: 2
+key: j Value: 2
+key: t Value: 2
+key: l Value: 2
+key: d Value: 2
+key: q Value: 2
+key: y Value: 2
+key: e Value: 2
+key: x Value: 2
+key: n Value: 2
+key: g Value: 2
+key: b Value: 2
+key: m Value: 2
+key: h Value: 2
+key: i Value: 2
+key: a Value: 2
+group result: 2738
+
+
+ghlawfdteobicxqu
+wacqbthguzfexoi
+couhigamqjpvfwtbsekx
+People: 3
+key: g Value: 3
+key: h Value: 3
+key: l Value: 1
+key: a Value: 3
+key: w Value: 3
+key: f Value: 3
+key: d Value: 1
+key: t Value: 3
+key: e Value: 3
+key: o Value: 3
+key: b Value: 3
+key: i Value: 3
+key: c Value: 3
+key: x Value: 3
+key: q Value: 3
+key: u Value: 3
+key: z Value: 1
+key: m Value: 1
+key: j Value: 1
+key: p Value: 1
+key: v Value: 1
+key: s Value: 1
+key: k Value: 1
+group result: 2752
+
+
+pznud
+nklpxd
+People: 2
+key: p Value: 2
+key: z Value: 1
+key: n Value: 2
+key: u Value: 1
+key: d Value: 2
+key: k Value: 1
+key: l Value: 1
+key: x Value: 1
+group result: 2755
+
+
+cpolfguxeaimjkq
+oaliefuxmkgwjqc
+ckiemqxagflowju
+yioqzuhcmafekjxrlg
+fogqkmileapxjubc
+People: 5
+key: c Value: 5
+key: p Value: 2
+key: o Value: 5
+key: l Value: 5
+key: f Value: 5
+key: g Value: 5
+key: u Value: 5
+key: x Value: 5
+key: e Value: 5
+key: a Value: 5
+key: i Value: 5
+key: m Value: 5
+key: j Value: 5
+key: k Value: 5
+key: q Value: 5
+key: w Value: 2
+key: y Value: 1
+key: z Value: 1
+key: h Value: 1
+key: r Value: 1
+key: b Value: 1
+group result: 2769
+
+
+odrtypjgnhuifmxv
+mfxpjnzhoitwygruk
+People: 2
+key: o Value: 2
+key: d Value: 1
+key: r Value: 2
+key: t Value: 2
+key: y Value: 2
+key: p Value: 2
+key: j Value: 2
+key: g Value: 2
+key: n Value: 2
+key: h Value: 2
+key: u Value: 2
+key: i Value: 2
+key: f Value: 2
+key: m Value: 2
+key: x Value: 2
+key: v Value: 1
+key: z Value: 1
+key: w Value: 1
+key: k Value: 1
+group result: 2783
+
+
+atmfbz
+tcma
+People: 2
+key: a Value: 2
+key: t Value: 2
+key: m Value: 2
+key: f Value: 1
+key: b Value: 1
+key: z Value: 1
+key: c Value: 1
+group result: 2786
+
+
+rfpesujl
+duxmejc
+jzxynvogtbdequ
+People: 3
+key: r Value: 1
+key: f Value: 1
+key: p Value: 1
+key: e Value: 3
+key: s Value: 1
+key: u Value: 3
+key: j Value: 3
+key: l Value: 1
+key: d Value: 2
+key: x Value: 2
+key: m Value: 1
+key: c Value: 1
+key: z Value: 1
+key: y Value: 1
+key: n Value: 1
+key: v Value: 1
+key: o Value: 1
+key: g Value: 1
+key: t Value: 1
+key: b Value: 1
+key: q Value: 1
+group result: 2789
+
+
+on
+on
+People: 2
+key: o Value: 2
+key: n Value: 2
+group result: 2791
+
+
+fwbvnmyh
+inmhfybvw
+bywmvhnf
+vfynwhmb
+People: 4
+key: f Value: 4
+key: w Value: 4
+key: b Value: 4
+key: v Value: 4
+key: n Value: 4
+key: m Value: 4
+key: y Value: 4
+key: h Value: 4
+key: i Value: 1
+group result: 2799
+
+
+kweqzphagnbd
+ftphezwngmv
+ugyncshezip
+People: 3
+key: k Value: 1
+key: w Value: 2
+key: e Value: 3
+key: q Value: 1
+key: z Value: 3
+key: p Value: 3
+key: h Value: 3
+key: a Value: 1
+key: g Value: 3
+key: n Value: 3
+key: b Value: 1
+key: d Value: 1
+key: f Value: 1
+key: t Value: 1
+key: m Value: 1
+key: v Value: 1
+key: u Value: 1
+key: y Value: 1
+key: c Value: 1
+key: s Value: 1
+key: i Value: 1
+group result: 2805
+
+
+zfxsrhdqjoyb
+jszhfrqybdxo
+brdxysfzoqjh
+rjfzxshyboqd
+rfxyzhdoqjbks
+People: 5
+key: z Value: 5
+key: f Value: 5
+key: x Value: 5
+key: s Value: 5
+key: r Value: 5
+key: h Value: 5
+key: d Value: 5
+key: q Value: 5
+key: j Value: 5
+key: o Value: 5
+key: y Value: 5
+key: b Value: 5
+key: k Value: 1
+group result: 2817
+
+
+mloyxu
+vfieh
+People: 2
+key: m Value: 1
+key: l Value: 1
+key: o Value: 1
+key: y Value: 1
+key: x Value: 1
+key: u Value: 1
+key: v Value: 1
+key: f Value: 1
+key: i Value: 1
+key: e Value: 1
+key: h Value: 1
+group result: 2817
+
+
+flswu
+bfozhsrw
+fsw
+kwfds
+People: 4
+key: f Value: 4
+key: l Value: 1
+key: s Value: 4
+key: w Value: 4
+key: u Value: 1
+key: b Value: 1
+key: o Value: 1
+key: z Value: 1
+key: h Value: 1
+key: r Value: 1
+key: k Value: 1
+key: d Value: 1
+group result: 2820
+
+
+qcmapueyrvzki
+xnthjgdwf
+People: 2
+key: q Value: 1
+key: c Value: 1
+key: m Value: 1
+key: a Value: 1
+key: p Value: 1
+key: u Value: 1
+key: e Value: 1
+key: y Value: 1
+key: r Value: 1
+key: v Value: 1
+key: z Value: 1
+key: k Value: 1
+key: i Value: 1
+key: x Value: 1
+key: n Value: 1
+key: t Value: 1
+key: h Value: 1
+key: j Value: 1
+key: g Value: 1
+key: d Value: 1
+key: w Value: 1
+key: f Value: 1
+group result: 2820
+
+
+avn
+anv
+cavon
+People: 3
+key: a Value: 3
+key: v Value: 3
+key: n Value: 3
+key: c Value: 1
+key: o Value: 1
+group result: 2823
+
+
+lvdhrz
+lvhzrd
+vhrdzl
+People: 3
+key: l Value: 3
+key: v Value: 3
+key: d Value: 3
+key: h Value: 3
+key: r Value: 3
+key: z Value: 3
+group result: 2829
+
+
+kthsozafpm
+nxaverjibgocl
+wmyuado
+People: 3
+key: k Value: 1
+key: t Value: 1
+key: h Value: 1
+key: s Value: 1
+key: o Value: 3
+key: z Value: 1
+key: a Value: 3
+key: f Value: 1
+key: p Value: 1
+key: m Value: 2
+key: n Value: 1
+key: x Value: 1
+key: v Value: 1
+key: e Value: 1
+key: r Value: 1
+key: j Value: 1
+key: i Value: 1
+key: b Value: 1
+key: g Value: 1
+key: c Value: 1
+key: l Value: 1
+key: w Value: 1
+key: y Value: 1
+key: u Value: 1
+key: d Value: 1
+group result: 2831
+
+
+mxwybevtsdkzrq
+rbsqweynkxzdmv
+vdyzbmqxejwrsk
+People: 3
+key: m Value: 3
+key: x Value: 3
+key: w Value: 3
+key: y Value: 3
+key: b Value: 3
+key: e Value: 3
+key: v Value: 3
+key: t Value: 1
+key: s Value: 3
+key: d Value: 3
+key: k Value: 3
+key: z Value: 3
+key: r Value: 3
+key: q Value: 3
+key: n Value: 1
+key: j Value: 1
+group result: 2844
+
+
+qw
+bwj
+vcew
+lw
+w
+People: 5
+key: q Value: 1
+key: w Value: 5
+key: b Value: 1
+key: j Value: 1
+key: v Value: 1
+key: c Value: 1
+key: e Value: 1
+key: l Value: 1
+group result: 2845
+
+
+djvk
+jdkvu
+kjd
+rdkcezj
+People: 4
+key: d Value: 4
+key: j Value: 4
+key: v Value: 2
+key: k Value: 4
+key: u Value: 1
+key: r Value: 1
+key: c Value: 1
+key: e Value: 1
+key: z Value: 1
+group result: 2848
+
+
+jvydnmoiszp
+bglirhwa
+People: 2
+key: j Value: 1
+key: v Value: 1
+key: y Value: 1
+key: d Value: 1
+key: n Value: 1
+key: m Value: 1
+key: o Value: 1
+key: i Value: 2
+key: s Value: 1
+key: z Value: 1
+key: p Value: 1
+key: b Value: 1
+key: g Value: 1
+key: l Value: 1
+key: r Value: 1
+key: h Value: 1
+key: w Value: 1
+key: a Value: 1
+group result: 2849
+
+
+icuzoqfdwbjlyhegapvsxt
+lypjieabuotxgcdhqszfwv
+hwyijspgabutldxvoczqfe
+bswhptyvefclugjodizxqa
+edihqsjtcxwpyzblfgvoua
+People: 5
+key: i Value: 5
+key: c Value: 5
+key: u Value: 5
+key: z Value: 5
+key: o Value: 5
+key: q Value: 5
+key: f Value: 5
+key: d Value: 5
+key: w Value: 5
+key: b Value: 5
+key: j Value: 5
+key: l Value: 5
+key: y Value: 5
+key: h Value: 5
+key: e Value: 5
+key: g Value: 5
+key: a Value: 5
+key: p Value: 5
+key: v Value: 5
+key: s Value: 5
+key: x Value: 5
+key: t Value: 5
+group result: 2871
+
+
+o
+gq
+o
+People: 3
+key: o Value: 2
+key: g Value: 1
+key: q Value: 1
+group result: 2871
+
+
+sb
+axro
+sw
+People: 3
+key: s Value: 2
+key: b Value: 1
+key: a Value: 1
+key: x Value: 1
+key: r Value: 1
+key: o Value: 1
+key: w Value: 1
+group result: 2871
+
+
+nmkyft
+fgktypjs
+ftvky
+fyztk
+tkfy
+People: 5
+key: n Value: 1
+key: m Value: 1
+key: k Value: 5
+key: y Value: 5
+key: f Value: 5
+key: t Value: 5
+key: g Value: 1
+key: p Value: 1
+key: j Value: 1
+key: s Value: 1
+key: v Value: 1
+key: z Value: 1
+group result: 2875
+
+
+dgkxmyeficrhualpnvs
+kefsldzyphnumvaigx
+vsxqoflupgmaidyenkh
+yluvxqpgndkaimfhse
+People: 4
+key: d Value: 4
+key: g Value: 4
+key: k Value: 4
+key: x Value: 4
+key: m Value: 4
+key: y Value: 4
+key: e Value: 4
+key: f Value: 4
+key: i Value: 4
+key: c Value: 1
+key: r Value: 1
+key: h Value: 4
+key: u Value: 4
+key: a Value: 4
+key: l Value: 4
+key: p Value: 4
+key: n Value: 4
+key: v Value: 4
+key: s Value: 4
+key: z Value: 1
+key: q Value: 2
+key: o Value: 1
+group result: 2892
+
+
+yhwckdbfujtpminaq
+qfjhgpukmcobwid
+fchqsrjxpvlzkimb
+People: 3
+key: y Value: 1
+key: h Value: 3
+key: w Value: 2
+key: c Value: 3
+key: k Value: 3
+key: d Value: 2
+key: b Value: 3
+key: f Value: 3
+key: u Value: 2
+key: j Value: 3
+key: t Value: 1
+key: p Value: 3
+key: m Value: 3
+key: i Value: 3
+key: n Value: 1
+key: a Value: 1
+key: q Value: 3
+key: g Value: 1
+key: o Value: 1
+key: s Value: 1
+key: r Value: 1
+key: x Value: 1
+key: v Value: 1
+key: l Value: 1
+key: z Value: 1
+group result: 2902
+
+
+wlhantpvmydbzjk
+nahtdkzjmywpv
+jevahszfprdkmwytn
+People: 3
+key: w Value: 3
+key: l Value: 1
+key: h Value: 3
+key: a Value: 3
+key: n Value: 3
+key: t Value: 3
+key: p Value: 3
+key: v Value: 3
+key: m Value: 3
+key: y Value: 3
+key: d Value: 3
+key: b Value: 1
+key: z Value: 3
+key: j Value: 3
+key: k Value: 3
+key: e Value: 1
+key: s Value: 1
+key: f Value: 1
+key: r Value: 1
+group result: 2915
+
+
+sfqcrtv
+frt
+frt
+tprf
+tfrh
+People: 5
+key: s Value: 1
+key: f Value: 5
+key: q Value: 1
+key: c Value: 1
+key: r Value: 5
+key: t Value: 5
+key: v Value: 1
+key: p Value: 1
+key: h Value: 1
+group result: 2918
+
+
+hvobcgqfdutm
+gamtpkcbqwvuhn
+uvbcqxhtgm
+tdmhgvbcuq
+fqmuchtvgdb
+People: 5
+key: h Value: 5
+key: v Value: 5
+key: o Value: 1
+key: b Value: 5
+key: c Value: 5
+key: g Value: 5
+key: q Value: 5
+key: f Value: 2
+key: d Value: 3
+key: u Value: 5
+key: t Value: 5
+key: m Value: 5
+key: a Value: 1
+key: p Value: 1
+key: k Value: 1
+key: w Value: 1
+key: n Value: 1
+key: x Value: 1
+group result: 2927
+
+
+jxoc
+jxoc
+jxco
+People: 3
+key: j Value: 3
+key: x Value: 3
+key: o Value: 3
+key: c Value: 3
+group result: 2931
+
+
+uzybvip
+dotieypbwu
+ikbspyugx
+People: 3
+key: u Value: 3
+key: z Value: 1
+key: y Value: 3
+key: b Value: 3
+key: v Value: 1
+key: i Value: 3
+key: p Value: 3
+key: d Value: 1
+key: o Value: 1
+key: t Value: 1
+key: e Value: 1
+key: w Value: 1
+key: k Value: 1
+key: s Value: 1
+key: g Value: 1
+key: x Value: 1
+group result: 2936
+
+
+eqhwdmtlizyvuksjbc
+keutmlrqxnbod
+rdqnmlbuket
+bdklqrfetmu
+People: 4
+key: e Value: 4
+key: q Value: 4
+key: h Value: 1
+key: w Value: 1
+key: d Value: 4
+key: m Value: 4
+key: t Value: 4
+key: l Value: 4
+key: i Value: 1
+key: z Value: 1
+key: y Value: 1
+key: v Value: 1
+key: u Value: 4
+key: k Value: 4
+key: s Value: 1
+key: j Value: 1
+key: b Value: 4
+key: c Value: 1
+key: r Value: 3
+key: x Value: 1
+key: n Value: 2
+key: o Value: 1
+key: f Value: 1
+group result: 2945
+
+
+byvhscwt
+cvwb
+vbwc
+cbwv
+vcwb
+People: 5
+key: b Value: 5
+key: y Value: 1
+key: v Value: 5
+key: h Value: 1
+key: s Value: 1
+key: c Value: 5
+key: w Value: 5
+key: t Value: 1
+group result: 2949
+
+
+qb
+ri
+o
+v
+b
+People: 5
+key: q Value: 1
+key: b Value: 2
+key: r Value: 1
+key: i Value: 1
+key: o Value: 1
+key: v Value: 1
+group result: 2949
+
+
+csfjmh
+hpqsfjz
+hsfmj
+jfhse
+jshf
+People: 5
+key: c Value: 1
+key: s Value: 5
+key: f Value: 5
+key: j Value: 5
+key: m Value: 2
+key: h Value: 5
+key: p Value: 1
+key: q Value: 1
+key: z Value: 1
+key: e Value: 1
+group result: 2953
+
+
+ubjpnxcoltzhrsmkiwva
+primkxnzljbtohcasuwv
+xrtmockuvzalwbjshpni
+bunwycjzgikhotsrvmapxl
+cvxsnpkairjhobtlwzmu
+People: 5
+key: u Value: 5
+key: b Value: 5
+key: j Value: 5
+key: p Value: 5
+key: n Value: 5
+key: x Value: 5
+key: c Value: 5
+key: o Value: 5
+key: l Value: 5
+key: t Value: 5
+key: z Value: 5
+key: h Value: 5
+key: r Value: 5
+key: s Value: 5
+key: m Value: 5
+key: k Value: 5
+key: i Value: 5
+key: w Value: 5
+key: v Value: 5
+key: a Value: 5
+key: y Value: 1
+key: g Value: 1
+group result: 2973
+
+
+wamkifotyqxhdcezjbln
+afihocljxnkwqdmtzyeb
+People: 2
+key: w Value: 2
+key: a Value: 2
+key: m Value: 2
+key: k Value: 2
+key: i Value: 2
+key: f Value: 2
+key: o Value: 2
+key: t Value: 2
+key: y Value: 2
+key: q Value: 2
+key: x Value: 2
+key: h Value: 2
+key: d Value: 2
+key: c Value: 2
+key: e Value: 2
+key: z Value: 2
+key: j Value: 2
+key: b Value: 2
+key: l Value: 2
+key: n Value: 2
+group result: 2993
+
+
+ysnukcpaxbw
+kpqbcwtumxysn
+lbpknsxwcuy
+fbnupywdcksxgvj
+bsqytkxnuocpwe
+People: 5
+key: y Value: 5
+key: s Value: 5
+key: n Value: 5
+key: u Value: 5
+key: k Value: 5
+key: c Value: 5
+key: p Value: 5
+key: a Value: 1
+key: x Value: 5
+key: b Value: 5
+key: w Value: 5
+key: q Value: 2
+key: t Value: 2
+key: m Value: 1
+key: l Value: 1
+key: f Value: 1
+key: d Value: 1
+key: g Value: 1
+key: v Value: 1
+key: j Value: 1
+key: o Value: 1
+key: e Value: 1
+group result: 3003
+
+
+lhpsuvgcmeqzj
+gjzphexlcvms
+hmljrocgwivtzkpase
+vcjlzuqdgpfhems
+evclzhbmpuxgysj
+People: 5
+key: l Value: 5
+key: h Value: 5
+key: p Value: 5
+key: s Value: 5
+key: u Value: 3
+key: v Value: 5
+key: g Value: 5
+key: c Value: 5
+key: m Value: 5
+key: e Value: 5
+key: q Value: 2
+key: z Value: 5
+key: j Value: 5
+key: x Value: 2
+key: r Value: 1
+key: o Value: 1
+key: w Value: 1
+key: i Value: 1
+key: t Value: 1
+key: k Value: 1
+key: a Value: 1
+key: d Value: 1
+key: f Value: 1
+key: b Value: 1
+key: y Value: 1
+group result: 3014
+
+
+zrawojsquknbihmepgxyv
+qefaowrgumldkbx
+qgekuxmcaflrbow
+People: 3
+key: z Value: 1
+key: r Value: 3
+key: a Value: 3
+key: w Value: 3
+key: o Value: 3
+key: j Value: 1
+key: s Value: 1
+key: q Value: 3
+key: u Value: 3
+key: k Value: 3
+key: n Value: 1
+key: b Value: 3
+key: i Value: 1
+key: h Value: 1
+key: m Value: 3
+key: e Value: 3
+key: p Value: 1
+key: g Value: 3
+key: x Value: 3
+key: y Value: 1
+key: v Value: 1
+key: f Value: 2
+key: l Value: 2
+key: d Value: 1
+key: c Value: 1
+group result: 3026
+
+
+xlza
+xzajl
+aryzlx
+xaclzj
+axzl
+People: 5
+key: x Value: 5
+key: l Value: 5
+key: z Value: 5
+key: a Value: 5
+key: j Value: 2
+key: r Value: 1
+key: y Value: 1
+key: c Value: 1
+group result: 3030
+
+
+cv
+cv
+cv
+vc
+cv
+People: 5
+key: c Value: 5
+key: v Value: 5
+group result: 3032
+
+
+brohlqgmzwiyvjkef
+nolmufhkwygjcevb
+People: 2
+key: b Value: 2
+key: r Value: 1
+key: o Value: 2
+key: h Value: 2
+key: l Value: 2
+key: q Value: 1
+key: g Value: 2
+key: m Value: 2
+key: z Value: 1
+key: w Value: 2
+key: i Value: 1
+key: y Value: 2
+key: v Value: 2
+key: j Value: 2
+key: k Value: 2
+key: e Value: 2
+key: f Value: 2
+key: n Value: 1
+key: u Value: 1
+key: c Value: 1
+group result: 3045
+
+
+mjayudk
+ci
+wcnsxo
+fc
+People: 4
+key: m Value: 1
+key: j Value: 1
+key: a Value: 1
+key: y Value: 1
+key: u Value: 1
+key: d Value: 1
+key: k Value: 1
+key: c Value: 3
+key: i Value: 1
+key: w Value: 1
+key: n Value: 1
+key: s Value: 1
+key: x Value: 1
+key: o Value: 1
+key: f Value: 1
+group result: 3045
+
+
+alvcxywzhperjqmdkn
+lwmesakjxcpdznvryhq
+kzdcprxevjhyamwlnq
+People: 3
+key: a Value: 3
+key: l Value: 3
+key: v Value: 3
+key: c Value: 3
+key: x Value: 3
+key: y Value: 3
+key: w Value: 3
+key: z Value: 3
+key: h Value: 3
+key: p Value: 3
+key: e Value: 3
+key: r Value: 3
+key: j Value: 3
+key: q Value: 3
+key: m Value: 3
+key: d Value: 3
+key: k Value: 3
+key: n Value: 3
+key: s Value: 1
+group result: 3063
+
+
+exr
+er
+People: 2
+key: e Value: 2
+key: x Value: 1
+key: r Value: 2
+group result: 3065
+
+
+nexlqvsawjbkfrhutcygzpdom
+qmbfjkgsvtiydelruaphzxwco
+zqjkumlhstafpvbxdweogrcyi
+People: 3
+key: n Value: 1
+key: e Value: 3
+key: x Value: 3
+key: l Value: 3
+key: q Value: 3
+key: v Value: 3
+key: s Value: 3
+key: a Value: 3
+key: w Value: 3
+key: j Value: 3
+key: b Value: 3
+key: k Value: 3
+key: f Value: 3
+key: r Value: 3
+key: h Value: 3
+key: u Value: 3
+key: t Value: 3
+key: c Value: 3
+key: y Value: 3
+key: g Value: 3
+key: z Value: 3
+key: p Value: 3
+key: d Value: 3
+key: o Value: 3
+key: m Value: 3
+key: i Value: 2
+group result: 3089
+
+
+l
+l
+l
+People: 3
+key: l Value: 3
+group result: 3090
+
+
+eoqxjms
+okqmefsxdhb
+People: 2
+key: e Value: 2
+key: o Value: 2
+key: q Value: 2
+key: x Value: 2
+key: j Value: 1
+key: m Value: 2
+key: s Value: 2
+key: k Value: 1
+key: f Value: 1
+key: d Value: 1
+key: h Value: 1
+key: b Value: 1
+group result: 3096
+
+
+b
+b
+b
+b
+People: 4
+key: b Value: 4
+group result: 3097
+
+
+mwfadliuhgskrejn
+berhwinfljmdausgk
+xzfjimunsltraqcwehg
+People: 3
+key: m Value: 3
+key: w Value: 3
+key: f Value: 3
+key: a Value: 3
+key: d Value: 2
+key: l Value: 3
+key: i Value: 3
+key: u Value: 3
+key: h Value: 3
+key: g Value: 3
+key: s Value: 3
+key: k Value: 2
+key: r Value: 3
+key: e Value: 3
+key: j Value: 3
+key: n Value: 3
+key: b Value: 1
+key: x Value: 1
+key: z Value: 1
+key: t Value: 1
+key: q Value: 1
+key: c Value: 1
+group result: 3111
+
+
+otf
+vhuap
+lkn
+d
+People: 4
+key: o Value: 1
+key: t Value: 1
+key: f Value: 1
+key: v Value: 1
+key: h Value: 1
+key: u Value: 1
+key: a Value: 1
+key: p Value: 1
+key: l Value: 1
+key: k Value: 1
+key: n Value: 1
+key: d Value: 1
+group result: 3111
+
+
+eabxzpfjuytwrg
+xreqgynzpiufbjatwl
+pbzuajwgcrtmyxfe
+People: 3
+key: e Value: 3
+key: a Value: 3
+key: b Value: 3
+key: x Value: 3
+key: z Value: 3
+key: p Value: 3
+key: f Value: 3
+key: j Value: 3
+key: u Value: 3
+key: y Value: 3
+key: t Value: 3
+key: w Value: 3
+key: r Value: 3
+key: g Value: 3
+key: q Value: 1
+key: n Value: 1
+key: i Value: 1
+key: l Value: 1
+key: c Value: 1
+key: m Value: 1
+group result: 3125
+
+
+dvwcr
+rdwvc
+People: 2
+key: d Value: 2
+key: v Value: 2
+key: w Value: 2
+key: c Value: 2
+key: r Value: 2
+group result: 3130
+
+
+qio
+qoi
+ioq
+oqi
+People: 4
+key: q Value: 4
+key: i Value: 4
+key: o Value: 4
+group result: 3133
+
+
+jbyi
+ojirb
+jiba
+bjig
+ijb
+People: 5
+key: j Value: 5
+key: b Value: 5
+key: y Value: 1
+key: i Value: 5
+key: o Value: 1
+key: r Value: 1
+key: a Value: 1
+key: g Value: 1
+group result: 3136
+
+
+dprgjzib
+jprqg
+xajpewhrg
+People: 3
+key: d Value: 1
+key: p Value: 3
+key: r Value: 3
+key: g Value: 3
+key: j Value: 3
+key: z Value: 1
+key: i Value: 1
+key: b Value: 1
+key: q Value: 1
+key: x Value: 1
+key: a Value: 1
+key: e Value: 1
+key: w Value: 1
+key: h Value: 1
+group result: 3140
+
+
+ehgvwcxydpal
+pdcnuawygebx
+People: 2
+key: e Value: 2
+key: h Value: 1
+key: g Value: 2
+key: v Value: 1
+key: w Value: 2
+key: c Value: 2
+key: x Value: 2
+key: y Value: 2
+key: d Value: 2
+key: p Value: 2
+key: a Value: 2
+key: l Value: 1
+key: n Value: 1
+key: u Value: 1
+key: b Value: 1
+group result: 3149
+
+
+mapdoqswbzenick
+cgqyxmwsvaeihpjzofb
+People: 2
+key: m Value: 2
+key: a Value: 2
+key: p Value: 2
+key: d Value: 1
+key: o Value: 2
+key: q Value: 2
+key: s Value: 2
+key: w Value: 2
+key: b Value: 2
+key: z Value: 2
+key: e Value: 2
+key: n Value: 1
+key: i Value: 2
+key: c Value: 2
+key: k Value: 1
+key: g Value: 1
+key: y Value: 1
+key: x Value: 1
+key: v Value: 1
+key: h Value: 1
+key: j Value: 1
+key: f Value: 1
+group result: 3161
+
+
+xqphsmjwblofntv
+mtejqivalgun
+People: 2
+key: x Value: 1
+key: q Value: 2
+key: p Value: 1
+key: h Value: 1
+key: s Value: 1
+key: m Value: 2
+key: j Value: 2
+key: w Value: 1
+key: b Value: 1
+key: l Value: 2
+key: o Value: 1
+key: f Value: 1
+key: n Value: 2
+key: t Value: 2
+key: v Value: 2
+key: e Value: 1
+key: i Value: 1
+key: a Value: 1
+key: g Value: 1
+key: u Value: 1
+group result: 3168
+
+
+xngvtoihcur
+oipgvtxcunrh
+People: 2
+key: x Value: 2
+key: n Value: 2
+key: g Value: 2
+key: v Value: 2
+key: t Value: 2
+key: o Value: 2
+key: i Value: 2
+key: h Value: 2
+key: c Value: 2
+key: u Value: 2
+key: r Value: 2
+key: p Value: 1
+group result: 3179
+
+
+dihof
+ifh
+fhiw
+hfiw
+hif
+People: 5
+key: d Value: 1
+key: i Value: 5
+key: h Value: 5
+key: o Value: 1
+key: f Value: 5
+key: w Value: 2
+group result: 3182
+
+
+ctrq
+txziwjcvl
+oanymhtd
+krexztpgus
+tvsi
+People: 5
+key: c Value: 2
+key: t Value: 5
+key: r Value: 2
+key: q Value: 1
+key: x Value: 2
+key: z Value: 2
+key: i Value: 2
+key: w Value: 1
+key: j Value: 1
+key: v Value: 2
+key: l Value: 1
+key: o Value: 1
+key: a Value: 1
+key: n Value: 1
+key: y Value: 1
+key: m Value: 1
+key: h Value: 1
+key: d Value: 1
+key: k Value: 1
+key: e Value: 1
+key: p Value: 1
+key: g Value: 1
+key: u Value: 1
+key: s Value: 2
+group result: 3183
+
+
+cqkvfn
+fvnkc
+npofwkxrcd
+ucfnk
+People: 4
+key: c Value: 4
+key: q Value: 1
+key: k Value: 4
+key: v Value: 2
+key: f Value: 4
+key: n Value: 4
+key: p Value: 1
+key: o Value: 1
+key: w Value: 1
+key: x Value: 1
+key: r Value: 1
+key: d Value: 1
+key: u Value: 1
+group result: 3187
+
+
+lnb
+bn
+bn
+nb
+People: 4
+key: l Value: 1
+key: n Value: 4
+key: b Value: 4
+group result: 3189
+
+
+pukncdrbeyvwsaqjohxgfltm
+qjepzvgwaxybrultfcsmkon
+People: 2
+key: p Value: 2
+key: u Value: 2
+key: k Value: 2
+key: n Value: 2
+key: c Value: 2
+key: d Value: 1
+key: r Value: 2
+key: b Value: 2
+key: e Value: 2
+key: y Value: 2
+key: v Value: 2
+key: w Value: 2
+key: s Value: 2
+key: a Value: 2
+key: q Value: 2
+key: j Value: 2
+key: o Value: 2
+key: h Value: 1
+key: x Value: 2
+key: g Value: 2
+key: f Value: 2
+key: l Value: 2
+key: t Value: 2
+key: m Value: 2
+key: z Value: 1
+group result: 3211
+
+
+nlczsygmdabuorweqjhxfitv
+nmuvojghteyaxibwldsqrzfc
+mihetjnswbyzdvufcogxaqrl
+iulxgqfoctnjhvrawbzemsdy
+exugdvclmqfzsojiwnbarhty
+
+People: 6
+key: n Value: 5
+key: l Value: 5
+key: c Value: 5
+key: z Value: 5
+key: s Value: 5
+key: y Value: 5
+key: g Value: 5
+key: m Value: 5
+key: d Value: 5
+key: a Value: 5
+key: b Value: 5
+key: u Value: 5
+key: o Value: 5
+key: r Value: 5
+key: w Value: 5
+key: e Value: 5
+key: q Value: 5
+key: j Value: 5
+key: h Value: 5
+key: x Value: 5
+key: f Value: 5
+key: i Value: 5
+key: t Value: 5
+key: v Value: 5
+group result: 3211
+
+
+3211
